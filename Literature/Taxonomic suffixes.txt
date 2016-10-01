@@ -1,0 +1,6 @@
+Standard endings: 
+Superfamilies:	-oidea
+Families: 	-idae
+Subfamilies: 	-inae
+Tribes: 	-ini
+Subtribe: 	-ina

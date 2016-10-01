@@ -1,0 +1,2384 @@
+NA,NA,NA,,,
+Aphelinidae,Aphelinus,asychis,Angola,-11.8775767,17.5691241
+Aphelinidae,Aphelinus,asychis,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Aphelinus,asychis,Queensland,-21.9182855,144.4588889
+Aphelinidae,Aphelinus,asychis,Azerbaijan,40.3936294,47.7872508
+Aphelinidae,Aphelinus,asychis,Mato Groso,-12.2115008,-55.5716546
+Aphelinidae,Aphelinus,asychis,Canary Islands,28.5306525,-15.7464438
+Aphelinidae,Aphelinus,asychis,Chile,-31.7613364,-71.3187696
+Aphelinidae,Aphelinus,asychis,Colombia,2.893108,-73.7845142
+Aphelinidae,Aphelinus,asychis,Croatia,45.5643442,17.0118954
+Aphelinidae,Aphelinus,asychis,Czech Republic,49.8167003,15.4749544
+Aphelinidae,Aphelinus,asychis,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphelinus,asychis,Finland,63.2467777,25.9209164
+Aphelinidae,Aphelinus,asychis,France,46.603354,1.8883335
+Aphelinidae,Aphelinus,asychis,Georgia,41.6809707,44.0287382
+Aphelinidae,Aphelinus,asychis,Germany,51.0834196,10.4234469
+Aphelinidae,Aphelinus,asychis,Greece,39.000041,21.9999569
+Aphelinidae,Aphelinus,asychis,Hungary,47.1817585,19.5060937
+Aphelinidae,Aphelinus,asychis,Himachal Pradesh,31.9292352,77.1828462
+Aphelinidae,Aphelinus,asychis,Jammu & Kashmir,34.0476564,76.7972892
+Aphelinidae,Aphelinus,asychis,Karnataka,14.5203896,75.7223521
+Aphelinidae,Aphelinus,asychis,Meghalaya,25.5379432,91.2999102
+Aphelinidae,Aphelinus,asychis,Uttar Pradesh,27.1303344,80.859666
+Aphelinidae,Aphelinus,asychis,Uttarakhand,30.0417376,79.089691
+Aphelinidae,Aphelinus,asychis,West Bengal,22.9964948,87.6855882
+Aphelinidae,Aphelinus,asychis,Iran,32.9407496,52.9471344
+Aphelinidae,Aphelinus,asychis,Iraq,33.0955793,44.1749775
+Aphelinidae,Aphelinus,asychis,Israel,30.8760272,35.0015196
+Aphelinidae,Aphelinus,asychis,Sicily,37.587794,14.155048
+Aphelinidae,Aphelinus,asychis,Japan,36.5748441,139.2394179
+Aphelinidae,Aphelinus,asychis,Mexico,19.4326009,-99.1333415
+Aphelinidae,Aphelinus,asychis,Morocco,31.1728192,-7.3366042
+Aphelinidae,Aphelinus,asychis,Nepal,28.1082107,84.0917515
+Aphelinidae,Aphelinus,asychis,Netherlands,52.2379891,5.53460738162
+Aphelinidae,Aphelinus,asychis,Pakistan,30.3308401,71.247499
+Aphelinidae,Aphelinus,asychis,Ningxia (Ningsia),37.0000001,105.9999999
+Aphelinidae,Aphelinus,asychis,Portugal,40.033265,-7.8896262
+Aphelinidae,Aphelinus,asychis,St. Petersberg (Leningrad),59.9393657,30.3153628
+Aphelinidae,Aphelinus,asychis,Slovakia,48.7411522,19.4528646
+Aphelinidae,Aphelinus,asychis,South Africa,-28.8166235,24.991639
+Aphelinidae,Aphelinus,asychis,Sweden,59.6749712,14.5208584
+Aphelinidae,Aphelinus,asychis,Tselinograd Obl.,51.15092055,71.4388595155
+Aphelinidae,Aphelinus,asychis,Turkey,38.9597594,34.9249653
+Aphelinidae,Aphelinus,asychis,Ukraine,49.4871968,31.2718321
+Aphelinidae,Aphelinus,asychis,England,52.7954791,-0.540240236617
+Aphelinidae,Aphelinus,asychis,Wales,52.2928116,-3.7389299
+Aphelinidae,Aphelinus,asychis,California,36.7014631,-118.7559973
+Aphelinidae,Aphelinus,asychis,Colorado,38.7251776,-105.6077166
+Aphelinidae,Aphelinus,asychis,Oklahoma,34.9550817,-97.2684062
+Aphelinidae,Aphelinus,asychis,Texas,31.8160381,-99.5120985
+Aphelinidae,Aphelinus,asychis,Washington,38.8949549,-77.0366455
+Aphelinidae,Aphelinus,asychis,Wyoming,43.1700264,-107.5685347
+NA,NA,NA,,,
+Aphelinidae,Aphelinus,jucundus,Ontario,50.0000002,-86
+Aphelinidae,Aphelinus,jucundus,Quebec,54,-71.9999999
+Aphelinidae,Aphelinus,jucundus,Hawaii,21.2160437,-157.9752029
+Aphelinidae,Aphelinus,jucundus,California,36.7014631,-118.7559973
+Aphelinidae,Aphelinus,jucundus,New York,40.7305991,-73.9865811
+Aphelinidae,Aphelinus,jucundus,Oregon,43.9792797,-120.7372569
+Aphelinidae,Aphelinus,jucundus,Wisconsin,44.4308975,-89.6884636
+NA,NA,NA,,,
+Aphelinidae,Aphelinus,semiflavus,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Aphelinus,semiflavus,Sao Paulo,-21.9549805,-49.0232347
+Aphelinidae,Aphelinus,semiflavus,Manitoba,55.0000001,-97
+Aphelinidae,Aphelinus,semiflavus,Ontario,50.0000002,-86
+Aphelinidae,Aphelinus,semiflavus,Germany,51.0834196,10.4234469
+Aphelinidae,Aphelinus,semiflavus,Hawaii,21.2160437,-157.9752029
+Aphelinidae,Aphelinus,semiflavus,India,22.3511148,78.6677428
+Aphelinidae,Aphelinus,semiflavus,Iran,32.9407496,52.9471344
+Aphelinidae,Aphelinus,semiflavus,Israel,30.8760272,35.0015196
+Aphelinidae,Aphelinus,semiflavus,Italy,42.6384261,12.674297
+Aphelinidae,Aphelinus,semiflavus,Spain,40.0028028,-4.0031039
+Aphelinidae,Aphelinus,semiflavus,Turkey,38.9597594,34.9249653
+Aphelinidae,Aphelinus,semiflavus,California,36.7014631,-118.7559973
+Aphelinidae,Aphelinus,semiflavus,Colorado,38.7251776,-105.6077166
+Aphelinidae,Aphelinus,semiflavus,Indiana,40.3270127,-86.1746932
+Aphelinidae,Aphelinus,semiflavus,Kansas,38.27312,-98.5821871
+Aphelinidae,Aphelinus,semiflavus,Maine,45.709097,-68.85902
+Aphelinidae,Aphelinus,semiflavus,Massachusetts,42.3788774,-72.0323659
+Aphelinidae,Aphelinus,semiflavus,Minnesota,45.9896587,-94.6113287
+Aphelinidae,Aphelinus,semiflavus,Nebraska,41.7370229,-99.5873815
+Aphelinidae,Aphelinus,semiflavus,New Mexico,34.5708167,-105.9930069
+Aphelinidae,Aphelinus,semiflavus,New York,40.7305991,-73.9865811
+Aphelinidae,Aphelinus,semiflavus,Ohio,40.2253569,-82.6881394
+Aphelinidae,Aphelinus,semiflavus,Oklahoma,34.9550817,-97.2684062
+NA,NA,NA,,,
+Aphelinidae,Aphytis,aonidiae,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Aphytis,aonidiae,Armenia,40.7696272,44.6736646
+Aphelinidae,Aphytis,aonidiae,Chile,-31.7613364,-71.3187696
+Aphelinidae,Aphytis,aonidiae,Cyprus,34.9823018,33.1451285
+Aphelinidae,Aphytis,aonidiae,Czech Republic,49.8167003,15.4749544
+Aphelinidae,Aphytis,aonidiae,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,aonidiae,Georgia,41.6809707,44.0287382
+Aphelinidae,Aphytis,aonidiae,Greece,39.000041,21.9999569
+Aphelinidae,Aphytis,aonidiae,Hungary,47.1817585,19.5060937
+Aphelinidae,Aphytis,aonidiae,Iran,32.9407496,52.9471344
+Aphelinidae,Aphytis,aonidiae,Israel,30.8760272,35.0015196
+Aphelinidae,Aphytis,aonidiae,Italy,42.6384261,12.674297
+Aphelinidae,Aphytis,aonidiae,Japan,36.5748441,139.2394179
+Aphelinidae,Aphytis,aonidiae,Mexico,19.4326009,-99.1333415
+Aphelinidae,Aphytis,aonidiae,Moldova,47.286747,28.5110236
+Aphelinidae,Aphytis,aonidiae,Montenegro,43.0285558,19.291739
+Aphelinidae,Aphytis,aonidiae,Romania,45.9852129,24.6859225
+Aphelinidae,Aphytis,aonidiae,Slovakia,48.7411522,19.4528646
+Aphelinidae,Aphytis,aonidiae,Spain,40.0028028,-4.0031039
+Aphelinidae,Aphytis,aonidiae,Turkey,38.9597594,34.9249653
+Aphelinidae,Aphytis,aonidiae,Ukraine,49.4871968,31.2718321
+Aphelinidae,Aphytis,aonidiae,England,52.7954791,-0.540240236617
+Aphelinidae,Aphytis,aonidiae,California,36.7014631,-118.7559973
+Aphelinidae,Aphytis,aonidiae,Ohio,40.2253569,-82.6881394
+Aphelinidae,Aphytis,aonidiae,Uruguay,-32.8755547,-56.0201524
+NA,NA,NA,,,
+Aphelinidae,Aphytis,chilensis,Algeria,28.0000272,2.9999825
+Aphelinidae,Aphytis,chilensis,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Aphytis,chilensis,Australia,-24.7761085,134.755
+Aphelinidae,Aphytis,chilensis,Chile,-31.7613364,-71.3187696
+Aphelinidae,Aphytis,chilensis,Cyprus,34.9823018,33.1451285
+Aphelinidae,Aphytis,chilensis,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,chilensis,France,46.603354,1.8883335
+Aphelinidae,Aphytis,chilensis,Germany,51.0834196,10.4234469
+Aphelinidae,Aphytis,chilensis,Greece,39.000041,21.9999569
+Aphelinidae,Aphytis,chilensis,Sicily,37.587794,14.155048
+Aphelinidae,Aphytis,chilensis,Lebanon,33.8750629,35.843409
+Aphelinidae,Aphytis,chilensis,Mexico,19.4326009,-99.1333415
+Aphelinidae,Aphytis,chilensis,Middle East,32.1862321,34.9771488
+Aphelinidae,Aphytis,chilensis,New Zealand,-41.500083,172.8344077
+Aphelinidae,Aphytis,chilensis,North Africa,41.4299403,-8.0932407
+Aphelinidae,Aphytis,chilensis,Peru,-6.8699696,-75.0458514
+Aphelinidae,Aphytis,chilensis,South Africa,-28.8166235,24.991639
+Aphelinidae,Aphytis,chilensis,Spain,40.0028028,-4.0031039
+Aphelinidae,Aphytis,chilensis,Tunisia,33.8439408,9.400138
+Aphelinidae,Aphytis,chilensis,Turkey,38.9597594,34.9249653
+Aphelinidae,Aphytis,chilensis,California,36.7014631,-118.7559973
+Aphelinidae,Aphytis,chilensis,New York,40.7305991,-73.9865811
+NA,NA,NA,,,
+Aphelinidae,Aphytis,chrysomphali,Afghanistan,33.0000866,64.9998468
+Aphelinidae,Aphytis,chrysomphali,Algeria,28.0000272,2.9999825
+Aphelinidae,Aphytis,chrysomphali,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Aphytis,chrysomphali,New South Wales,-31.8759834,147.2869493
+Aphelinidae,Aphytis,chrysomphali,Queensland,-21.9182855,144.4588889
+Aphelinidae,Aphytis,chrysomphali,Victoria,-36.5986095,144.6780052
+Aphelinidae,Aphytis,chrysomphali,Western Australia,-25.2303004,121.0187246
+Aphelinidae,Aphytis,chrysomphali,Belgium,50.6407351,4.66696
+Aphelinidae,Aphytis,chrysomphali,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Aphytis,chrysomphali,Rio de Janeiro,-22.2752761,-42.4194149
+Aphelinidae,Aphytis,chrysomphali,Caribbean (including West Indies),15.0000001,-75
+Aphelinidae,Aphytis,chrysomphali,Chile,-31.7613364,-71.3187696
+Aphelinidae,Aphytis,chrysomphali,Costa Rica,10.2735633,-84.0739101
+Aphelinidae,Aphytis,chrysomphali,Cuba,23.0131338,-80.8328747
+Aphelinidae,Aphytis,chrysomphali,Cyprus,34.9823018,33.1451285
+Aphelinidae,Aphytis,chrysomphali,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Aphytis,chrysomphali,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,chrysomphali,El Salvador,13.8000382,-88.9140682
+Aphelinidae,Aphytis,chrysomphali,Fiji,-18.1239695,179.0122737
+Aphelinidae,Aphytis,chrysomphali,French Polynesia,-18.6243748,-144.6434897
+Aphelinidae,Aphytis,chrysomphali,Georgia,41.6809707,44.0287382
+Aphelinidae,Aphytis,chrysomphali,Germany,51.0834196,10.4234469
+Aphelinidae,Aphytis,chrysomphali,Greece,39.000041,21.9999569
+Aphelinidae,Aphytis,chrysomphali,Guam,13.4501257,144.75755103
+Aphelinidae,Aphytis,chrysomphali,Guyana,4.8417097,-58.641689
+Aphelinidae,Aphytis,chrysomphali,Haiti,19.1399952,-72.3570971
+Aphelinidae,Aphytis,chrysomphali,Hawaii,21.2160437,-157.9752029
+Aphelinidae,Aphytis,chrysomphali,Hungary,47.1817585,19.5060937
+Aphelinidae,Aphytis,chrysomphali,India,22.3511148,78.6677428
+Aphelinidae,Aphytis,chrysomphali,Java (+ Bali),-6.3472901,106.779011
+Aphelinidae,Aphytis,chrysomphali,Sulawesi,-1.97560385,120.295079345
+Aphelinidae,Aphytis,chrysomphali,Iran,32.9407496,52.9471344
+Aphelinidae,Aphytis,chrysomphali,Israel,30.8760272,35.0015196
+Aphelinidae,Aphytis,chrysomphali,Sicily,37.587794,14.155048
+Aphelinidae,Aphytis,chrysomphali,Japan,36.5748441,139.2394179
+Aphelinidae,Aphytis,chrysomphali,Lebanon,33.8750629,35.843409
+Aphelinidae,Aphytis,chrysomphali,Malaysia,2.3923759,112.8471939
+Aphelinidae,Aphytis,chrysomphali,Mauritius,-20.275945,57.5703566
+Aphelinidae,Aphytis,chrysomphali,Mexico,19.4326009,-99.1333415
+Aphelinidae,Aphytis,chrysomphali,Morocco,31.1728192,-7.3366042
+Aphelinidae,Aphytis,chrysomphali,New Caledonia,-21.3019904,165.4880773
+Aphelinidae,Aphytis,chrysomphali,North Africa,41.4299403,-8.0932407
+Aphelinidae,Aphytis,chrysomphali,Panama,8.3096067,-81.3066245
+Aphelinidae,Aphytis,chrysomphali,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Aphytis,chrysomphali,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Aphytis,chrysomphali,Guizhou (Kweichow),26.573796,108.599136
+Aphelinidae,Aphytis,chrysomphali,Hong Kong,22.2793278,114.1628131
+Aphelinidae,Aphytis,chrysomphali,Hubei (Hupeh),31,112
+Aphelinidae,Aphytis,chrysomphali,Hunan (Hunan),27.9995878,112.009538
+Aphelinidae,Aphytis,chrysomphali,Jiangsu (Kiangsu),33.0000001,119.9999999
+Aphelinidae,Aphytis,chrysomphali,Jiangxi (Kiangsi),28,116
+Aphelinidae,Aphytis,chrysomphali,Shanghai,31.2253441,121.4888922
+Aphelinidae,Aphytis,chrysomphali,Sichuan (Szechwan),32.41875,102.6366383
+Aphelinidae,Aphytis,chrysomphali,Zhejiang (Chekiang),29.0000001,119.9999999
+Aphelinidae,Aphytis,chrysomphali,Peru,-6.8699696,-75.0458514
+Aphelinidae,Aphytis,chrysomphali,Philippines,12.7503486,122.7312101
+Aphelinidae,Aphytis,chrysomphali,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Aphytis,chrysomphali,Seychelles,-4.6574976,55.4540146
+Aphelinidae,Aphytis,chrysomphali,Somalia,8.3676771,49.083416
+Aphelinidae,Aphytis,chrysomphali,South Africa,-28.8166235,24.991639
+Aphelinidae,Aphytis,chrysomphali,Spain,40.0028028,-4.0031039
+Aphelinidae,Aphytis,chrysomphali,Surinam,4.1413025,-56.0771186
+Aphelinidae,Aphytis,chrysomphali,Swaziland,-26.5624805,31.3991317
+Aphelinidae,Aphytis,chrysomphali,Taiwan,23.9739374,120.9820179
+Aphelinidae,Aphytis,chrysomphali,Tanzania,-6.5247122,35.7878438
+Aphelinidae,Aphytis,chrysomphali,Trinidad & Tobago,10.8677845,-60.9821066
+Aphelinidae,Aphytis,chrysomphali,Tunisia,33.8439408,9.400138
+Aphelinidae,Aphytis,chrysomphali,Turkey,38.9597594,34.9249653
+Aphelinidae,Aphytis,chrysomphali,Ukraine,49.4871968,31.2718321
+Aphelinidae,Aphytis,chrysomphali,California,36.7014631,-118.7559973
+Aphelinidae,Aphytis,chrysomphali,Florida,27.7567667,-81.4639834
+Aphelinidae,Aphytis,chrysomphali,Louisiana,30.8703881,-92.0071259
+Aphelinidae,Aphytis,chrysomphali,New York,40.7305991,-73.9865811
+Aphelinidae,Aphytis,chrysomphali,Texas,31.8160381,-99.5120985
+Aphelinidae,Aphytis,chrysomphali,Uruguay,-32.8755547,-56.0201524
+Aphelinidae,Aphytis,chrysomphali,Zimbabwe,-18.4554962,29.7468414
+NA,NA,NA,,,
+Aphelinidae,Aphytis,comperei,Jamaica,18.1850507,-77.3947692
+Aphelinidae,Aphytis,comperei,Mexico,19.4326009,-99.1333415
+Aphelinidae,Aphytis,comperei,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Aphytis,comperei,Hong Kong,22.2793278,114.1628131
+Aphelinidae,Aphytis,comperei,South Africa,-28.8166235,24.991639
+Aphelinidae,Aphytis,comperei,Florida,27.7567667,-81.4639834
+Aphelinidae,Aphytis,comperei,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Aphelinidae,Aphytis,desantisi,Argentina,-34.9964962,-64.9672816
+NA,NA,NA,,,
+Aphelinidae,Aphytis,fioriniae,Assam,26.4073841,93.2551303
+NA,NA,NA,,,
+Aphelinidae,Aphytis,libanicus,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,libanicus,Iran,32.9407496,52.9471344
+Aphelinidae,Aphytis,libanicus,Israel,30.8760272,35.0015196
+Aphelinidae,Aphytis,libanicus,Italy,42.6384261,12.674297
+Aphelinidae,Aphytis,libanicus,Lebanon,33.8750629,35.843409
+Aphelinidae,Aphytis,libanicus,Turkey,38.9597594,34.9249653
+NA,NA,NA,,,
+Aphelinidae,Aphytis,lingnanensis,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Aphytis,lingnanensis,Queensland,-21.9182855,144.4588889
+Aphelinidae,Aphytis,lingnanensis,Victoria,-36.5986095,144.6780052
+Aphelinidae,Aphytis,lingnanensis,Western Australia,-25.2303004,121.0187246
+Aphelinidae,Aphytis,lingnanensis,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Aphytis,lingnanensis,Bolivia,-17.0568695,-64.9912285
+Aphelinidae,Aphytis,lingnanensis,Brazil,-10.3333332,-53.1999999
+Aphelinidae,Aphytis,lingnanensis,Caribbean (including West Indies),15.0000001,-75
+Aphelinidae,Aphytis,lingnanensis,Easter Island,-27.1260191,-109.349674206
+Aphelinidae,Aphytis,lingnanensis,Costa Rica,10.2735633,-84.0739101
+Aphelinidae,Aphytis,lingnanensis,Cuba,23.0131338,-80.8328747
+Aphelinidae,Aphytis,lingnanensis,Cyprus,34.9823018,33.1451285
+Aphelinidae,Aphytis,lingnanensis,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,lingnanensis,El Salvador,13.8000382,-88.9140682
+Aphelinidae,Aphytis,lingnanensis,Fiji,-18.1239695,179.0122737
+Aphelinidae,Aphytis,lingnanensis,Assam,26.4073841,93.2551303
+Aphelinidae,Aphytis,lingnanensis,Delhi,28.6517178,77.2219388
+Aphelinidae,Aphytis,lingnanensis,Karnataka,14.5203896,75.7223521
+Aphelinidae,Aphytis,lingnanensis,Kerala,10.3529588,76.5119752
+Aphelinidae,Aphytis,lingnanensis,Tamil Nadu,10.9094334,78.3665347
+Aphelinidae,Aphytis,lingnanensis,Uttar Pradesh,27.1303344,80.859666
+Aphelinidae,Aphytis,lingnanensis,Java (+ Bali),-6.3472901,106.779011
+Aphelinidae,Aphytis,lingnanensis,Israel,30.8760272,35.0015196
+Aphelinidae,Aphytis,lingnanensis,Sicily,37.587794,14.155048
+Aphelinidae,Aphytis,lingnanensis,Jamaica,18.1850507,-77.3947692
+Aphelinidae,Aphytis,lingnanensis,Japan,36.5748441,139.2394179
+Aphelinidae,Aphytis,lingnanensis,Malaysia,2.3923759,112.8471939
+Aphelinidae,Aphytis,lingnanensis,Mauritius,-20.275945,57.5703566
+Aphelinidae,Aphytis,lingnanensis,Mexico,19.4326009,-99.1333415
+Aphelinidae,Aphytis,lingnanensis,Morocco,31.1728192,-7.3366042
+Aphelinidae,Aphytis,lingnanensis,New Caledonia,-21.3019904,165.4880773
+Aphelinidae,Aphytis,lingnanensis,Pakistan,30.3308401,71.247499
+Aphelinidae,Aphytis,lingnanensis,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Aphytis,lingnanensis,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Aphytis,lingnanensis,Hong Kong,22.2793278,114.1628131
+Aphelinidae,Aphytis,lingnanensis,Zhejiang (Chekiang),29.0000001,119.9999999
+Aphelinidae,Aphytis,lingnanensis,Peru,-6.8699696,-75.0458514
+Aphelinidae,Aphytis,lingnanensis,Philippines,12.7503486,122.7312101
+Aphelinidae,Aphytis,lingnanensis,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Aphytis,lingnanensis,Solomon Islands,-9.7354343,162.8288542
+Aphelinidae,Aphytis,lingnanensis,South Africa,-28.8166235,24.991639
+Aphelinidae,Aphytis,lingnanensis,Spain,40.0028028,-4.0031039
+Aphelinidae,Aphytis,lingnanensis,Taiwan,23.9739374,120.9820179
+Aphelinidae,Aphytis,lingnanensis,Thailand,14.8971921,100.83273
+Aphelinidae,Aphytis,lingnanensis,Trinidad & Tobago,10.8677845,-60.9821066
+Aphelinidae,Aphytis,lingnanensis,Turkey,38.9597594,34.9249653
+Aphelinidae,Aphytis,lingnanensis,California,36.7014631,-118.7559973
+Aphelinidae,Aphytis,lingnanensis,Florida,27.7567667,-81.4639834
+Aphelinidae,Aphytis,lingnanensis,Texas,31.8160381,-99.5120985
+Aphelinidae,Aphytis,lingnanensis,Uruguay,-32.8755547,-56.0201524
+NA,NA,NA,,,
+Aphelinidae,Aphytis,moldavicus,Czech Republic,49.8167003,15.4749544
+Aphelinidae,Aphytis,moldavicus,Georgia,41.6809707,44.0287382
+Aphelinidae,Aphytis,moldavicus,Moldova,47.286747,28.5110236
+Aphelinidae,Aphytis,moldavicus,Tadzhikistan,38.6281733,70.8156541
+NA,NA,NA,,,
+Aphelinidae,Aphytis,opuntiae,Greece,39.000041,21.9999569
+Aphelinidae,Aphytis,opuntiae,Italy,42.6384261,12.674297
+Aphelinidae,Aphytis,opuntiae,Spain,40.0028028,-4.0031039
+NA,NA,NA,,,
+Aphelinidae,Aphytis,phoenicis,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,phoenicis,Israel,30.8760272,35.0015196
+Aphelinidae,Aphytis,phoenicis,Saudi Arabia,25.6242618,42.3528328
+NA,NA,NA,,,
+Aphelinidae,Aphytis,testaceus,Azerbaijan,40.3936294,47.7872508
+Aphelinidae,Aphytis,testaceus,Hungary,47.1817585,19.5060937
+Aphelinidae,Aphytis,testaceus,Moldova,47.286747,28.5110236
+Aphelinidae,Aphytis,testaceus,Kabardino-Balkarian ASSR,43.4428286,43.4204809
+NA,NA,NA,,,
+Aphelinidae,Aphytis,vandenboschi,Egypt,26.2540493,29.2675469
+Aphelinidae,Aphytis,vandenboschi,Japan,36.5748441,139.2394179
+Aphelinidae,Aphytis,vandenboschi,Korea. South,37.5540282,126.7893535
+Aphelinidae,Aphytis,vandenboschi,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Aphytis,vandenboschi,Liaoning,40.9975197,122.9955469
+Aphelinidae,Aphytis,vandenboschi,California,36.7014631,-118.7559973
+Aphelinidae,Aphytis,vandenboschi,Utah,39.4225192,-111.7143583
+NA,NA,NA,,,
+Aphelinidae,Aphytis,vastus,Namibia (South West Africa),-22.5037497,17.0194784
+NA,NA,NA,,,
+Aphelinidae,Aphytis,yanonensis,France,46.603354,1.8883335
+Aphelinidae,Aphytis,yanonensis,Japan,36.5748441,139.2394179
+Aphelinidae,Aphytis,yanonensis,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Aphytis,yanonensis,Guizhou (Kweichow),26.573796,108.599136
+Aphelinidae,Aphytis,yanonensis,Hunan (Hunan),27.9995878,112.009538
+Aphelinidae,Aphytis,yanonensis,Sichuan (Szechwan),32.41875,102.6366383
+Aphelinidae,Aphytis,yanonensis,Yunnan,25,102
+NA,NA,NA,,,
+Aphelinidae,Encarsia,aleurothrixi,Distrito federal (Brasilia),-15.7934035,-47.8823171
+Aphelinidae,Encarsia,aleurothrixi,Sao Paulo,-21.9549805,-49.0232347
+NA,NA,NA,,,
+Aphelinidae,Encarsia,aurantii,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,aurantii,Australia,-24.7761085,134.755
+Aphelinidae,Encarsia,aurantii,Azerbaijan,40.3936294,47.7872508
+Aphelinidae,Encarsia,aurantii,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Encarsia,aurantii,Pernambuco,-8.4127482,-38.3087922
+Aphelinidae,Encarsia,aurantii,Quebec,54,-71.9999999
+Aphelinidae,Encarsia,aurantii,Chile,-31.7613364,-71.3187696
+Aphelinidae,Encarsia,aurantii,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,aurantii,France,46.603354,1.8883335
+Aphelinidae,Encarsia,aurantii,Germany,51.0834196,10.4234469
+Aphelinidae,Encarsia,aurantii,Hungary,47.1817585,19.5060937
+Aphelinidae,Encarsia,aurantii,Andhra Pradesh,15.9240905,80.1863809
+Aphelinidae,Encarsia,aurantii,Karnataka,14.5203896,75.7223521
+Aphelinidae,Encarsia,aurantii,Indonesia,-4.7993355,114.5632032
+Aphelinidae,Encarsia,aurantii,Iran,32.9407496,52.9471344
+Aphelinidae,Encarsia,aurantii,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,aurantii,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,aurantii,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,aurantii,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,aurantii,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Encarsia,aurantii,Henan (Honan),34.0000001,113.9999999
+Aphelinidae,Encarsia,aurantii,Sichuan (Szechwan),32.41875,102.6366383
+Aphelinidae,Encarsia,aurantii,Zhejiang (Chekiang),29.0000001,119.9999999
+Aphelinidae,Encarsia,aurantii,Peru,-6.8699696,-75.0458514
+Aphelinidae,Encarsia,aurantii,Philippines,12.7503486,122.7312101
+Aphelinidae,Encarsia,aurantii,Poland,52.0977181,19.0258159
+Aphelinidae,Encarsia,aurantii,Dolgan-Nenets NO,67.6783253,57.0626853
+Aphelinidae,Encarsia,aurantii,Sri Lanka,7.878,80.7038245875
+Aphelinidae,Encarsia,aurantii,Switzerland,46.7985624,8.2319736
+Aphelinidae,Encarsia,aurantii,Taiwan,23.9739374,120.9820179
+Aphelinidae,Encarsia,aurantii,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,aurantii,Colorado,38.7251776,-105.6077166
+Aphelinidae,Encarsia,aurantii,District of Columbia,38.8949549,-77.0366455
+Aphelinidae,Encarsia,aurantii,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,aurantii,Georgia,41.6809707,44.0287382
+Aphelinidae,Encarsia,aurantii,Illinois,40.0796319,-89.4339808
+Aphelinidae,Encarsia,aurantii,Kentucky,37.5726028,-85.155141
+Aphelinidae,Encarsia,aurantii,Louisiana,30.8703881,-92.0071259
+Aphelinidae,Encarsia,aurantii,New Jersey,40.0757384,-74.4041621
+Aphelinidae,Encarsia,aurantii,New Mexico,34.5708167,-105.9930069
+Aphelinidae,Encarsia,aurantii,New York,40.7305991,-73.9865811
+Aphelinidae,Encarsia,aurantii,North Carolina,35.6729639,-79.0392918
+Aphelinidae,Encarsia,aurantii,Oregon,43.9792797,-120.7372569
+Aphelinidae,Encarsia,aurantii,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Aphelinidae,Encarsia,basicincta,Distrito federal (Brasilia),-15.7934035,-47.8823171
+Aphelinidae,Encarsia,basicincta,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,basicincta,Florida,27.7567667,-81.4639834
+NA,NA,NA,,,
+Aphelinidae,Encarsia,berlesei,Afghanistan,33.0000866,64.9998468
+Aphelinidae,Encarsia,berlesei,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,berlesei,Austria,47.2000338,13.199959
+Aphelinidae,Encarsia,berlesei,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Encarsia,berlesei,Bolivia,-17.0568695,-64.9912285
+Aphelinidae,Encarsia,berlesei,Rio Grande do Sul,-29.8517999,-53.7672249
+Aphelinidae,Encarsia,berlesei,Chile,-31.7613364,-71.3187696
+Aphelinidae,Encarsia,berlesei,Colombia,2.893108,-73.7845142
+Aphelinidae,Encarsia,berlesei,Croatia,45.5643442,17.0118954
+Aphelinidae,Encarsia,berlesei,Cuba,23.0131338,-80.8328747
+Aphelinidae,Encarsia,berlesei,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,berlesei,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,berlesei,France,46.603354,1.8883335
+Aphelinidae,Encarsia,berlesei,Germany,51.0834196,10.4234469
+Aphelinidae,Encarsia,berlesei,Greece,39.000041,21.9999569
+Aphelinidae,Encarsia,berlesei,Hungary,47.1817585,19.5060937
+Aphelinidae,Encarsia,berlesei,Iran,32.9407496,52.9471344
+Aphelinidae,Encarsia,berlesei,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,berlesei,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,berlesei,Montenegro,43.0285558,19.291739
+Aphelinidae,Encarsia,berlesei,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,berlesei,Sichuan (Szechwan),32.41875,102.6366383
+Aphelinidae,Encarsia,berlesei,Yunnan,25,102
+Aphelinidae,Encarsia,berlesei,Zhejiang (Chekiang),29.0000001,119.9999999
+Aphelinidae,Encarsia,berlesei,Peru,-6.8699696,-75.0458514
+Aphelinidae,Encarsia,berlesei,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,berlesei,Dolgan-Nenets NO,67.6783253,57.0626853
+Aphelinidae,Encarsia,berlesei,Slovenia,45.8133113,14.4808369
+Aphelinidae,Encarsia,berlesei,Spain,40.0028028,-4.0031039
+Aphelinidae,Encarsia,berlesei,Sri Lanka,7.878,80.7038245875
+Aphelinidae,Encarsia,berlesei,Switzerland,46.7985624,8.2319736
+Aphelinidae,Encarsia,berlesei,Trinidad & Tobago,10.8677845,-60.9821066
+Aphelinidae,Encarsia,berlesei,Turkey,38.9597594,34.9249653
+Aphelinidae,Encarsia,berlesei,District of Columbia,38.8949549,-77.0366455
+Aphelinidae,Encarsia,berlesei,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,berlesei,Kentucky,37.5726028,-85.155141
+Aphelinidae,Encarsia,berlesei,Louisiana,30.8703881,-92.0071259
+Aphelinidae,Encarsia,berlesei,Maryland,39.5162234,-76.9382068
+Aphelinidae,Encarsia,berlesei,North Carolina,35.6729639,-79.0392918
+Aphelinidae,Encarsia,berlesei,Pennsylvania,40.9699889,-77.727883
+Aphelinidae,Encarsia,berlesei,Uruguay,-32.8755547,-56.0201524
+Aphelinidae,Encarsia,berlesei,Western Samoa,40.86412885,-124.097067824
+NA,NA,NA,,,
+Aphelinidae,Encarsia,bifasciata,Queensland,-21.9182855,144.4588889
+NA,NA,NA,,,
+Aphelinidae,Encarsia,brasiliensis,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,brasiliensis,Barbados,13.1500331,-59.5250304
+Aphelinidae,Encarsia,brasiliensis,Distrito federal (Brasilia),-15.7934035,-47.8823171
+Aphelinidae,Encarsia,brasiliensis,Maranhao,-5.2085502,-45.3930261
+Aphelinidae,Encarsia,brasiliensis,Minas Gerais,-18.5264843,-44.1588653
+Aphelinidae,Encarsia,brasiliensis,Pernambuco,-8.4127482,-38.3087922
+Aphelinidae,Encarsia,brasiliensis,Sao Paulo,-21.9549805,-49.0232347
+Aphelinidae,Encarsia,brasiliensis,Canary Islands,28.5306525,-15.7464438
+Aphelinidae,Encarsia,brasiliensis,Caribbean (including West Indies),15.0000001,-75
+Aphelinidae,Encarsia,brasiliensis,Central America,-20.4859417,-54.6183864
+Aphelinidae,Encarsia,brasiliensis,Chile,-31.7613364,-71.3187696
+Aphelinidae,Encarsia,brasiliensis,Colombia,2.893108,-73.7845142
+Aphelinidae,Encarsia,brasiliensis,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,brasiliensis,French Polynesia,-18.6243748,-144.6434897
+Aphelinidae,Encarsia,brasiliensis,Guadeloupe,16.2490067,-61.5650443
+Aphelinidae,Encarsia,brasiliensis,Guatemala,15.6356088,-89.8988086
+Aphelinidae,Encarsia,brasiliensis,Haiti,19.1399952,-72.3570971
+Aphelinidae,Encarsia,brasiliensis,Honduras,15.0610686,-84.5978533
+Aphelinidae,Encarsia,brasiliensis,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,brasiliensis,Jamaica,18.1850507,-77.3947692
+Aphelinidae,Encarsia,brasiliensis,Madeira,32.75175465,-16.9817465613
+Aphelinidae,Encarsia,brasiliensis,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,brasiliensis,Netherlands,52.2379891,5.53460738162
+Aphelinidae,Encarsia,brasiliensis,Peru,-6.8699696,-75.0458514
+Aphelinidae,Encarsia,brasiliensis,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,brasiliensis,South Africa,-28.8166235,24.991639
+Aphelinidae,Encarsia,brasiliensis,United States of America,39.7837304,-100.4458824
+Aphelinidae,Encarsia,brasiliensis,Arizona,34.395342,-111.7632754
+Aphelinidae,Encarsia,brasiliensis,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,brasiliensis,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,brasiliensis,Venezuela,8.0018709,-66.1109317
+NA,NA,NA,,,
+Aphelinidae,Encarsia,caelata,Java (+ Bali),-6.3472901,106.779011
+NA,NA,NA,,,
+Aphelinidae,Encarsia,citrina,Algeria,28.0000272,2.9999825
+Aphelinidae,Encarsia,citrina,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,citrina,Queensland,-21.9182855,144.4588889
+Aphelinidae,Encarsia,citrina,South Australia,-30.5343664,135.6301212
+Aphelinidae,Encarsia,citrina,Azerbaijan,40.3936294,47.7872508
+Aphelinidae,Encarsia,citrina,Barbados,13.1500331,-59.5250304
+Aphelinidae,Encarsia,citrina,Belgium,50.6407351,4.66696
+Aphelinidae,Encarsia,citrina,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Encarsia,citrina,Bolivia,-17.0568695,-64.9912285
+Aphelinidae,Encarsia,citrina,Bahia,-12.2852509,-41.9294775
+Aphelinidae,Encarsia,citrina,Sao Paulo,-21.9549805,-49.0232347
+Aphelinidae,Encarsia,citrina,Bulgaria,42.6073975,25.4856617
+Aphelinidae,Encarsia,citrina,Canada,61.0666922,-107.991707
+Aphelinidae,Encarsia,citrina,Chile,-31.7613364,-71.3187696
+Aphelinidae,Encarsia,citrina,Colombia,2.893108,-73.7845142
+Aphelinidae,Encarsia,citrina,Cook Islands,-16.049278,-160.355485
+Aphelinidae,Encarsia,citrina,Cuba,23.0131338,-80.8328747
+Aphelinidae,Encarsia,citrina,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,citrina,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,citrina,El Salvador,13.8000382,-88.9140682
+Aphelinidae,Encarsia,citrina,Fiji,-18.1239695,179.0122737
+Aphelinidae,Encarsia,citrina,French Polynesia,-18.6243748,-144.6434897
+Aphelinidae,Encarsia,citrina,Germany,51.0834196,10.4234469
+Aphelinidae,Encarsia,citrina,Ghana,8.0300284,-1.080027
+Aphelinidae,Encarsia,citrina,Greece,39.000041,21.9999569
+Aphelinidae,Encarsia,citrina,Grenada,12.1360374,-61.6904044
+Aphelinidae,Encarsia,citrina,Guam,13.4501257,144.75755103
+Aphelinidae,Encarsia,citrina,Guyana,4.8417097,-58.641689
+Aphelinidae,Encarsia,citrina,Haiti,19.1399952,-72.3570971
+Aphelinidae,Encarsia,citrina,Hawaii,21.2160437,-157.9752029
+Aphelinidae,Encarsia,citrina,Hungary,47.1817585,19.5060937
+Aphelinidae,Encarsia,citrina,Andaman and Nicobar Islands,10.2188344,92.5771329
+Aphelinidae,Encarsia,citrina,Himachal Pradesh,31.9292352,77.1828462
+Aphelinidae,Encarsia,citrina,Jammu & Kashmir,34.0476564,76.7972892
+Aphelinidae,Encarsia,citrina,Karnataka,14.5203896,75.7223521
+Aphelinidae,Encarsia,citrina,Java (+ Bali),-6.3472901,106.779011
+Aphelinidae,Encarsia,citrina,Iran,32.9407496,52.9471344
+Aphelinidae,Encarsia,citrina,Sicily,37.587794,14.155048
+Aphelinidae,Encarsia,citrina,Jamaica,18.1850507,-77.3947692
+Aphelinidae,Encarsia,citrina,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,citrina,Macedonia,41.6171214,21.7168387
+Aphelinidae,Encarsia,citrina,Malaysia,2.3923759,112.8471939
+Aphelinidae,Encarsia,citrina,Mauritius,-20.275945,57.5703566
+Aphelinidae,Encarsia,citrina,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,citrina,Moldova,47.286747,28.5110236
+Aphelinidae,Encarsia,citrina,Morocco,31.1728192,-7.3366042
+Aphelinidae,Encarsia,citrina,Netherlands,52.2379891,5.53460738162
+Aphelinidae,Encarsia,citrina,New Zealand,-41.500083,172.8344077
+Aphelinidae,Encarsia,citrina,North Africa,41.4299403,-8.0932407
+Aphelinidae,Encarsia,citrina,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,citrina,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Encarsia,citrina,Hunan (Hunan),27.9995878,112.009538
+Aphelinidae,Encarsia,citrina,Jiangsu (Kiangsu),33.0000001,119.9999999
+Aphelinidae,Encarsia,citrina,Jiangxi (Kiangsi),28,116
+Aphelinidae,Encarsia,citrina,Liaoning,40.9975197,122.9955469
+Aphelinidae,Encarsia,citrina,Shanghai,31.2253441,121.4888922
+Aphelinidae,Encarsia,citrina,Sichuan (Szechwan),32.41875,102.6366383
+Aphelinidae,Encarsia,citrina,Zhejiang (Chekiang),29.0000001,119.9999999
+Aphelinidae,Encarsia,citrina,Peru,-6.8699696,-75.0458514
+Aphelinidae,Encarsia,citrina,Philippines,12.7503486,122.7312101
+Aphelinidae,Encarsia,citrina,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,citrina,Adygey AO (Adigei),44.6939006,40.1520421
+Aphelinidae,Encarsia,citrina,Dolgan-Nenets NO,67.6783253,57.0626853
+Aphelinidae,Encarsia,citrina,Primor ye Kray,45.0819456,134.726645
+Aphelinidae,Encarsia,citrina,Sao Tomé and Principe,0.8875498,6.9648718
+Aphelinidae,Encarsia,citrina,Saudi Arabia,25.6242618,42.3528328
+Aphelinidae,Encarsia,citrina,Serbia,44.1534121,20.55144
+Aphelinidae,Encarsia,citrina,Slovakia,48.7411522,19.4528646
+Aphelinidae,Encarsia,citrina,South Africa,-28.8166235,24.991639
+Aphelinidae,Encarsia,citrina,Spain,40.0028028,-4.0031039
+Aphelinidae,Encarsia,citrina,Sri Lanka,7.878,80.7038245875
+Aphelinidae,Encarsia,citrina,Sweden,59.6749712,14.5208584
+Aphelinidae,Encarsia,citrina,Switzerland,46.7985624,8.2319736
+Aphelinidae,Encarsia,citrina,Taiwan,23.9739374,120.9820179
+Aphelinidae,Encarsia,citrina,Trinidad & Tobago,10.8677845,-60.9821066
+Aphelinidae,Encarsia,citrina,Tunisia,33.8439408,9.400138
+Aphelinidae,Encarsia,citrina,Turkey,38.9597594,34.9249653
+Aphelinidae,Encarsia,citrina,Ukraine,49.4871968,31.2718321
+Aphelinidae,Encarsia,citrina,England,52.7954791,-0.540240236617
+Aphelinidae,Encarsia,citrina,Arkansas,35.2048883,-92.4479107
+Aphelinidae,Encarsia,citrina,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,citrina,Connecticut,41.6500201,-72.7342162
+Aphelinidae,Encarsia,citrina,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,citrina,Georgia,41.6809707,44.0287382
+Aphelinidae,Encarsia,citrina,Illinois,40.0796319,-89.4339808
+Aphelinidae,Encarsia,citrina,Louisiana,30.8703881,-92.0071259
+Aphelinidae,Encarsia,citrina,Maryland,39.5162234,-76.9382068
+Aphelinidae,Encarsia,citrina,Massachusetts,42.3788774,-72.0323659
+Aphelinidae,Encarsia,citrina,Michigan,43.6211955,-84.6824345
+Aphelinidae,Encarsia,citrina,Missouri,38.7604815,-92.5617874
+Aphelinidae,Encarsia,citrina,New Jersey,40.0757384,-74.4041621
+Aphelinidae,Encarsia,citrina,New York,40.7305991,-73.9865811
+Aphelinidae,Encarsia,citrina,Ohio,40.2253569,-82.6881394
+Aphelinidae,Encarsia,citrina,Oregon,43.9792797,-120.7372569
+Aphelinidae,Encarsia,citrina,Pennsylvania,40.9699889,-77.727883
+Aphelinidae,Encarsia,citrina,Texas,31.8160381,-99.5120985
+Aphelinidae,Encarsia,citrina,Virginia,37.1232245,-78.492772
+Aphelinidae,Encarsia,citrina,Uruguay,-32.8755547,-56.0201524
+Aphelinidae,Encarsia,citrina,Wallis and Futuna Islands,-13.8173323,-177.1489648
+Aphelinidae,Encarsia,citrina,Zimbabwe,-18.4554962,29.7468414
+NA,NA,NA,,,
+Aphelinidae,Encarsia,cubensis,Brazil,-10.3333332,-53.1999999
+Aphelinidae,Encarsia,cubensis,Cuba,23.0131338,-80.8328747
+Aphelinidae,Encarsia,cubensis,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,cubensis,Guadeloupe,16.2490067,-61.5650443
+Aphelinidae,Encarsia,cubensis,Haiti,19.1399952,-72.3570971
+Aphelinidae,Encarsia,cubensis,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,cubensis,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,cubensis,Florida,27.7567667,-81.4639834
+NA,NA,NA,,,
+Aphelinidae,Encarsia,diaspidicola,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Encarsia,diaspidicola,Minas Gerais,-18.5264843,-44.1588653
+Aphelinidae,Encarsia,diaspidicola,Haiti,19.1399952,-72.3570971
+Aphelinidae,Encarsia,diaspidicola,India,22.3511148,78.6677428
+Aphelinidae,Encarsia,diaspidicola,Andaman and Nicobar Islands,10.2188344,92.5771329
+Aphelinidae,Encarsia,diaspidicola,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,diaspidicola,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,diaspidicola,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,diaspidicola,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Encarsia,diaspidicola,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,diaspidicola,Réunion,-21.1309331,55.5265771
+Aphelinidae,Encarsia,diaspidicola,South Africa,-28.8166235,24.991639
+Aphelinidae,Encarsia,diaspidicola,Illinois,40.0796319,-89.4339808
+Aphelinidae,Encarsia,diaspidicola,Louisiana,30.8703881,-92.0071259
+Aphelinidae,Encarsia,diaspidicola,Massachusetts,42.3788774,-72.0323659
+Aphelinidae,Encarsia,diaspidicola,Texas,31.8160381,-99.5120985
+Aphelinidae,Encarsia,diaspidicola,Virginia,37.1232245,-78.492772
+Aphelinidae,Encarsia,diaspidicola,Western Samoa,40.86412885,-124.097067824
+NA,NA,NA,,,
+Aphelinidae,Encarsia,formosa,Algeria,28.0000272,2.9999825
+Aphelinidae,Encarsia,formosa,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,formosa,Australian Capital Territory,-35.4021015,148.9464218
+Aphelinidae,Encarsia,formosa,New South Wales,-31.8759834,147.2869493
+Aphelinidae,Encarsia,formosa,Queensland,-21.9182855,144.4588889
+Aphelinidae,Encarsia,formosa,South Australia,-30.5343664,135.6301212
+Aphelinidae,Encarsia,formosa,Tasmania,-42.0350669,146.6366887
+Aphelinidae,Encarsia,formosa,Victoria,-36.5986095,144.6780052
+Aphelinidae,Encarsia,formosa,Western Australia,-25.2303004,121.0187246
+Aphelinidae,Encarsia,formosa,Austria,47.2000338,13.199959
+Aphelinidae,Encarsia,formosa,Azores,37.80852735,-25.4730851865
+Aphelinidae,Encarsia,formosa,Barbados,13.1500331,-59.5250304
+Aphelinidae,Encarsia,formosa,Belarus,53.4250605,27.6971358
+Aphelinidae,Encarsia,formosa,Belgium,50.6407351,4.66696
+Aphelinidae,Encarsia,formosa,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Encarsia,formosa,Sao Paulo,-21.9549805,-49.0232347
+Aphelinidae,Encarsia,formosa,Bulgaria,42.6073975,25.4856617
+Aphelinidae,Encarsia,formosa,Alberta,55,-114.9999998
+Aphelinidae,Encarsia,formosa,British Columbia,55,-124.9999999
+Aphelinidae,Encarsia,formosa,Manitoba,55.0000001,-97
+Aphelinidae,Encarsia,formosa,New Brunswick,46.5,-66.7499999
+Aphelinidae,Encarsia,formosa,Newfoundland,49.1244794,-55.9711635806
+Aphelinidae,Encarsia,formosa,Nova Scotia,45.0000002,-62.9999998
+Aphelinidae,Encarsia,formosa,Ontario,50.0000002,-86
+Aphelinidae,Encarsia,formosa,Prince Edward Island,46.3202067,-63.4594099
+Aphelinidae,Encarsia,formosa,Quebec,54,-71.9999999
+Aphelinidae,Encarsia,formosa,Saskatchewan,54,-105.9999999
+Aphelinidae,Encarsia,formosa,Canary Islands,28.5306525,-15.7464438
+Aphelinidae,Encarsia,formosa,Caribbean (including West Indies),15.0000001,-75
+Aphelinidae,Encarsia,formosa,Channel Islands (British Is),48.8005051,-123.3831618
+Aphelinidae,Encarsia,formosa,Colombia,2.893108,-73.7845142
+Aphelinidae,Encarsia,formosa,Costa Rica,10.2735633,-84.0739101
+Aphelinidae,Encarsia,formosa,Czech Republic,49.8167003,15.4749544
+Aphelinidae,Encarsia,formosa,Denmark,55.670249,10.3333283
+Aphelinidae,Encarsia,formosa,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,formosa,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,formosa,Fiji,-18.1239695,179.0122737
+Aphelinidae,Encarsia,formosa,Finland,63.2467777,25.9209164
+Aphelinidae,Encarsia,formosa,French Polynesia,-18.6243748,-144.6434897
+Aphelinidae,Encarsia,formosa,Germany,51.0834196,10.4234469
+Aphelinidae,Encarsia,formosa,Greece,39.000041,21.9999569
+Aphelinidae,Encarsia,formosa,Hawaii,21.2160437,-157.9752029
+Aphelinidae,Encarsia,formosa,Hungary,47.1817585,19.5060937
+Aphelinidae,Encarsia,formosa,Iran,32.9407496,52.9471344
+Aphelinidae,Encarsia,formosa,Israel,30.8760272,35.0015196
+Aphelinidae,Encarsia,formosa,Sardinia,40.0912813,9.0305773
+Aphelinidae,Encarsia,formosa,Sicily,37.587794,14.155048
+Aphelinidae,Encarsia,formosa,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,formosa,Jordan,31.1667049,36.941628
+Aphelinidae,Encarsia,formosa,Korea. South,37.5540282,126.7893535
+Aphelinidae,Encarsia,formosa,Madeira,32.75175465,-16.9817465613
+Aphelinidae,Encarsia,formosa,Malta,27.5015719,85.2451666
+Aphelinidae,Encarsia,formosa,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,formosa,Moldova,47.286747,28.5110236
+Aphelinidae,Encarsia,formosa,Netherlands,52.2379891,5.53460738162
+Aphelinidae,Encarsia,formosa,New Zealand,-41.500083,172.8344077
+Aphelinidae,Encarsia,formosa,Norway,64.574131,11.5270102892
+Aphelinidae,Encarsia,formosa,Pakistan,30.3308401,71.247499
+Aphelinidae,Encarsia,formosa,Beijing (Peking),39.9059631,116.391248
+Aphelinidae,Encarsia,formosa,Shanghai,31.2253441,121.4888922
+Aphelinidae,Encarsia,formosa,Poland,52.0977181,19.0258159
+Aphelinidae,Encarsia,formosa,Portugal,40.033265,-7.8896262
+Aphelinidae,Encarsia,formosa,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,formosa,Réunion,-21.1309331,55.5265771
+Aphelinidae,Encarsia,formosa,Romania,45.9852129,24.6859225
+Aphelinidae,Encarsia,formosa,Kalinin Oblast,53.7542077,40.6634304
+Aphelinidae,Encarsia,formosa,Penza Oblast,53.1655415,44.7879181
+Aphelinidae,Encarsia,formosa,Primor ye Kray,45.0819456,134.726645
+Aphelinidae,Encarsia,formosa,Serbia,44.1534121,20.55144
+Aphelinidae,Encarsia,formosa,Slovakia,48.7411522,19.4528646
+Aphelinidae,Encarsia,formosa,Slovenia,45.8133113,14.4808369
+Aphelinidae,Encarsia,formosa,South Africa,-28.8166235,24.991639
+Aphelinidae,Encarsia,formosa,Sweden,59.6749712,14.5208584
+Aphelinidae,Encarsia,formosa,Switzerland,46.7985624,8.2319736
+Aphelinidae,Encarsia,formosa,Thailand,14.8971921,100.83273
+Aphelinidae,Encarsia,formosa,Tonga,-19.9160818,-175.2026423
+Aphelinidae,Encarsia,formosa,Trinidad & Tobago,10.8677845,-60.9821066
+Aphelinidae,Encarsia,formosa,Turkey,38.9597594,34.9249653
+Aphelinidae,Encarsia,formosa,Ukraine,49.4871968,31.2718321
+Aphelinidae,Encarsia,formosa,England,52.7954791,-0.540240236617
+Aphelinidae,Encarsia,formosa,Scotland,56.7861112,-4.1140517
+Aphelinidae,Encarsia,formosa,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,formosa,District of Columbia,38.8949549,-77.0366455
+Aphelinidae,Encarsia,formosa,Georgia,41.6809707,44.0287382
+Aphelinidae,Encarsia,formosa,Idaho,43.6447642,-114.015407
+Aphelinidae,Encarsia,formosa,Kansas,38.27312,-98.5821871
+Aphelinidae,Encarsia,formosa,Massachusetts,42.3788774,-72.0323659
+Aphelinidae,Encarsia,formosa,Michigan,43.6211955,-84.6824345
+Aphelinidae,Encarsia,formosa,New York,40.7305991,-73.9865811
+Aphelinidae,Encarsia,formosa,Ohio,40.2253569,-82.6881394
+Aphelinidae,Encarsia,formosa,Texas,31.8160381,-99.5120985
+Aphelinidae,Encarsia,formosa,Uzbekistan,41.32373,63.9528098
+NA,NA,NA,,,
+Aphelinidae,Encarsia,galilea,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,galilea,Israel,30.8760272,35.0015196
+NA,NA,NA,,,
+Aphelinidae,Encarsia,hamoni,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,hamoni,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,hamoni,Georgia,41.6809707,44.0287382
+NA,NA,NA,,,
+Aphelinidae,Encarsia,inquirenda,Algeria,28.0000272,2.9999825
+Aphelinidae,Encarsia,inquirenda,Israel,30.8760272,35.0015196
+Aphelinidae,Encarsia,inquirenda,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,inquirenda,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,inquirenda,Lebanon,33.8750629,35.843409
+Aphelinidae,Encarsia,inquirenda,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,inquirenda,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Encarsia,inquirenda,Hunan (Hunan),27.9995878,112.009538
+Aphelinidae,Encarsia,inquirenda,Yunnan,25,102
+Aphelinidae,Encarsia,inquirenda,Spain,40.0028028,-4.0031039
+Aphelinidae,Encarsia,inquirenda,Vietnam,13.2904027,108.4265113
+NA,NA,NA,,,
+Aphelinidae,Encarsia,lounsburyi,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,lounsburyi,Australian Capital Territory,-35.4021015,148.9464218
+Aphelinidae,Encarsia,lounsburyi,Queensland,-21.9182855,144.4588889
+Aphelinidae,Encarsia,lounsburyi,Bermuda,32.3018217,-64.7603582
+Aphelinidae,Encarsia,lounsburyi,Rio de Janeiro,-22.2752761,-42.4194149
+Aphelinidae,Encarsia,lounsburyi,Ontario,50.0000002,-86
+Aphelinidae,Encarsia,lounsburyi,Easter Island,-27.1260191,-109.349674206
+Aphelinidae,Encarsia,lounsburyi,Cuba,23.0131338,-80.8328747
+Aphelinidae,Encarsia,lounsburyi,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,lounsburyi,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,lounsburyi,Haiti,19.1399952,-72.3570971
+Aphelinidae,Encarsia,lounsburyi,Indonesia,-4.7993355,114.5632032
+Aphelinidae,Encarsia,lounsburyi,Iran,32.9407496,52.9471344
+Aphelinidae,Encarsia,lounsburyi,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,lounsburyi,Madeira,32.75175465,-16.9817465613
+Aphelinidae,Encarsia,lounsburyi,Malawi,-13.2687203,33.9301963
+Aphelinidae,Encarsia,lounsburyi,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,lounsburyi,Morocco,31.1728192,-7.3366042
+Aphelinidae,Encarsia,lounsburyi,Mozambique,-19.3022329,34.9144977
+Aphelinidae,Encarsia,lounsburyi,New Caledonia,-21.3019904,165.4880773
+Aphelinidae,Encarsia,lounsburyi,North Africa,41.4299403,-8.0932407
+Aphelinidae,Encarsia,lounsburyi,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,lounsburyi,Peru,-6.8699696,-75.0458514
+Aphelinidae,Encarsia,lounsburyi,Philippines,12.7503486,122.7312101
+Aphelinidae,Encarsia,lounsburyi,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,lounsburyi,Sao Tomé and Principe,0.8875498,6.9648718
+Aphelinidae,Encarsia,lounsburyi,Senegal,14.4750607,-14.4529611
+Aphelinidae,Encarsia,lounsburyi,South Africa,-28.8166235,24.991639
+Aphelinidae,Encarsia,lounsburyi,Switzerland,46.7985624,8.2319736
+Aphelinidae,Encarsia,lounsburyi,Taiwan,23.9739374,120.9820179
+Aphelinidae,Encarsia,lounsburyi,Trinidad & Tobago,10.8677845,-60.9821066
+Aphelinidae,Encarsia,lounsburyi,Turkey,38.9597594,34.9249653
+Aphelinidae,Encarsia,lounsburyi,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,lounsburyi,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,lounsburyi,New York,40.7305991,-73.9865811
+Aphelinidae,Encarsia,lounsburyi,Venezuela,8.0018709,-66.1109317
+NA,NA,NA,,,
+Aphelinidae,Encarsia,obliqua,Queensland,-21.9182855,144.4588889
+Aphelinidae,Encarsia,obliqua,Papua New Guinea,-5.6816068,144.2489081
+NA,NA,NA,,,
+Aphelinidae,Encarsia,protransvena,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Encarsia,protransvena,Western Australia,-25.2303004,121.0187246
+Aphelinidae,Encarsia,protransvena,Cayman Islands,19.5417212,-80.5667131
+Aphelinidae,Encarsia,protransvena,Christmas Island,-10.4878278,105.6329821
+Aphelinidae,Encarsia,protransvena,Colombia,2.893108,-73.7845142
+Aphelinidae,Encarsia,protransvena,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,protransvena,Fiji,-18.1239695,179.0122737
+Aphelinidae,Encarsia,protransvena,French Polynesia,-18.6243748,-144.6434897
+Aphelinidae,Encarsia,protransvena,Hawaii,21.2160437,-157.9752029
+Aphelinidae,Encarsia,protransvena,Honduras,15.0610686,-84.5978533
+Aphelinidae,Encarsia,protransvena,Iran,32.9407496,52.9471344
+Aphelinidae,Encarsia,protransvena,Italy,42.6384261,12.674297
+Aphelinidae,Encarsia,protransvena,China,35.000074,104.999927
+Aphelinidae,Encarsia,protransvena,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,protransvena,Spain,40.0028028,-4.0031039
+Aphelinidae,Encarsia,protransvena,Taiwan,23.9739374,120.9820179
+Aphelinidae,Encarsia,protransvena,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,protransvena,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,protransvena,Georgia,41.6809707,44.0287382
+Aphelinidae,Encarsia,protransvena,Mississippi,32.9715645,-89.7348496
+Aphelinidae,Encarsia,protransvena,South Carolina,33.6874388,-80.4363742
+NA,NA,NA,,,
+Aphelinidae,Encarsia,ramsesi,Egypt,26.2540493,29.2675469
+NA,NA,NA,,,
+Aphelinidae,Encarsia,strenua,Caribbean (including West Indies),15.0000001,-75
+Aphelinidae,Encarsia,strenua,Egypt,26.2540493,29.2675469
+Aphelinidae,Encarsia,strenua,Honduras,15.0610686,-84.5978533
+Aphelinidae,Encarsia,strenua,Uttar Pradesh,27.1303344,80.859666
+Aphelinidae,Encarsia,strenua,West Bengal,22.9964948,87.6855882
+Aphelinidae,Encarsia,strenua,Indonesia,-4.7993355,114.5632032
+Aphelinidae,Encarsia,strenua,Israel,30.8760272,35.0015196
+Aphelinidae,Encarsia,strenua,Japan,36.5748441,139.2394179
+Aphelinidae,Encarsia,strenua,Malaysia,2.3923759,112.8471939
+Aphelinidae,Encarsia,strenua,Fujian (Fukien),26.5450001,117.842778
+Aphelinidae,Encarsia,strenua,Guangdong (Kwangtung),23.1357694,113.1982688
+Aphelinidae,Encarsia,strenua,Hong Kong,22.2793278,114.1628131
+Aphelinidae,Encarsia,strenua,Macau (Macao),22.1981595,113.5434786
+Aphelinidae,Encarsia,strenua,Puerto Rico,18.2017809,-66.5841245
+Aphelinidae,Encarsia,strenua,Spain,40.0028028,-4.0031039
+Aphelinidae,Encarsia,strenua,Taiwan,23.9739374,120.9820179
+Aphelinidae,Encarsia,strenua,California,36.7014631,-118.7559973
+Aphelinidae,Encarsia,strenua,Florida,27.7567667,-81.4639834
+Aphelinidae,Encarsia,strenua,South Carolina,33.6874388,-80.4363742
+NA,NA,NA,,,
+Aphelinidae,Encarsia,tabacivora,Brazil,-10.3333332,-53.1999999
+Aphelinidae,Encarsia,tabacivora,Caribbean (including West Indies),15.0000001,-75
+Aphelinidae,Encarsia,tabacivora,Dominican Republic,19.0974031,-70.3028025
+Aphelinidae,Encarsia,tabacivora,Mexico,19.4326009,-99.1333415
+Aphelinidae,Encarsia,tabacivora,South Carolina,33.6874388,-80.4363742
+NA,NA,NA,,,
+Aphelinidae,Eretmocerus,cocois,Guadeloupe,16.2490067,-61.5650443
+Aphelinidae,Eretmocerus,cocois,Mayotte,-12.8230479,45.1520755
+Aphelinidae,Eretmocerus,cocois,Réunion,-21.1309331,55.5265771
+NA,NA,NA,,,
+Aphelinidae,Eretmocerus,joeballi,Mexico,19.4326009,-99.1333415
+Aphelinidae,Eretmocerus,joeballi,California,36.7014631,-118.7559973
+NA,NA,NA,,,
+Aphelinidae,Eretmocerus,staufferi,Arizona,34.395342,-111.7632754
+Aphelinidae,Eretmocerus,staufferi,California,36.7014631,-118.7559973
+Aphelinidae,Eretmocerus,staufferi,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Aphelinidae,Eretmocerus,warrae,New South Wales,-31.8759834,147.2869493
+Aphelinidae,Eretmocerus,warrae,Queensland,-21.9182855,144.4588889
+Aphelinidae,Eretmocerus,warrae,South Australia,-30.5343664,135.6301212
+Aphelinidae,Eretmocerus,warrae,Victoria,-36.5986095,144.6780052
+Aphelinidae,Eretmocerus,warrae,Western Australia,-25.2303004,121.0187246
+NA,NA,NA,,,
+Aphelinidae,Paraphytis,acutaspidis,Rio de Janeiro,-22.2752761,-42.4194149
+NA,NA,NA,,,
+Aphelinidae,Paraphytis,anomalus,Minas Gerais,-18.5264843,-44.1588653
+Aphelinidae,Paraphytis,anomalus,Rio de Janeiro,-22.2752761,-42.4194149
+NA,NA,NA,,,
+Aphelinidae,Paraphytis,haywardi,Argentina,-34.9964962,-64.9672816
+Aphelinidae,Paraphytis,haywardi,Uruguay,-32.8755547,-56.0201524
+NA,NA,NA,,,
+Aphelinidae,Pteroptrix,silvestrii,Australia,-24.7761085,134.755
+NA,NA,NA,,,
+Chalcididae,Brachymeria,lasus,Queensland,-21.9182855,144.4588889
+Chalcididae,Brachymeria,lasus,Bangladesh,24.4768783,90.2932426
+Chalcididae,Brachymeria,lasus,Fiji,-18.1239695,179.0122737
+Chalcididae,Brachymeria,lasus,Guam,13.4501257,144.75755103
+Chalcididae,Brachymeria,lasus,Hawaii,21.2160437,-157.9752029
+Chalcididae,Brachymeria,lasus,Andaman and Nicobar Islands,10.2188344,92.5771329
+Chalcididae,Brachymeria,lasus,Arunachal Pradesh,28.3641989,94.7586273
+Chalcididae,Brachymeria,lasus,Assam,26.4073841,93.2551303
+Chalcididae,Brachymeria,lasus,Bihar,25.6440845,85.906508
+Chalcididae,Brachymeria,lasus,Delhi,28.6517178,77.2219388
+Chalcididae,Brachymeria,lasus,Gujarat,23.1923325,71.9329241
+Chalcididae,Brachymeria,lasus,Himachal Pradesh,31.9292352,77.1828462
+Chalcididae,Brachymeria,lasus,Jammu & Kashmir,34.0476564,76.7972892
+Chalcididae,Brachymeria,lasus,Karnataka,14.5203896,75.7223521
+Chalcididae,Brachymeria,lasus,Kerala,10.3529588,76.5119752
+Chalcididae,Brachymeria,lasus,Madhya Pradesh,23.8143419,77.5340719
+Chalcididae,Brachymeria,lasus,Maharashtra,19.531932,76.0554568
+Chalcididae,Brachymeria,lasus,Meghalaya,25.5379432,91.2999102
+Chalcididae,Brachymeria,lasus,Punjab,30.9293211,75.5004841
+Chalcididae,Brachymeria,lasus,Tripura,23.7750823,91.7025091
+Chalcididae,Brachymeria,lasus,Uttar Pradesh,27.1303344,80.859666
+Chalcididae,Brachymeria,lasus,West Bengal,22.9964948,87.6855882
+Chalcididae,Brachymeria,lasus,Indochina,-34.9493036,138.6076182
+Chalcididae,Brachymeria,lasus,Java (+ Bali),-6.3472901,106.779011
+Chalcididae,Brachymeria,lasus,West Papua,-1.3842355,132.902528
+Chalcididae,Brachymeria,lasus,Iran,32.9407496,52.9471344
+Chalcididae,Brachymeria,lasus,Japan,36.5748441,139.2394179
+Chalcididae,Brachymeria,lasus,Korea,35.3985008,127.937111
+Chalcididae,Brachymeria,lasus,Korea. South,37.5540282,126.7893535
+Chalcididae,Brachymeria,lasus,peninsular,-33.5991294,150.8346571
+Chalcididae,Brachymeria,lasus,Sarawak,2.3926225,113.646867
+Chalcididae,Brachymeria,lasus,North Africa,41.4299403,-8.0932407
+Chalcididae,Brachymeria,lasus,Pakistan,30.3308401,71.247499
+Chalcididae,Brachymeria,lasus,Palau,6.097367,133.313631
+Chalcididae,Brachymeria,lasus,Papua New Guinea,-5.6816068,144.2489081
+Chalcididae,Brachymeria,lasus,Beijing (Peking),39.9059631,116.391248
+Chalcididae,Brachymeria,lasus,Fujian (Fukien),26.5450001,117.842778
+Chalcididae,Brachymeria,lasus,Guangxi (Kwangsi),24,109
+Chalcididae,Brachymeria,lasus,Guizhou (Kweichow),26.573796,108.599136
+Chalcididae,Brachymeria,lasus,Hong Kong,22.2793278,114.1628131
+Chalcididae,Brachymeria,lasus,Hubei (Hupeh),31,112
+Chalcididae,Brachymeria,lasus,Hunan (Hunan),27.9995878,112.009538
+Chalcididae,Brachymeria,lasus,Jiangsu (Kiangsu),33.0000001,119.9999999
+Chalcididae,Brachymeria,lasus,Shanxi (Shansi),37,112
+Chalcididae,Brachymeria,lasus,Sichuan (Szechwan),32.41875,102.6366383
+Chalcididae,Brachymeria,lasus,Zhejiang (Chekiang),29.0000001,119.9999999
+Chalcididae,Brachymeria,lasus,Philippines,12.7503486,122.7312101
+Chalcididae,Brachymeria,lasus,Taiwan,23.9739374,120.9820179
+Chalcididae,Brachymeria,lasus,Connecticut,41.6500201,-72.7342162
+Chalcididae,Brachymeria,lasus,Pennsylvania,40.9699889,-77.727883
+Chalcididae,Brachymeria,lasus,Wisconsin,44.4308975,-89.6884636
+Chalcididae,Brachymeria,lasus,Vietnam,13.2904027,108.4265113
+NA,NA,NA,,,
+Encyrtidae,Adelencyrtus,odonaspidis,Bermuda,32.3018217,-64.7603582
+Encyrtidae,Adelencyrtus,odonaspidis,Brazil,-10.3333332,-53.1999999
+Encyrtidae,Adelencyrtus,odonaspidis,Cuba,23.0131338,-80.8328747
+Encyrtidae,Adelencyrtus,odonaspidis,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Adelencyrtus,odonaspidis,Karnataka,14.5203896,75.7223521
+Encyrtidae,Adelencyrtus,odonaspidis,Japan,36.5748441,139.2394179
+Encyrtidae,Adelencyrtus,odonaspidis,Mexico,19.4326009,-99.1333415
+Encyrtidae,Adelencyrtus,odonaspidis,Hainan,19.2000001,109.5999999
+Encyrtidae,Adelencyrtus,odonaspidis,South Africa,-28.8166235,24.991639
+Encyrtidae,Adelencyrtus,odonaspidis,Trinidad & Tobago,10.8677845,-60.9821066
+Encyrtidae,Adelencyrtus,odonaspidis,Florida,27.7567667,-81.4639834
+Encyrtidae,Adelencyrtus,odonaspidis,Louisiana,30.8703881,-92.0071259
+Encyrtidae,Adelencyrtus,odonaspidis,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Encyrtidae,Anagyrus,yuccae,California,36.7014631,-118.7559973
+NA,NA,NA,,,
+Encyrtidae,Anicetus,ceroplastis,Israel,30.8760272,35.0015196
+Encyrtidae,Anicetus,ceroplastis,Japan,36.5748441,139.2394179
+Encyrtidae,Anicetus,ceroplastis,Anhui (Anhwei),32,117
+Encyrtidae,Anicetus,ceroplastis,Fujian (Fukien),26.5450001,117.842778
+Encyrtidae,Anicetus,ceroplastis,Guangdong (Kwangtung),23.1357694,113.1982688
+Encyrtidae,Anicetus,ceroplastis,Guizhou (Kweichow),26.573796,108.599136
+Encyrtidae,Anicetus,ceroplastis,Hainan,19.2000001,109.5999999
+Encyrtidae,Anicetus,ceroplastis,Henan (Honan),34.0000001,113.9999999
+Encyrtidae,Anicetus,ceroplastis,Hunan (Hunan),27.9995878,112.009538
+Encyrtidae,Anicetus,ceroplastis,Jiangsu (Kiangsu),33.0000001,119.9999999
+Encyrtidae,Anicetus,ceroplastis,Jiangxi (Kiangsi),28,116
+Encyrtidae,Anicetus,ceroplastis,Shaanxi (Shensi),36,109
+Encyrtidae,Anicetus,ceroplastis,Shandong (Shantung),36.0000001,118.9999999
+Encyrtidae,Anicetus,ceroplastis,Sichuan (Szechwan),32.41875,102.6366383
+Encyrtidae,Anicetus,ceroplastis,Zhejiang (Chekiang),29.0000001,119.9999999
+NA,NA,NA,,,
+Encyrtidae,Blepyrus,insularis,Bahamas,24.7736546,-78.0000546
+Encyrtidae,Blepyrus,insularis,Bangladesh,24.4768783,90.2932426
+Encyrtidae,Blepyrus,insularis,Cape Verde Islands,16.0000552,-24.0083946
+Encyrtidae,Blepyrus,insularis,Colombia,2.893108,-73.7845142
+Encyrtidae,Blepyrus,insularis,Congo,-2.9814343,23.8222636
+Encyrtidae,Blepyrus,insularis,Costa Rica,10.2735633,-84.0739101
+Encyrtidae,Blepyrus,insularis,Cuba,23.0131338,-80.8328747
+Encyrtidae,Blepyrus,insularis,Democratic Republic of Congo (Zaire),-2.9814343,23.8222636
+Encyrtidae,Blepyrus,insularis,Egypt,26.2540493,29.2675469
+Encyrtidae,Blepyrus,insularis,Gambia,13.470062,-15.4900463
+Encyrtidae,Blepyrus,insularis,Ghana,8.0300284,-1.080027
+Encyrtidae,Blepyrus,insularis,Guinea-Bissau,12.100035,-14.9000213
+Encyrtidae,Blepyrus,insularis,Guyana,4.8417097,-58.641689
+Encyrtidae,Blepyrus,insularis,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Blepyrus,insularis,Andhra Pradesh,15.9240905,80.1863809
+Encyrtidae,Blepyrus,insularis,Delhi,28.6517178,77.2219388
+Encyrtidae,Blepyrus,insularis,Goa Daman & Diu,15.3004543,74.0855134
+Encyrtidae,Blepyrus,insularis,Karnataka,14.5203896,75.7223521
+Encyrtidae,Blepyrus,insularis,Kerala,10.3529588,76.5119752
+Encyrtidae,Blepyrus,insularis,Madhya Pradesh,23.8143419,77.5340719
+Encyrtidae,Blepyrus,insularis,Maharashtra,19.531932,76.0554568
+Encyrtidae,Blepyrus,insularis,Odisha,20.5431241,84.6897321
+Encyrtidae,Blepyrus,insularis,Puducherry,10.90253775,79.9752370356
+Encyrtidae,Blepyrus,insularis,Tamil Nadu,10.9094334,78.3665347
+Encyrtidae,Blepyrus,insularis,Uttar Pradesh,27.1303344,80.859666
+Encyrtidae,Blepyrus,insularis,Uttarakhand,30.0417376,79.089691
+Encyrtidae,Blepyrus,insularis,West Bengal,22.9964948,87.6855882
+Encyrtidae,Blepyrus,insularis,Israel,30.8760272,35.0015196
+Encyrtidae,Blepyrus,insularis,Madagascar,-18.9249603,46.4416422
+Encyrtidae,Blepyrus,insularis,peninsular,-33.5991294,150.8346571
+Encyrtidae,Blepyrus,insularis,Sarawak,2.3926225,113.646867
+Encyrtidae,Blepyrus,insularis,Mexico,19.4326009,-99.1333415
+Encyrtidae,Blepyrus,insularis,Micronesia,5.5600565,150.1982846
+Encyrtidae,Blepyrus,insularis,Nigeria,9.6000359,7.9999721
+Encyrtidae,Blepyrus,insularis,Papua New Guinea,-5.6816068,144.2489081
+Encyrtidae,Blepyrus,insularis,Hainan,19.2000001,109.5999999
+Encyrtidae,Blepyrus,insularis,Philippines,12.7503486,122.7312101
+Encyrtidae,Blepyrus,insularis,South Africa,-28.8166235,24.991639
+Encyrtidae,Blepyrus,insularis,Sri Lanka,7.878,80.7038245875
+Encyrtidae,Blepyrus,insularis,Sudan,14.5844444,29.4917691
+Encyrtidae,Blepyrus,insularis,Thailand,14.8971921,100.83273
+Encyrtidae,Blepyrus,insularis,Togo,8.7800265,1.0199765
+Encyrtidae,Blepyrus,insularis,Trinidad & Tobago,10.8677845,-60.9821066
+Encyrtidae,Blepyrus,insularis,California,36.7014631,-118.7559973
+Encyrtidae,Blepyrus,insularis,Mississippi,32.9715645,-89.7348496
+Encyrtidae,Blepyrus,insularis,Texas,31.8160381,-99.5120985
+Encyrtidae,Blepyrus,insularis,West Africa,2.0000003,15.9999997
+NA,NA,NA,,,
+Encyrtidae,Clausenia,purpurea,Ontario,50.0000002,-86
+Encyrtidae,Clausenia,purpurea,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Clausenia,purpurea,Assam,26.4073841,93.2551303
+Encyrtidae,Clausenia,purpurea,Israel,30.8760272,35.0015196
+Encyrtidae,Clausenia,purpurea,Italy,42.6384261,12.674297
+Encyrtidae,Clausenia,purpurea,Japan,36.5748441,139.2394179
+Encyrtidae,Clausenia,purpurea,Paraguay,-23.3165934,-58.1693444
+Encyrtidae,Clausenia,purpurea,Fujian (Fukien),26.5450001,117.842778
+Encyrtidae,Clausenia,purpurea,Sichuan (Szechwan),32.41875,102.6366383
+Encyrtidae,Clausenia,purpurea,Zhejiang (Chekiang),29.0000001,119.9999999
+Encyrtidae,Clausenia,purpurea,Syria,34.6401861,39.0494106
+Encyrtidae,Clausenia,purpurea,Taiwan,23.9739374,120.9820179
+Encyrtidae,Clausenia,purpurea,California,36.7014631,-118.7559973
+Encyrtidae,Clausenia,purpurea,Connecticut,41.6500201,-72.7342162
+Encyrtidae,Clausenia,purpurea,Ohio,40.2253569,-82.6881394
+Encyrtidae,Clausenia,purpurea,South Carolina,33.6874388,-80.4363742
+Encyrtidae,Clausenia,purpurea,Virginia,37.1232245,-78.492772
+Encyrtidae,Clausenia,purpurea,West Virginia,38.4758406,-80.8408414
+Encyrtidae,Clausenia,purpurea,Uzbekistan,41.32373,63.9528098
+NA,NA,NA,,,
+Encyrtidae,Coccidoxenoides,perminutus,Queensland,-21.9182855,144.4588889
+Encyrtidae,Coccidoxenoides,perminutus,Bermuda,32.3018217,-64.7603582
+Encyrtidae,Coccidoxenoides,perminutus,Chile,-31.7613364,-71.3187696
+Encyrtidae,Coccidoxenoides,perminutus,Costa Rica,10.2735633,-84.0739101
+Encyrtidae,Coccidoxenoides,perminutus,Cuba,23.0131338,-80.8328747
+Encyrtidae,Coccidoxenoides,perminutus,Cyprus,34.9823018,33.1451285
+Encyrtidae,Coccidoxenoides,perminutus,Fiji,-18.1239695,179.0122737
+Encyrtidae,Coccidoxenoides,perminutus,French Polynesia,-18.6243748,-144.6434897
+Encyrtidae,Coccidoxenoides,perminutus,Ghana,8.0300284,-1.080027
+Encyrtidae,Coccidoxenoides,perminutus,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Coccidoxenoides,perminutus,Honduras,15.0610686,-84.5978533
+Encyrtidae,Coccidoxenoides,perminutus,Karnataka,14.5203896,75.7223521
+Encyrtidae,Coccidoxenoides,perminutus,West Bengal,22.9964948,87.6855882
+Encyrtidae,Coccidoxenoides,perminutus,Java (+ Bali),-6.3472901,106.779011
+Encyrtidae,Coccidoxenoides,perminutus,Iran,32.9407496,52.9471344
+Encyrtidae,Coccidoxenoides,perminutus,Israel,30.8760272,35.0015196
+Encyrtidae,Coccidoxenoides,perminutus,Italy,42.6384261,12.674297
+Encyrtidae,Coccidoxenoides,perminutus,Ivory Coast,7.9897371,-5.5679457
+Encyrtidae,Coccidoxenoides,perminutus,Kenya,1.4419683,38.4313975
+Encyrtidae,Coccidoxenoides,perminutus,Madeira,32.75175465,-16.9817465613
+Encyrtidae,Coccidoxenoides,perminutus,Mexico,19.4326009,-99.1333415
+Encyrtidae,Coccidoxenoides,perminutus,New Caledonia,-21.3019904,165.4880773
+Encyrtidae,Coccidoxenoides,perminutus,Nicaragua,12.3724928,-84.8700307
+Encyrtidae,Coccidoxenoides,perminutus,Pakistan,30.3308401,71.247499
+Encyrtidae,Coccidoxenoides,perminutus,Fujian (Fukien),26.5450001,117.842778
+Encyrtidae,Coccidoxenoides,perminutus,Yunnan,25,102
+Encyrtidae,Coccidoxenoides,perminutus,Peru,-6.8699696,-75.0458514
+Encyrtidae,Coccidoxenoides,perminutus,Philippines,12.7503486,122.7312101
+Encyrtidae,Coccidoxenoides,perminutus,Puerto Rico,18.2017809,-66.5841245
+Encyrtidae,Coccidoxenoides,perminutus,South Africa,-28.8166235,24.991639
+Encyrtidae,Coccidoxenoides,perminutus,Uganda,1.5333554,32.2166578
+Encyrtidae,Coccidoxenoides,perminutus,England,52.7954791,-0.540240236617
+Encyrtidae,Coccidoxenoides,perminutus,California,36.7014631,-118.7559973
+Encyrtidae,Coccidoxenoides,perminutus,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Encyrtidae,Comperiella,unifasciata,Fiji,-18.1239695,179.0122737
+Encyrtidae,Comperiella,unifasciata,Uttar Pradesh,27.1303344,80.859666
+Encyrtidae,Comperiella,unifasciata,Java (+ Bali),-6.3472901,106.779011
+Encyrtidae,Comperiella,unifasciata,Sulawesi,-1.97560385,120.295079345
+Encyrtidae,Comperiella,unifasciata,West Lesser Sundas,-8.9999999,120
+Encyrtidae,Comperiella,unifasciata,Japan,36.5748441,139.2394179
+Encyrtidae,Comperiella,unifasciata,Mauritius,-20.275945,57.5703566
+Encyrtidae,Comperiella,unifasciata,Anhui (Anhwei),32,117
+Encyrtidae,Comperiella,unifasciata,Fujian (Fukien),26.5450001,117.842778
+Encyrtidae,Comperiella,unifasciata,Guangdong (Kwangtung),23.1357694,113.1982688
+Encyrtidae,Comperiella,unifasciata,Hainan,19.2000001,109.5999999
+Encyrtidae,Comperiella,unifasciata,Henan (Honan),34.0000001,113.9999999
+Encyrtidae,Comperiella,unifasciata,Hunan (Hunan),27.9995878,112.009538
+Encyrtidae,Comperiella,unifasciata,Jiangxi (Kiangsi),28,116
+Encyrtidae,Comperiella,unifasciata,Shanghai,31.2253441,121.4888922
+Encyrtidae,Comperiella,unifasciata,Sichuan (Szechwan),32.41875,102.6366383
+Encyrtidae,Comperiella,unifasciata,Zhejiang (Chekiang),29.0000001,119.9999999
+Encyrtidae,Comperiella,unifasciata,California,36.7014631,-118.7559973
+NA,NA,NA,,,
+Encyrtidae,Copidosoma,filicorne,Afghanistan,33.0000866,64.9998468
+Encyrtidae,Copidosoma,filicorne,Andorra,42.5407167,1.5732033
+Encyrtidae,Copidosoma,filicorne,Armenia,40.7696272,44.6736646
+Encyrtidae,Copidosoma,filicorne,Austria,47.2000338,13.199959
+Encyrtidae,Copidosoma,filicorne,Belgium,50.6407351,4.66696
+Encyrtidae,Copidosoma,filicorne,Bulgaria,42.6073975,25.4856617
+Encyrtidae,Copidosoma,filicorne,Ontario,50.0000002,-86
+Encyrtidae,Copidosoma,filicorne,Cyprus,34.9823018,33.1451285
+Encyrtidae,Copidosoma,filicorne,Czech Republic,49.8167003,15.4749544
+Encyrtidae,Copidosoma,filicorne,Denmark,55.670249,10.3333283
+Encyrtidae,Copidosoma,filicorne,Finland,63.2467777,25.9209164
+Encyrtidae,Copidosoma,filicorne,France,46.603354,1.8883335
+Encyrtidae,Copidosoma,filicorne,Georgia,41.6809707,44.0287382
+Encyrtidae,Copidosoma,filicorne,Germany,51.0834196,10.4234469
+Encyrtidae,Copidosoma,filicorne,Greece,39.000041,21.9999569
+Encyrtidae,Copidosoma,filicorne,Hungary,47.1817585,19.5060937
+Encyrtidae,Copidosoma,filicorne,Italy,42.6384261,12.674297
+Encyrtidae,Copidosoma,filicorne,Moldova,47.286747,28.5110236
+Encyrtidae,Copidosoma,filicorne,Netherlands,52.2379891,5.53460738162
+Encyrtidae,Copidosoma,filicorne,Norway,64.574131,11.5270102892
+Encyrtidae,Copidosoma,filicorne,Heilongjiang (HeilungKiang),48.0000047,127.999992
+Encyrtidae,Copidosoma,filicorne,Poland,52.0977181,19.0258159
+Encyrtidae,Copidosoma,filicorne,Romania,45.9852129,24.6859225
+Encyrtidae,Copidosoma,filicorne,Komi ASSR,63.81152515,53.0940503376
+Encyrtidae,Copidosoma,filicorne,Serbia,44.1534121,20.55144
+Encyrtidae,Copidosoma,filicorne,Slovakia,48.7411522,19.4528646
+Encyrtidae,Copidosoma,filicorne,Spain,40.0028028,-4.0031039
+Encyrtidae,Copidosoma,filicorne,Sweden,59.6749712,14.5208584
+Encyrtidae,Copidosoma,filicorne,Tadzhikistan,38.6281733,70.8156541
+Encyrtidae,Copidosoma,filicorne,Tselinograd Obl.,51.15092055,71.4388595155
+Encyrtidae,Copidosoma,filicorne,England,52.7954791,-0.540240236617
+Encyrtidae,Copidosoma,filicorne,Scotland,56.7861112,-4.1140517
+Encyrtidae,Copidosoma,filicorne,Wales,52.2928116,-3.7389299
+Encyrtidae,Copidosoma,filicorne,Connecticut,41.6500201,-72.7342162
+Encyrtidae,Copidosoma,filicorne,Massachusetts,42.3788774,-72.0323659
+Encyrtidae,Copidosoma,filicorne,New Jersey,40.0757384,-74.4041621
+Encyrtidae,Copidosoma,filicorne,New York,40.7305991,-73.9865811
+Encyrtidae,Copidosoma,filicorne,Pennsylvania,40.9699889,-77.727883
+Encyrtidae,Copidosoma,filicorne,Uzbekistan,41.32373,63.9528098
+NA,NA,NA,,,
+Encyrtidae,Diaphorencyrtus,aligarhensis,Andhra Pradesh,15.9240905,80.1863809
+Encyrtidae,Diaphorencyrtus,aligarhensis,Maharashtra,19.531932,76.0554568
+Encyrtidae,Diaphorencyrtus,aligarhensis,Punjab,30.9293211,75.5004841
+Encyrtidae,Diaphorencyrtus,aligarhensis,Rajasthan,26.8105777,73.7684549
+Encyrtidae,Diaphorencyrtus,aligarhensis,Tamil Nadu,10.9094334,78.3665347
+Encyrtidae,Diaphorencyrtus,aligarhensis,Uttar Pradesh,27.1303344,80.859666
+Encyrtidae,Diaphorencyrtus,aligarhensis,Fujian (Fukien),26.5450001,117.842778
+Encyrtidae,Diaphorencyrtus,aligarhensis,Guangdong (Kwangtung),23.1357694,113.1982688
+Encyrtidae,Diaphorencyrtus,aligarhensis,Guangxi (Kwangsi),24,109
+Encyrtidae,Diaphorencyrtus,aligarhensis,Philippines,12.7503486,122.7312101
+Encyrtidae,Diaphorencyrtus,aligarhensis,Réunion,-21.1309331,55.5265771
+Encyrtidae,Diaphorencyrtus,aligarhensis,South Africa,-28.8166235,24.991639
+Encyrtidae,Diaphorencyrtus,aligarhensis,Taiwan,23.9739374,120.9820179
+Encyrtidae,Diaphorencyrtus,aligarhensis,Florida,27.7567667,-81.4639834
+Encyrtidae,Diaphorencyrtus,aligarhensis,Vietnam,13.2904027,108.4265113
+NA,NA,NA,,,
+Encyrtidae,Diversinervus,cervantesi,Queensland,-21.9182855,144.4588889
+Encyrtidae,Diversinervus,cervantesi,French Polynesia,-18.6243748,-144.6434897
+Encyrtidae,Diversinervus,cervantesi,Andaman and Nicobar Islands,10.2188344,92.5771329
+Encyrtidae,Diversinervus,cervantesi,Karnataka,14.5203896,75.7223521
+Encyrtidae,Diversinervus,cervantesi,Israel,30.8760272,35.0015196
+Encyrtidae,Diversinervus,cervantesi,Malaysia,2.3923759,112.8471939
+Encyrtidae,Diversinervus,cervantesi,South Africa,-28.8166235,24.991639
+Encyrtidae,Diversinervus,cervantesi,Western Samoa,40.86412885,-124.097067824
+NA,NA,NA,,,
+Encyrtidae,Encyrtus,fuliginosus,Eritrea,15.9500319,37.9999668
+Encyrtidae,Encyrtus,fuliginosus,Ethiopia,10.2116702,38.6521203
+Encyrtidae,Encyrtus,fuliginosus,Kenya,1.4419683,38.4313975
+Encyrtidae,Encyrtus,fuliginosus,Madagascar,-18.9249603,46.4416422
+Encyrtidae,Encyrtus,fuliginosus,Mozambique,-19.3022329,34.9144977
+Encyrtidae,Encyrtus,fuliginosus,Namibia (South West Africa),-22.5037497,17.0194784
+Encyrtidae,Encyrtus,fuliginosus,South Africa,-28.8166235,24.991639
+Encyrtidae,Encyrtus,fuliginosus,California,36.7014631,-118.7559973
+NA,NA,NA,,,
+Encyrtidae,Encyrtus,infelix,Algeria,28.0000272,2.9999825
+Encyrtidae,Encyrtus,infelix,Queensland,-21.9182855,144.4588889
+Encyrtidae,Encyrtus,infelix,Austria,47.2000338,13.199959
+Encyrtidae,Encyrtus,infelix,Bermuda,32.3018217,-64.7603582
+Encyrtidae,Encyrtus,infelix,Bahia,-12.2852509,-41.9294775
+Encyrtidae,Encyrtus,infelix,Paraná,-24.4842186,-51.8148871
+Encyrtidae,Encyrtus,infelix,Santa Catarina,-27.0628366,-51.1149649
+Encyrtidae,Encyrtus,infelix,Canary Islands,28.5306525,-15.7464438
+Encyrtidae,Encyrtus,infelix,Cape Verde Islands,16.0000552,-24.0083946
+Encyrtidae,Encyrtus,infelix,Colombia,2.893108,-73.7845142
+Encyrtidae,Encyrtus,infelix,Costa Rica,10.2735633,-84.0739101
+Encyrtidae,Encyrtus,infelix,Cuba,23.0131338,-80.8328747
+Encyrtidae,Encyrtus,infelix,Dominica,15.4113138,-61.3653617
+Encyrtidae,Encyrtus,infelix,Dominican Republic,19.0974031,-70.3028025
+Encyrtidae,Encyrtus,infelix,Ecuador,-1.3397667,-79.3666964
+Encyrtidae,Encyrtus,infelix,Egypt,26.2540493,29.2675469
+Encyrtidae,Encyrtus,infelix,Fiji,-18.1239695,179.0122737
+Encyrtidae,Encyrtus,infelix,French Polynesia,-18.6243748,-144.6434897
+Encyrtidae,Encyrtus,infelix,Germany,51.0834196,10.4234469
+Encyrtidae,Encyrtus,infelix,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Encyrtus,infelix,Assam,26.4073841,93.2551303
+Encyrtidae,Encyrtus,infelix,Karnataka,14.5203896,75.7223521
+Encyrtidae,Encyrtus,infelix,Tamil Nadu,10.9094334,78.3665347
+Encyrtidae,Encyrtus,infelix,West Bengal,22.9964948,87.6855882
+Encyrtidae,Encyrtus,infelix,Israel,30.8760272,35.0015196
+Encyrtidae,Encyrtus,infelix,Jamaica,18.1850507,-77.3947692
+Encyrtidae,Encyrtus,infelix,Kenya,1.4419683,38.4313975
+Encyrtidae,Encyrtus,infelix,Madagascar,-18.9249603,46.4416422
+Encyrtidae,Encyrtus,infelix,Madeira,32.75175465,-16.9817465613
+Encyrtidae,Encyrtus,infelix,Malaysia,2.3923759,112.8471939
+Encyrtidae,Encyrtus,infelix,Mexico,19.4326009,-99.1333415
+Encyrtidae,Encyrtus,infelix,Morocco,31.1728192,-7.3366042
+Encyrtidae,Encyrtus,infelix,Netherlands,52.2379891,5.53460738162
+Encyrtidae,Encyrtus,infelix,New Caledonia,-21.3019904,165.4880773
+Encyrtidae,Encyrtus,infelix,New Zealand,-41.500083,172.8344077
+Encyrtidae,Encyrtus,infelix,Peru,-6.8699696,-75.0458514
+Encyrtidae,Encyrtus,infelix,Philippines,12.7503486,122.7312101
+Encyrtidae,Encyrtus,infelix,Puerto Rico,18.2017809,-66.5841245
+Encyrtidae,Encyrtus,infelix,Moscow Oblast,55.5043158,38.0353929
+Encyrtidae,Encyrtus,infelix,St. Petersberg (Leningrad),59.9393657,30.3153628
+Encyrtidae,Encyrtus,infelix,Seychelles,-4.6574976,55.4540146
+Encyrtidae,Encyrtus,infelix,Sri Lanka,7.878,80.7038245875
+Encyrtidae,Encyrtus,infelix,St Vincent & Grenadines,12.90447,-61.2765568
+Encyrtidae,Encyrtus,infelix,Switzerland,46.7985624,8.2319736
+Encyrtidae,Encyrtus,infelix,Trinidad & Tobago,10.8677845,-60.9821066
+Encyrtidae,Encyrtus,infelix,Turkey,38.9597594,34.9249653
+Encyrtidae,Encyrtus,infelix,England,52.7954791,-0.540240236617
+Encyrtidae,Encyrtus,infelix,Scotland,56.7861112,-4.1140517
+Encyrtidae,Encyrtus,infelix,California,36.7014631,-118.7559973
+Encyrtidae,Encyrtus,infelix,Florida,27.7567667,-81.4639834
+Encyrtidae,Encyrtus,infelix,New York,40.7305991,-73.9865811
+Encyrtidae,Encyrtus,infelix,Texas,31.8160381,-99.5120985
+Encyrtidae,Encyrtus,infelix,Venezuela,8.0018709,-66.1109317
+Encyrtidae,Encyrtus,infelix,Vietnam,13.2904027,108.4265113
+Encyrtidae,Encyrtus,infelix,Western Samoa,40.86412885,-124.097067824
+Encyrtidae,Encyrtus,infelix,Zimbabwe,-18.4554962,29.7468414
+NA,NA,NA,,,
+Encyrtidae,Habrolepis,dalmanni,Algeria,28.0000272,2.9999825
+Encyrtidae,Habrolepis,dalmanni,Armenia,40.7696272,44.6736646
+Encyrtidae,Habrolepis,dalmanni,Australian Capital Territory,-35.4021015,148.9464218
+Encyrtidae,Habrolepis,dalmanni,New South Wales,-31.8759834,147.2869493
+Encyrtidae,Habrolepis,dalmanni,Tasmania,-42.0350669,146.6366887
+Encyrtidae,Habrolepis,dalmanni,Victoria,-36.5986095,144.6780052
+Encyrtidae,Habrolepis,dalmanni,Austria,47.2000338,13.199959
+Encyrtidae,Habrolepis,dalmanni,Azerbaijan,40.3936294,47.7872508
+Encyrtidae,Habrolepis,dalmanni,Bulgaria,42.6073975,25.4856617
+Encyrtidae,Habrolepis,dalmanni,Chile,-31.7613364,-71.3187696
+Encyrtidae,Habrolepis,dalmanni,Croatia,45.5643442,17.0118954
+Encyrtidae,Habrolepis,dalmanni,Czech Republic,49.8167003,15.4749544
+Encyrtidae,Habrolepis,dalmanni,Denmark,55.670249,10.3333283
+Encyrtidae,Habrolepis,dalmanni,France,46.603354,1.8883335
+Encyrtidae,Habrolepis,dalmanni,Georgia,41.6809707,44.0287382
+Encyrtidae,Habrolepis,dalmanni,Germany,51.0834196,10.4234469
+Encyrtidae,Habrolepis,dalmanni,Hungary,47.1817585,19.5060937
+Encyrtidae,Habrolepis,dalmanni,Iran,32.9407496,52.9471344
+Encyrtidae,Habrolepis,dalmanni,Israel,30.8760272,35.0015196
+Encyrtidae,Habrolepis,dalmanni,Italy,42.6384261,12.674297
+Encyrtidae,Habrolepis,dalmanni,Moldova,47.286747,28.5110236
+Encyrtidae,Habrolepis,dalmanni,Netherlands,52.2379891,5.53460738162
+Encyrtidae,Habrolepis,dalmanni,New Zealand,-41.500083,172.8344077
+Encyrtidae,Habrolepis,dalmanni,North Africa,41.4299403,-8.0932407
+Encyrtidae,Habrolepis,dalmanni,Poland,52.0977181,19.0258159
+Encyrtidae,Habrolepis,dalmanni,Romania,45.9852129,24.6859225
+Encyrtidae,Habrolepis,dalmanni,Adygey AO (Adigei),44.6939006,40.1520421
+Encyrtidae,Habrolepis,dalmanni,Kabardino-Balkarian ASSR,43.4428286,43.4204809
+Encyrtidae,Habrolepis,dalmanni,Kaliningrad Oblast,54.7066422,20.5105166
+Encyrtidae,Habrolepis,dalmanni,Karachai-Cherkess AR,44.2250248,42.056765
+Encyrtidae,Habrolepis,dalmanni,Khabarovsk Kray (Territory),51.6312684,136.121524
+Encyrtidae,Habrolepis,dalmanni,Kursk Oblast,51.6568453,36.4852695
+Encyrtidae,Habrolepis,dalmanni,St. Petersberg (Leningrad),59.9393657,30.3153628
+Encyrtidae,Habrolepis,dalmanni,Slovakia,48.7411522,19.4528646
+Encyrtidae,Habrolepis,dalmanni,South Africa,-28.8166235,24.991639
+Encyrtidae,Habrolepis,dalmanni,Spain,40.0028028,-4.0031039
+Encyrtidae,Habrolepis,dalmanni,Sweden,59.6749712,14.5208584
+Encyrtidae,Habrolepis,dalmanni,Turkey,38.9597594,34.9249653
+Encyrtidae,Habrolepis,dalmanni,Uganda,1.5333554,32.2166578
+Encyrtidae,Habrolepis,dalmanni,Ukraine,49.4871968,31.2718321
+Encyrtidae,Habrolepis,dalmanni,England,52.7954791,-0.540240236617
+Encyrtidae,Habrolepis,dalmanni,Connecticut,41.6500201,-72.7342162
+Encyrtidae,Habrolepis,dalmanni,Massachusetts,42.3788774,-72.0323659
+Encyrtidae,Habrolepis,dalmanni,Ohio,40.2253569,-82.6881394
+NA,NA,NA,,,
+Encyrtidae,Habrolepis,rouxi,Bermuda,32.3018217,-64.7603582
+Encyrtidae,Habrolepis,rouxi,Chile,-31.7613364,-71.3187696
+Encyrtidae,Habrolepis,rouxi,Israel,30.8760272,35.0015196
+Encyrtidae,Habrolepis,rouxi,Kenya,1.4419683,38.4313975
+Encyrtidae,Habrolepis,rouxi,Madagascar,-18.9249603,46.4416422
+Encyrtidae,Habrolepis,rouxi,Mozambique,-19.3022329,34.9144977
+Encyrtidae,Habrolepis,rouxi,Peru,-6.8699696,-75.0458514
+Encyrtidae,Habrolepis,rouxi,Saudi Arabia,25.6242618,42.3528328
+Encyrtidae,Habrolepis,rouxi,South Africa,-28.8166235,24.991639
+Encyrtidae,Habrolepis,rouxi,Swaziland,-26.5624805,31.3991317
+Encyrtidae,Habrolepis,rouxi,Uganda,1.5333554,32.2166578
+Encyrtidae,Habrolepis,rouxi,California,36.7014631,-118.7559973
+Encyrtidae,Habrolepis,rouxi,Zimbabwe,-18.4554962,29.7468414
+NA,NA,NA,,,
+Encyrtidae,Microterys,speciosus,Israel,30.8760272,35.0015196
+Encyrtidae,Microterys,speciosus,Japan,36.5748441,139.2394179
+Encyrtidae,Microterys,speciosus,Fujian (Fukien),26.5450001,117.842778
+Encyrtidae,Microterys,speciosus,Guangxi (Kwangsi),24,109
+Encyrtidae,Microterys,speciosus,Henan (Honan),34.0000001,113.9999999
+Encyrtidae,Microterys,speciosus,Hunan (Hunan),27.9995878,112.009538
+Encyrtidae,Microterys,speciosus,Jiangxi (Kiangsi),28,116
+Encyrtidae,Microterys,speciosus,Sichuan (Szechwan),32.41875,102.6366383
+Encyrtidae,Microterys,speciosus,Zhejiang (Chekiang),29.0000001,119.9999999
+Encyrtidae,Microterys,speciosus,South Africa,-28.8166235,24.991639
+Encyrtidae,Microterys,speciosus,Taiwan,23.9739374,120.9820179
+NA,NA,NA,,,
+Encyrtidae,Ooencyrtus,submetallicus,Antigua,19.3176799,-96.3186408252
+Encyrtidae,Ooencyrtus,submetallicus,Antilles,47.2037987,-1.5695544
+Encyrtidae,Ooencyrtus,submetallicus,Argentina,-34.9964962,-64.9672816
+Encyrtidae,Ooencyrtus,submetallicus,Australian Capital Territory,-35.4021015,148.9464218
+Encyrtidae,Ooencyrtus,submetallicus,New South Wales,-31.8759834,147.2869493
+Encyrtidae,Ooencyrtus,submetallicus,Northern Territory,-19.85161,133.2303375
+Encyrtidae,Ooencyrtus,submetallicus,Queensland,-21.9182855,144.4588889
+Encyrtidae,Ooencyrtus,submetallicus,South Australia,-30.5343664,135.6301212
+Encyrtidae,Ooencyrtus,submetallicus,Victoria,-36.5986095,144.6780052
+Encyrtidae,Ooencyrtus,submetallicus,Barbados,13.1500331,-59.5250304
+Encyrtidae,Ooencyrtus,submetallicus,Bermuda,32.3018217,-64.7603582
+Encyrtidae,Ooencyrtus,submetallicus,Bolivia,-17.0568695,-64.9912285
+Encyrtidae,Ooencyrtus,submetallicus,Paraná,-24.4842186,-51.8148871
+Encyrtidae,Ooencyrtus,submetallicus,Sao Paulo,-21.9549805,-49.0232347
+Encyrtidae,Ooencyrtus,submetallicus,Caribbean (including West Indies),15.0000001,-75
+Encyrtidae,Ooencyrtus,submetallicus,Colombia,2.893108,-73.7845142
+Encyrtidae,Ooencyrtus,submetallicus,Costa Rica,10.2735633,-84.0739101
+Encyrtidae,Ooencyrtus,submetallicus,Cuba,23.0131338,-80.8328747
+Encyrtidae,Ooencyrtus,submetallicus,Grenada,12.1360374,-61.6904044
+Encyrtidae,Ooencyrtus,submetallicus,Guadeloupe,16.2490067,-61.5650443
+Encyrtidae,Ooencyrtus,submetallicus,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Ooencyrtus,submetallicus,Montserrat,16.7417041,-62.1916843
+Encyrtidae,Ooencyrtus,submetallicus,New Zealand,-41.500083,172.8344077
+Encyrtidae,Ooencyrtus,submetallicus,Puerto Rico,18.2017809,-66.5841245
+Encyrtidae,Ooencyrtus,submetallicus,St Vincent & Grenadines,12.90447,-61.2765568
+Encyrtidae,Ooencyrtus,submetallicus,Trinidad & Tobago,10.8677845,-60.9821066
+Encyrtidae,Ooencyrtus,submetallicus,Florida,27.7567667,-81.4639834
+Encyrtidae,Ooencyrtus,submetallicus,Louisiana,30.8703881,-92.0071259
+NA,NA,NA,,,
+Encyrtidae,Plagiomerus,diaspidis,Azerbaijan,40.3936294,47.7872508
+Encyrtidae,Plagiomerus,diaspidis,Canary Islands,28.5306525,-15.7464438
+Encyrtidae,Plagiomerus,diaspidis,Colombia,2.893108,-73.7845142
+Encyrtidae,Plagiomerus,diaspidis,France,46.603354,1.8883335
+Encyrtidae,Plagiomerus,diaspidis,Hawaii,21.2160437,-157.9752029
+Encyrtidae,Plagiomerus,diaspidis,Sicily,37.587794,14.155048
+Encyrtidae,Plagiomerus,diaspidis,Madeira,32.75175465,-16.9817465613
+Encyrtidae,Plagiomerus,diaspidis,Mexico,19.4326009,-99.1333415
+Encyrtidae,Plagiomerus,diaspidis,Guangdong (Kwangtung),23.1357694,113.1982688
+Encyrtidae,Plagiomerus,diaspidis,Hunan (Hunan),27.9995878,112.009538
+Encyrtidae,Plagiomerus,diaspidis,Sichuan (Szechwan),32.41875,102.6366383
+Encyrtidae,Plagiomerus,diaspidis,Zhejiang (Chekiang),29.0000001,119.9999999
+Encyrtidae,Plagiomerus,diaspidis,California,36.7014631,-118.7559973
+Encyrtidae,Plagiomerus,diaspidis,District of Columbia,38.8949549,-77.0366455
+Encyrtidae,Plagiomerus,diaspidis,Florida,27.7567667,-81.4639834
+Encyrtidae,Plagiomerus,diaspidis,Maryland,39.5162234,-76.9382068
+Encyrtidae,Plagiomerus,diaspidis,New Mexico,34.5708167,-105.9930069
+Encyrtidae,Plagiomerus,diaspidis,Texas,31.8160381,-99.5120985
+Encyrtidae,Plagiomerus,diaspidis,Virginia,37.1232245,-78.492772
+NA,NA,NA,,,
+Encyrtidae,Prochiloneurus,modestus,California,36.7014631,-118.7559973
+NA,NA,NA,,,
+Encyrtidae,Pseudleptomastix,squammulata,Alberta,55,-114.9999998
+Encyrtidae,Pseudleptomastix,squammulata,Costa Rica,10.2735633,-84.0739101
+Encyrtidae,Pseudleptomastix,squammulata,Mexico,19.4326009,-99.1333415
+Encyrtidae,Pseudleptomastix,squammulata,California,36.7014631,-118.7559973
+Encyrtidae,Pseudleptomastix,squammulata,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Encyrtidae,Trechnites,insidiosus,Armenia,40.7696272,44.6736646
+Encyrtidae,Trechnites,insidiosus,Austria,47.2000338,13.199959
+Encyrtidae,Trechnites,insidiosus,Azerbaijan,40.3936294,47.7872508
+Encyrtidae,Trechnites,insidiosus,Belarus,53.4250605,27.6971358
+Encyrtidae,Trechnites,insidiosus,British Columbia,55,-124.9999999
+Encyrtidae,Trechnites,insidiosus,Nova Scotia,45.0000002,-62.9999998
+Encyrtidae,Trechnites,insidiosus,Czech Republic,49.8167003,15.4749544
+Encyrtidae,Trechnites,insidiosus,France,46.603354,1.8883335
+Encyrtidae,Trechnites,insidiosus,Georgia,41.6809707,44.0287382
+Encyrtidae,Trechnites,insidiosus,Germany,51.0834196,10.4234469
+Encyrtidae,Trechnites,insidiosus,Greece,39.000041,21.9999569
+Encyrtidae,Trechnites,insidiosus,Hungary,47.1817585,19.5060937
+Encyrtidae,Trechnites,insidiosus,Iran,32.9407496,52.9471344
+Encyrtidae,Trechnites,insidiosus,Sicily,37.587794,14.155048
+Encyrtidae,Trechnites,insidiosus,Kirgizia,41.5089324,74.724091
+Encyrtidae,Trechnites,insidiosus,Moldova,47.286747,28.5110236
+Encyrtidae,Trechnites,insidiosus,Mongolia,46.8250388,103.8499736
+Encyrtidae,Trechnites,insidiosus,Poland,52.0977181,19.0258159
+Encyrtidae,Trechnites,insidiosus,Adygey AO (Adigei),44.6939006,40.1520421
+Encyrtidae,Trechnites,insidiosus,Lipetsk Oblast,52.6935178,39.1122664
+Encyrtidae,Trechnites,insidiosus,Primor ye Kray,45.0819456,134.726645
+Encyrtidae,Trechnites,insidiosus,Serbia,44.1534121,20.55144
+Encyrtidae,Trechnites,insidiosus,Slovakia,48.7411522,19.4528646
+Encyrtidae,Trechnites,insidiosus,Spain,40.0028028,-4.0031039
+Encyrtidae,Trechnites,insidiosus,Tadzhikistan,38.6281733,70.8156541
+Encyrtidae,Trechnites,insidiosus,Turkey,38.9597594,34.9249653
+Encyrtidae,Trechnites,insidiosus,Turkmenistan,39.3763807,59.3924609
+Encyrtidae,Trechnites,insidiosus,Ukraine,49.4871968,31.2718321
+Encyrtidae,Trechnites,insidiosus,England,52.7954791,-0.540240236617
+Encyrtidae,Trechnites,insidiosus,California,36.7014631,-118.7559973
+Encyrtidae,Trechnites,insidiosus,Connecticut,41.6500201,-72.7342162
+Encyrtidae,Trechnites,insidiosus,New York,40.7305991,-73.9865811
+Encyrtidae,Trechnites,insidiosus,Oregon,43.9792797,-120.7372569
+Encyrtidae,Trechnites,insidiosus,Uzbekistan,41.32373,63.9528098
+NA,NA,NA,,,
+Encyrtidae,Zaplatycerus,melvillei,Ghana,8.0300284,-1.080027
+Encyrtidae,Zaplatycerus,melvillei,Ivory Coast,7.9897371,-5.5679457
+Encyrtidae,Zaplatycerus,melvillei,Kenya,1.4419683,38.4313975
+Encyrtidae,Zaplatycerus,melvillei,South Africa,-28.8166235,24.991639
+Encyrtidae,Zaplatycerus,melvillei,Uganda,1.5333554,32.2166578
+Encyrtidae,Zaplatycerus,melvillei,California,36.7014631,-118.7559973
+NA,NA,NA,,,
+Eulophidae,Aprostocetus,alveatus,Afghanistan,33.0000866,64.9998468
+Eulophidae,Aprostocetus,alveatus,Morocco,31.1728192,-7.3366042
+Eulophidae,Aprostocetus,alveatus,Norway,64.574131,11.5270102892
+Eulophidae,Aprostocetus,alveatus,Primor ye Kray,45.0819456,134.726645
+Eulophidae,Aprostocetus,alveatus,Sweden,59.6749712,14.5208584
+Eulophidae,Aprostocetus,alveatus,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Aprostocetus,beatus,Queensland,-21.9182855,144.4588889
+Eulophidae,Aprostocetus,beatus,Fiji,-18.1239695,179.0122737
+Eulophidae,Aprostocetus,beatus,Hawaii,21.2160437,-157.9752029
+Eulophidae,Aprostocetus,beatus,Lesotho,-29.6039266,28.3350193
+Eulophidae,Aprostocetus,beatus,South Africa,-28.8166235,24.991639
+Eulophidae,Aprostocetus,beatus,Swaziland,-26.5624805,31.3991317
+Eulophidae,Aprostocetus,beatus,Western Samoa,40.86412885,-124.097067824
+NA,NA,NA,,,
+Eulophidae,Aprostocetus,doronokianus,Japan,36.5748441,139.2394179
+NA,NA,NA,,,
+Eulophidae,Aprostocetus,eriophyes,Finland,63.2467777,25.9209164
+Eulophidae,Aprostocetus,eriophyes,Germany,51.0834196,10.4234469
+Eulophidae,Aprostocetus,eriophyes,Italy,42.6384261,12.674297
+Eulophidae,Aprostocetus,eriophyes,Netherlands,52.2379891,5.53460738162
+Eulophidae,Aprostocetus,eriophyes,Poland,52.0977181,19.0258159
+Eulophidae,Aprostocetus,eriophyes,Sweden,59.6749712,14.5208584
+Eulophidae,Aprostocetus,eriophyes,Turkey,38.9597594,34.9249653
+Eulophidae,Aprostocetus,eriophyes,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Baryscapus,cecidophagus,Idaho,43.6447642,-114.015407
+NA,NA,NA,,,
+Eulophidae,Ceranisus,americensis,Argentina,-34.9964962,-64.9672816
+Eulophidae,Ceranisus,americensis,Alberta,55,-114.9999998
+Eulophidae,Ceranisus,americensis,British Columbia,55,-124.9999999
+Eulophidae,Ceranisus,americensis,Ontario,50.0000002,-86
+Eulophidae,Ceranisus,americensis,Costa Rica,10.2735633,-84.0739101
+Eulophidae,Ceranisus,americensis,Guatemala,15.6356088,-89.8988086
+Eulophidae,Ceranisus,americensis,Mexico,19.4326009,-99.1333415
+Eulophidae,Ceranisus,americensis,Netherlands,52.2379891,5.53460738162
+Eulophidae,Ceranisus,americensis,Panama,8.3096067,-81.3066245
+Eulophidae,Ceranisus,americensis,Arizona,34.395342,-111.7632754
+Eulophidae,Ceranisus,americensis,California,36.7014631,-118.7559973
+Eulophidae,Ceranisus,americensis,Florida,27.7567667,-81.4639834
+Eulophidae,Ceranisus,americensis,Maryland,39.5162234,-76.9382068
+Eulophidae,Ceranisus,americensis,Mississippi,32.9715645,-89.7348496
+Eulophidae,Ceranisus,americensis,Nebraska,41.7370229,-99.5873815
+Eulophidae,Ceranisus,americensis,New Hampshire,43.4849133,-71.6553991
+Eulophidae,Ceranisus,americensis,South Carolina,33.6874388,-80.4363742
+Eulophidae,Ceranisus,americensis,Utah,39.4225192,-111.7143583
+Eulophidae,Ceranisus,americensis,Virginia,37.1232245,-78.492772
+NA,NA,NA,,,
+Eulophidae,Ceranisus,javae,India,22.3511148,78.6677428
+Eulophidae,Ceranisus,javae,Pakistan,30.3308401,71.247499
+NA,NA,NA,,,
+Eulophidae,Ceranisus,russelli,Ontario,50.0000002,-86
+Eulophidae,Ceranisus,russelli,Quebec,54,-71.9999999
+Eulophidae,Ceranisus,russelli,Hawaii,21.2160437,-157.9752029
+Eulophidae,Ceranisus,russelli,England,52.7954791,-0.540240236617
+Eulophidae,Ceranisus,russelli,California,36.7014631,-118.7559973
+Eulophidae,Ceranisus,russelli,Maryland,39.5162234,-76.9382068
+NA,NA,NA,,,
+Eulophidae,Galeopsomyia,fausta,Argentina,-34.9964962,-64.9672816
+Eulophidae,Galeopsomyia,fausta,Rio de Janeiro,-22.2752761,-42.4194149
+Eulophidae,Galeopsomyia,fausta,Santa Catarina,-27.0628366,-51.1149649
+Eulophidae,Galeopsomyia,fausta,Sao Paulo,-21.9549805,-49.0232347
+Eulophidae,Galeopsomyia,fausta,Colombia,2.893108,-73.7845142
+Eulophidae,Galeopsomyia,fausta,Honduras,15.0610686,-84.5978533
+Eulophidae,Galeopsomyia,fausta,Mexico,19.4326009,-99.1333415
+Eulophidae,Galeopsomyia,fausta,Nicaragua,12.3724928,-84.8700307
+Eulophidae,Galeopsomyia,fausta,Puerto Rico,18.2017809,-66.5841245
+Eulophidae,Galeopsomyia,fausta,Spain,40.0028028,-4.0031039
+NA,NA,NA,,,
+Eulophidae,Holarcticesa,clinius,British Columbia,55,-124.9999999
+Eulophidae,Holarcticesa,clinius,Czech Republic,49.8167003,15.4749544
+Eulophidae,Holarcticesa,clinius,Germany,51.0834196,10.4234469
+Eulophidae,Holarcticesa,clinius,Netherlands,52.2379891,5.53460738162
+Eulophidae,Holarcticesa,clinius,Norway,64.574131,11.5270102892
+Eulophidae,Holarcticesa,clinius,Sweden,59.6749712,14.5208584
+Eulophidae,Holarcticesa,clinius,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Necremnus,croton,Macedonia,41.6171214,21.7168387
+Eulophidae,Necremnus,croton,Sweden,59.6749712,14.5208584
+Eulophidae,Necremnus,croton,Turkey,38.9597594,34.9249653
+Eulophidae,Necremnus,croton,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Necremnus,metalarus,Austria,47.2000338,13.199959
+Eulophidae,Necremnus,metalarus,Canary Islands,28.5306525,-15.7464438
+Eulophidae,Necremnus,metalarus,Croatia,45.5643442,17.0118954
+Eulophidae,Necremnus,metalarus,Czech Republic,49.8167003,15.4749544
+Eulophidae,Necremnus,metalarus,France,46.603354,1.8883335
+Eulophidae,Necremnus,metalarus,Germany,51.0834196,10.4234469
+Eulophidae,Necremnus,metalarus,Hungary,47.1817585,19.5060937
+Eulophidae,Necremnus,metalarus,Netherlands,52.2379891,5.53460738162
+Eulophidae,Necremnus,metalarus,Norway,64.574131,11.5270102892
+Eulophidae,Necremnus,metalarus,Sweden,59.6749712,14.5208584
+Eulophidae,Necremnus,metalarus,England,52.7954791,-0.540240236617
+Eulophidae,Necremnus,metalarus,Wales,52.2928116,-3.7389299
+Eulophidae,Necremnus,metalarus,Idaho,43.6447642,-114.015407
+Eulophidae,Necremnus,metalarus,Montana,47.3752671,-109.6387578
+Eulophidae,Necremnus,metalarus,Oregon,43.9792797,-120.7372569
+Eulophidae,Necremnus,metalarus,Washington,38.8949549,-77.0366455
+NA,NA,NA,,,
+Eulophidae,Omphale,acuminata,France,46.603354,1.8883335
+Eulophidae,Omphale,acuminata,Greece,39.000041,21.9999569
+Eulophidae,Omphale,acuminata,Sweden,59.6749712,14.5208584
+Eulophidae,Omphale,acuminata,England,52.7954791,-0.540240236617
+Eulophidae,Omphale,acuminata,Wales,52.2928116,-3.7389299
+NA,NA,NA,,,
+Eulophidae,Omphale,brevibuccata,Hungary,47.1817585,19.5060937
+Eulophidae,Omphale,brevibuccata,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Omphale,breviventris,Germany,51.0834196,10.4234469
+Eulophidae,Omphale,breviventris,Netherlands,52.2379891,5.53460738162
+Eulophidae,Omphale,breviventris,United Kingdom,54.7023545,-3.2765752
+NA,NA,NA,,,
+Eulophidae,Omphale,clypealis,Bulgaria,42.6073975,25.4856617
+Eulophidae,Omphale,clypealis,Canary Islands,28.5306525,-15.7464438
+Eulophidae,Omphale,clypealis,Czech Republic,49.8167003,15.4749544
+Eulophidae,Omphale,clypealis,Denmark,55.670249,10.3333283
+Eulophidae,Omphale,clypealis,France,46.603354,1.8883335
+Eulophidae,Omphale,clypealis,Germany,51.0834196,10.4234469
+Eulophidae,Omphale,clypealis,Hungary,47.1817585,19.5060937
+Eulophidae,Omphale,clypealis,Moldova,47.286747,28.5110236
+Eulophidae,Omphale,clypealis,Montenegro,43.0285558,19.291739
+Eulophidae,Omphale,clypealis,Netherlands,52.2379891,5.53460738162
+Eulophidae,Omphale,clypealis,Slovakia,48.7411522,19.4528646
+Eulophidae,Omphale,clypealis,Sweden,59.6749712,14.5208584
+Eulophidae,Omphale,clypealis,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Omphale,matrana,Czech Republic,49.8167003,15.4749544
+Eulophidae,Omphale,matrana,Germany,51.0834196,10.4234469
+Eulophidae,Omphale,matrana,Hungary,47.1817585,19.5060937
+Eulophidae,Omphale,matrana,Sweden,59.6749712,14.5208584
+Eulophidae,Omphale,matrana,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Omphale,nitens,Croatia,45.5643442,17.0118954
+Eulophidae,Omphale,nitens,Germany,51.0834196,10.4234469
+Eulophidae,Omphale,nitens,Montenegro,43.0285558,19.291739
+Eulophidae,Omphale,nitens,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Omphale,rubigus,Austria,47.2000338,13.199959
+Eulophidae,Omphale,rubigus,Croatia,45.5643442,17.0118954
+Eulophidae,Omphale,rubigus,Czech Republic,49.8167003,15.4749544
+Eulophidae,Omphale,rubigus,Germany,51.0834196,10.4234469
+Eulophidae,Omphale,rubigus,Netherlands,52.2379891,5.53460738162
+Eulophidae,Omphale,rubigus,Ul yanovsk Oblast,54.1463177,47.2324921
+Eulophidae,Omphale,rubigus,Sweden,59.6749712,14.5208584
+Eulophidae,Omphale,rubigus,England,52.7954791,-0.540240236617
+NA,NA,NA,,,
+Eulophidae,Omphale,theana,Bulgaria,42.6073975,25.4856617
+Eulophidae,Omphale,theana,Czech Republic,49.8167003,15.4749544
+Eulophidae,Omphale,theana,Faeroe Islands,62.19889095,-6.81780730578
+Eulophidae,Omphale,theana,Germany,51.0834196,10.4234469
+Eulophidae,Omphale,theana,Hungary,47.1817585,19.5060937
+Eulophidae,Omphale,theana,Netherlands,52.2379891,5.53460738162
+Eulophidae,Omphale,theana,Gansu (Kansu),39.054054,99.091892
+Eulophidae,Omphale,theana,Ul yanovsk Oblast,54.1463177,47.2324921
+Eulophidae,Omphale,theana,Serbia,44.1534121,20.55144
+Eulophidae,Omphale,theana,Slovakia,48.7411522,19.4528646
+Eulophidae,Omphale,theana,Sweden,59.6749712,14.5208584
+Eulophidae,Omphale,theana,England,52.7954791,-0.540240236617
+Eulophidae,Omphale,theana,Wales,52.2928116,-3.7389299
+Eulophidae,Omphale,theana,District of Columbia,38.8949549,-77.0366455
+NA,NA,NA,,,
+Eulophidae,Oomyzus,brevistigma,Greece,39.000041,21.9999569
+Eulophidae,Oomyzus,brevistigma,Iran,32.9407496,52.9471344
+Eulophidae,Oomyzus,brevistigma,California,36.7014631,-118.7559973
+Eulophidae,Oomyzus,brevistigma,Connecticut,41.6500201,-72.7342162
+Eulophidae,Oomyzus,brevistigma,District of Columbia,38.8949549,-77.0366455
+Eulophidae,Oomyzus,brevistigma,Indiana,40.3270127,-86.1746932
+Eulophidae,Oomyzus,brevistigma,Kentucky,37.5726028,-85.155141
+Eulophidae,Oomyzus,brevistigma,Massachusetts,42.3788774,-72.0323659
+Eulophidae,Oomyzus,brevistigma,New Hampshire,43.4849133,-71.6553991
+Eulophidae,Oomyzus,brevistigma,New York,40.7305991,-73.9865811
+Eulophidae,Oomyzus,brevistigma,Ohio,40.2253569,-82.6881394
+Eulophidae,Oomyzus,brevistigma,Oregon,43.9792797,-120.7372569
+Eulophidae,Oomyzus,brevistigma,Rhode Island,41.7962409,-71.5992371
+Eulophidae,Oomyzus,brevistigma,Washington,38.8949549,-77.0366455
+NA,NA,NA,,,
+Eulophidae,Tamarixia,leucaenae,Mexico,19.4326009,-99.1333415
+Eulophidae,Tamarixia,leucaenae,New Caledonia,-21.3019904,165.4880773
+Eulophidae,Tamarixia,leucaenae,Sri Lanka,7.878,80.7038245875
+Eulophidae,Tamarixia,leucaenae,Tanzania,-6.5247122,35.7878438
+Eulophidae,Tamarixia,leucaenae,Thailand,14.8971921,100.83273
+Eulophidae,Tamarixia,leucaenae,Trinidad & Tobago,10.8677845,-60.9821066
+Eulophidae,Tamarixia,leucaenae,Florida,27.7567667,-81.4639834
+NA,NA,NA,,,
+Eupelmidae,Anastatus,pearsalli,Arkansas,35.2048883,-92.4479107
+Eupelmidae,Anastatus,pearsalli,Massachusetts,42.3788774,-72.0323659
+Eupelmidae,Anastatus,pearsalli,New Jersey,40.0757384,-74.4041621
+Eupelmidae,Anastatus,pearsalli,New York,40.7305991,-73.9865811
+Eupelmidae,Anastatus,pearsalli,North Carolina,35.6729639,-79.0392918
+Eupelmidae,Anastatus,pearsalli,Ohio,40.2253569,-82.6881394
+Eupelmidae,Anastatus,pearsalli,Pennsylvania,40.9699889,-77.727883
+Eupelmidae,Anastatus,pearsalli,Virginia,37.1232245,-78.492772
+Eupelmidae,Anastatus,pearsalli,Wisconsin,44.4308975,-89.6884636
+NA,NA,NA,,,
+Eurytomidae,Eurytoma,obtusiventris,Ontario,50.0000002,-86
+Eurytomidae,Eurytoma,obtusiventris,Guadeloupe,16.2490067,-61.5650443
+Eurytomidae,Eurytoma,obtusiventris,Mexico,19.4326009,-99.1333415
+Eurytomidae,Eurytoma,obtusiventris,California,36.7014631,-118.7559973
+Eurytomidae,Eurytoma,obtusiventris,Colorado,38.7251776,-105.6077166
+Eurytomidae,Eurytoma,obtusiventris,Indiana,40.3270127,-86.1746932
+Eurytomidae,Eurytoma,obtusiventris,Kansas,38.27312,-98.5821871
+Eurytomidae,Eurytoma,obtusiventris,Louisiana,30.8703881,-92.0071259
+Eurytomidae,Eurytoma,obtusiventris,Massachusetts,42.3788774,-72.0323659
+Eurytomidae,Eurytoma,obtusiventris,Michigan,43.6211955,-84.6824345
+Eurytomidae,Eurytoma,obtusiventris,Mississippi,32.9715645,-89.7348496
+Eurytomidae,Eurytoma,obtusiventris,Missouri,38.7604815,-92.5617874
+Eurytomidae,Eurytoma,obtusiventris,New Hampshire,43.4849133,-71.6553991
+Eurytomidae,Eurytoma,obtusiventris,New Mexico,34.5708167,-105.9930069
+Eurytomidae,Eurytoma,obtusiventris,New York,40.7305991,-73.9865811
+Eurytomidae,Eurytoma,obtusiventris,North Carolina,35.6729639,-79.0392918
+Eurytomidae,Eurytoma,obtusiventris,Ohio,40.2253569,-82.6881394
+Eurytomidae,Eurytoma,obtusiventris,Oklahoma,34.9550817,-97.2684062
+Eurytomidae,Eurytoma,obtusiventris,Pennsylvania,40.9699889,-77.727883
+Eurytomidae,Eurytoma,obtusiventris,Vermont,44.5990718,-72.5002607
+Eurytomidae,Eurytoma,obtusiventris,Virginia,37.1232245,-78.492772
+NA,NA,NA,,,
+Eurytomidae,Tetramesa,leucospae,Iran,32.9407496,52.9471344
+NA,NA,NA,,,
+Eurytomidae,Tetramesa,romana,France,46.603354,1.8883335
+Eurytomidae,Tetramesa,romana,Italy,42.6384261,12.674297
+Eurytomidae,Tetramesa,romana,Spain,40.0028028,-4.0031039
+Eurytomidae,Tetramesa,romana,Turkey,38.9597594,34.9249653
+NA,NA,NA,,,
+Leucospidae,Leucospis,biguetina,Algeria,28.0000272,2.9999825
+Leucospidae,Leucospis,biguetina,Austria,47.2000338,13.199959
+Leucospidae,Leucospis,biguetina,Bosnia Hercegovina,44.3053476,17.5961467
+Leucospidae,Leucospis,biguetina,Croatia,45.5643442,17.0118954
+Leucospidae,Leucospis,biguetina,Czech Republic,49.8167003,15.4749544
+Leucospidae,Leucospis,biguetina,Corsica,42.1640662,9.0982074
+Leucospidae,Leucospis,biguetina,Hungary,47.1817585,19.5060937
+Leucospidae,Leucospis,biguetina,Israel,30.8760272,35.0015196
+Leucospidae,Leucospis,biguetina,Sicily,37.587794,14.155048
+Leucospidae,Leucospis,biguetina,Montenegro,43.0285558,19.291739
+Leucospidae,Leucospis,biguetina,Morocco,31.1728192,-7.3366042
+Leucospidae,Leucospis,biguetina,North Africa,41.4299403,-8.0932407
+Leucospidae,Leucospis,biguetina,Nizhniy Novgorod Oblast,56.3278821,44.0072897
+Leucospidae,Leucospis,biguetina,Serbia,44.1534121,20.55144
+Leucospidae,Leucospis,biguetina,Slovakia,48.7411522,19.4528646
+Leucospidae,Leucospis,biguetina,Slovenia,45.8133113,14.4808369
+Leucospidae,Leucospis,biguetina,Spain,40.0028028,-4.0031039
+Leucospidae,Leucospis,biguetina,Switzerland,46.7985624,8.2319736
+Leucospidae,Leucospis,biguetina,Turkey,38.9597594,34.9249653
+NA,NA,NA,,,
+Mymaridae,Anagrus,atomus,Argentina,-34.9964962,-64.9672816
+Mymaridae,Anagrus,atomus,Austria,47.2000338,13.199959
+Mymaridae,Anagrus,atomus,Belgium,50.6407351,4.66696
+Mymaridae,Anagrus,atomus,Bulgaria,42.6073975,25.4856617
+Mymaridae,Anagrus,atomus,British Columbia,55,-124.9999999
+Mymaridae,Anagrus,atomus,Ontario,50.0000002,-86
+Mymaridae,Anagrus,atomus,Cape Verde Islands,16.0000552,-24.0083946
+Mymaridae,Anagrus,atomus,Chile,-31.7613364,-71.3187696
+Mymaridae,Anagrus,atomus,Croatia,45.5643442,17.0118954
+Mymaridae,Anagrus,atomus,Denmark,55.670249,10.3333283
+Mymaridae,Anagrus,atomus,Egypt,26.2540493,29.2675469
+Mymaridae,Anagrus,atomus,Finland,63.2467777,25.9209164
+Mymaridae,Anagrus,atomus,France,46.603354,1.8883335
+Mymaridae,Anagrus,atomus,Germany,51.0834196,10.4234469
+Mymaridae,Anagrus,atomus,Greece,39.000041,21.9999569
+Mymaridae,Anagrus,atomus,Iran,32.9407496,52.9471344
+Mymaridae,Anagrus,atomus,Israel,30.8760272,35.0015196
+Mymaridae,Anagrus,atomus,Sardinia,40.0912813,9.0305773
+Mymaridae,Anagrus,atomus,Sicily,37.587794,14.155048
+Mymaridae,Anagrus,atomus,Kirgizia,41.5089324,74.724091
+Mymaridae,Anagrus,atomus,Korea,35.3985008,127.937111
+Mymaridae,Anagrus,atomus,Korea. South,37.5540282,126.7893535
+Mymaridae,Anagrus,atomus,Macedonia,41.6171214,21.7168387
+Mymaridae,Anagrus,atomus,Moldova,47.286747,28.5110236
+Mymaridae,Anagrus,atomus,New Zealand,-41.500083,172.8344077
+Mymaridae,Anagrus,atomus,Pakistan,30.3308401,71.247499
+Mymaridae,Anagrus,atomus,Beijing (Peking),39.9059631,116.391248
+Mymaridae,Anagrus,atomus,Poland,52.0977181,19.0258159
+Mymaridae,Anagrus,atomus,Romania,45.9852129,24.6859225
+Mymaridae,Anagrus,atomus,Adygey AO (Adigei),44.6939006,40.1520421
+Mymaridae,Anagrus,atomus,Moscow Oblast,55.5043158,38.0353929
+Mymaridae,Anagrus,atomus,Primor ye Kray,45.0819456,134.726645
+Mymaridae,Anagrus,atomus,Sakhalin Oblast,49.7219665,143.448533
+Mymaridae,Anagrus,atomus,Tambov Oblast,52.9019574,41.3578918
+Mymaridae,Anagrus,atomus,Serbia,44.1534121,20.55144
+Mymaridae,Anagrus,atomus,Spain,40.0028028,-4.0031039
+Mymaridae,Anagrus,atomus,Sweden,59.6749712,14.5208584
+Mymaridae,Anagrus,atomus,Switzerland,46.7985624,8.2319736
+Mymaridae,Anagrus,atomus,Turkey,38.9597594,34.9249653
+Mymaridae,Anagrus,atomus,Turkmenistan,39.3763807,59.3924609
+Mymaridae,Anagrus,atomus,England,52.7954791,-0.540240236617
+Mymaridae,Anagrus,atomus,Scotland,56.7861112,-4.1140517
+Mymaridae,Anagrus,atomus,Wales,52.2928116,-3.7389299
+Mymaridae,Anagrus,atomus,California,36.7014631,-118.7559973
+Mymaridae,Anagrus,atomus,Colorado,38.7251776,-105.6077166
+Mymaridae,Anagrus,atomus,Iowa,41.9216734,-93.3122704
+Mymaridae,Anagrus,atomus,Michigan,43.6211955,-84.6824345
+Mymaridae,Anagrus,atomus,Nebraska,41.7370229,-99.5873815
+Mymaridae,Anagrus,atomus,New York,40.7305991,-73.9865811
+Mymaridae,Anagrus,atomus,Washington,38.8949549,-77.0366455
+Mymaridae,Anagrus,atomus,Yemen,16.3471243,47.8915271
+NA,NA,NA,,,
+Mymaridae,Anagrus,ensifer,Belgium,50.6407351,4.66696
+Mymaridae,Anagrus,ensifer,Denmark,55.670249,10.3333283
+Mymaridae,Anagrus,ensifer,France,46.603354,1.8883335
+Mymaridae,Anagrus,ensifer,Germany,51.0834196,10.4234469
+Mymaridae,Anagrus,ensifer,Greece,39.000041,21.9999569
+Mymaridae,Anagrus,ensifer,Italy,42.6384261,12.674297
+Mymaridae,Anagrus,ensifer,Adygey AO (Adigei),44.6939006,40.1520421
+Mymaridae,Anagrus,ensifer,Moscow Oblast,55.5043158,38.0353929
+Mymaridae,Anagrus,ensifer,Sweden,59.6749712,14.5208584
+Mymaridae,Anagrus,ensifer,England,52.7954791,-0.540240236617
+Mymaridae,Anagrus,ensifer,Wales,52.2928116,-3.7389299
+NA,NA,NA,,,
+Mymaridae,Anagrus,flaveolus,Argentina,-34.9964962,-64.9672816
+Mymaridae,Anagrus,flaveolus,Bahamas,24.7736546,-78.0000546
+Mymaridae,Anagrus,flaveolus,Barbados,13.1500331,-59.5250304
+Mymaridae,Anagrus,flaveolus,Belize,16.8259793,-88.7600926
+Mymaridae,Anagrus,flaveolus,Santa Catarina,-27.0628366,-51.1149649
+Mymaridae,Anagrus,flaveolus,Caribbean (including West Indies),15.0000001,-75
+Mymaridae,Anagrus,flaveolus,Cuba,23.0131338,-80.8328747
+Mymaridae,Anagrus,flaveolus,Grenada,12.1360374,-61.6904044
+Mymaridae,Anagrus,flaveolus,Guadeloupe,16.2490067,-61.5650443
+Mymaridae,Anagrus,flaveolus,Guam,13.4501257,144.75755103
+Mymaridae,Anagrus,flaveolus,Guyana,4.8417097,-58.641689
+Mymaridae,Anagrus,flaveolus,Haiti,19.1399952,-72.3570971
+Mymaridae,Anagrus,flaveolus,Andhra Pradesh,15.9240905,80.1863809
+Mymaridae,Anagrus,flaveolus,Odisha,20.5431241,84.6897321
+Mymaridae,Anagrus,flaveolus,Jamaica,18.1850507,-77.3947692
+Mymaridae,Anagrus,flaveolus,Japan,36.5748441,139.2394179
+Mymaridae,Anagrus,flaveolus,Malaysia,2.3923759,112.8471939
+Mymaridae,Anagrus,flaveolus,Mauritius,-20.275945,57.5703566
+Mymaridae,Anagrus,flaveolus,Mexico,19.4326009,-99.1333415
+Mymaridae,Anagrus,flaveolus,Pakistan,30.3308401,71.247499
+Mymaridae,Anagrus,flaveolus,Fujian (Fukien),26.5450001,117.842778
+Mymaridae,Anagrus,flaveolus,Zhejiang (Chekiang),29.0000001,119.9999999
+Mymaridae,Anagrus,flaveolus,Peru,-6.8699696,-75.0458514
+Mymaridae,Anagrus,flaveolus,Philippines,12.7503486,122.7312101
+Mymaridae,Anagrus,flaveolus,Puerto Rico,18.2017809,-66.5841245
+Mymaridae,Anagrus,flaveolus,Sri Lanka,7.878,80.7038245875
+Mymaridae,Anagrus,flaveolus,Thailand,14.8971921,100.83273
+Mymaridae,Anagrus,flaveolus,Trinidad & Tobago,10.8677845,-60.9821066
+Mymaridae,Anagrus,flaveolus,Arizona,34.395342,-111.7632754
+Mymaridae,Anagrus,flaveolus,California,36.7014631,-118.7559973
+Mymaridae,Anagrus,flaveolus,Florida,27.7567667,-81.4639834
+Mymaridae,Anagrus,flaveolus,Venezuela,8.0018709,-66.1109317
+NA,NA,NA,,,
+Mymaridae,Anagrus,frequens,American Samoa,-14.30063085,-170.695974692
+Mymaridae,Anagrus,frequens,Australian Capital Territory,-35.4021015,148.9464218
+Mymaridae,Anagrus,frequens,New South Wales,-31.8759834,147.2869493
+Mymaridae,Anagrus,frequens,Northern Territory,-19.85161,133.2303375
+Mymaridae,Anagrus,frequens,Queensland,-21.9182855,144.4588889
+Mymaridae,Anagrus,frequens,Tasmania,-42.0350669,146.6366887
+Mymaridae,Anagrus,frequens,Western Australia,-25.2303004,121.0187246
+Mymaridae,Anagrus,frequens,Christmas Island,-10.4878278,105.6329821
+Mymaridae,Anagrus,frequens,Colombia,2.893108,-73.7845142
+Mymaridae,Anagrus,frequens,Democratic Republic of Congo (Zaire),-2.9814343,23.8222636
+Mymaridae,Anagrus,frequens,Ecuador,-1.3397667,-79.3666964
+Mymaridae,Anagrus,frequens,Fiji,-18.1239695,179.0122737
+Mymaridae,Anagrus,frequens,French Polynesia,-18.6243748,-144.6434897
+Mymaridae,Anagrus,frequens,Guam,13.4501257,144.75755103
+Mymaridae,Anagrus,frequens,Hawaii,21.2160437,-157.9752029
+Mymaridae,Anagrus,frequens,Japan,36.5748441,139.2394179
+Mymaridae,Anagrus,frequens,Malaysia,2.3923759,112.8471939
+Mymaridae,Anagrus,frequens,Mexico,19.4326009,-99.1333415
+Mymaridae,Anagrus,frequens,Micronesia,5.5600565,150.1982846
+Mymaridae,Anagrus,frequens,New Zealand,-41.500083,172.8344077
+Mymaridae,Anagrus,frequens,Norfolk Island,-29.0644999,167.957181669
+Mymaridae,Anagrus,frequens,Papua New Guinea,-5.6816068,144.2489081
+Mymaridae,Anagrus,frequens,Northern Solomon Islands,8.432222,124.633333
+Mymaridae,Anagrus,frequens,Guangdong (Kwangtung),23.1357694,113.1982688
+Mymaridae,Anagrus,frequens,Russia,64.6863136,97.7453061
+Mymaridae,Anagrus,frequens,Primor ye Kray,45.0819456,134.726645
+Mymaridae,Anagrus,frequens,Sakhalin Oblast,49.7219665,143.448533
+Mymaridae,Anagrus,frequens,South Africa,-28.8166235,24.991639
+Mymaridae,Anagrus,frequens,St Christopher (Kitts) & Nevis,17.3462278,-62.7687276
+Mymaridae,Anagrus,frequens,Taiwan,23.9739374,120.9820179
+Mymaridae,Anagrus,frequens,Thailand,14.8971921,100.83273
+Mymaridae,Anagrus,frequens,Trinidad & Tobago,10.8677845,-60.9821066
+NA,NA,NA,,,
+Mymaridae,Anagrus,takeyanus,Hawaii,21.2160437,-157.9752029
+Mymaridae,Anagrus,takeyanus,Japan,36.5748441,139.2394179
+Mymaridae,Anagrus,takeyanus,Mexico,19.4326009,-99.1333415
+Mymaridae,Anagrus,takeyanus,Alabama,33.2588817,-86.8295336
+Mymaridae,Anagrus,takeyanus,Connecticut,41.6500201,-72.7342162
+Mymaridae,Anagrus,takeyanus,Florida,27.7567667,-81.4639834
+Mymaridae,Anagrus,takeyanus,Georgia,41.6809707,44.0287382
+Mymaridae,Anagrus,takeyanus,North Carolina,35.6729639,-79.0392918
+NA,NA,NA,,,
+Mymaridae,Anaphes,diana,Algeria,28.0000272,2.9999825
+Mymaridae,Anaphes,diana,Australia,-24.7761085,134.755
+Mymaridae,Anaphes,diana,Austria,47.2000338,13.199959
+Mymaridae,Anaphes,diana,Belgium,50.6407351,4.66696
+Mymaridae,Anaphes,diana,Bulgaria,42.6073975,25.4856617
+Mymaridae,Anaphes,diana,Quebec,54,-71.9999999
+Mymaridae,Anaphes,diana,France,46.603354,1.8883335
+Mymaridae,Anaphes,diana,Germany,51.0834196,10.4234469
+Mymaridae,Anaphes,diana,Greece,39.000041,21.9999569
+Mymaridae,Anaphes,diana,Crete,41.4444791,-87.6314311
+Mymaridae,Anaphes,diana,Italy,42.6384261,12.674297
+Mymaridae,Anaphes,diana,Moldova,47.286747,28.5110236
+Mymaridae,Anaphes,diana,Morocco,31.1728192,-7.3366042
+Mymaridae,Anaphes,diana,New Zealand,-41.500083,172.8344077
+Mymaridae,Anaphes,diana,Romania,45.9852129,24.6859225
+Mymaridae,Anaphes,diana,Spain,40.0028028,-4.0031039
+Mymaridae,Anaphes,diana,Syria,34.6401861,39.0494106
+Mymaridae,Anaphes,diana,Turkey,38.9597594,34.9249653
+Mymaridae,Anaphes,diana,England,52.7954791,-0.540240236617
+Mymaridae,Anaphes,diana,Delaware,38.6920451,-75.4013314
+Mymaridae,Anaphes,diana,Idaho,43.6447642,-114.015407
+Mymaridae,Anaphes,diana,Kentucky,37.5726028,-85.155141
+NA,NA,NA,,,
+Mymaridae,Caenomymar,howdeni,Panama,8.3096067,-81.3066245
+NA,NA,NA,,,
+Mymaridae,Polynema,enchenopae,Illinois,40.0796319,-89.4339808
+NA,NA,NA,,,
+Mymaridae,Polynema,euchariforme,Belgium,50.6407351,4.66696
+Mymaridae,Polynema,euchariforme,Denmark,55.670249,10.3333283
+Mymaridae,Polynema,euchariforme,Germany,51.0834196,10.4234469
+Mymaridae,Polynema,euchariforme,Poland,52.0977181,19.0258159
+Mymaridae,Polynema,euchariforme,Sweden,59.6749712,14.5208584
+Mymaridae,Polynema,euchariforme,England,52.7954791,-0.540240236617
+Mymaridae,Polynema,euchariforme,Wales,52.2928116,-3.7389299
+NA,NA,NA,,,
+Mymaridae,Polynema,venezuelaense,Venezuela,8.0018709,-66.1109317
+NA,NA,NA,,,
+Mymaridae,Polynema,vitripenne,Austria,47.2000338,13.199959
+Mymaridae,Polynema,vitripenne,Belgium,50.6407351,4.66696
+Mymaridae,Polynema,vitripenne,Denmark,55.670249,10.3333283
+Mymaridae,Polynema,vitripenne,Germany,51.0834196,10.4234469
+Mymaridae,Polynema,vitripenne,Moscow Oblast,55.5043158,38.0353929
+Mymaridae,Polynema,vitripenne,Sweden,59.6749712,14.5208584
+Mymaridae,Polynema,vitripenne,United Kingdom,54.7023545,-3.2765752
+NA,NA,NA,,,
+Mymaridae,Stephanocampta,masoni,Costa Rica,10.2735633,-84.0739101
+Mymaridae,Stephanocampta,masoni,Ecuador,-1.3397667,-79.3666964
+Mymaridae,Stephanocampta,masoni,Panama,8.3096067,-81.3066245
+NA,NA,NA,,,
+Pteromalidae,Mesopolobus,diffinis,Belgium,50.6407351,4.66696
+Pteromalidae,Mesopolobus,diffinis,Bulgaria,42.6073975,25.4856617
+Pteromalidae,Mesopolobus,diffinis,Croatia,45.5643442,17.0118954
+Pteromalidae,Mesopolobus,diffinis,Czech Republic,49.8167003,15.4749544
+Pteromalidae,Mesopolobus,diffinis,Denmark,55.670249,10.3333283
+Pteromalidae,Mesopolobus,diffinis,Germany,51.0834196,10.4234469
+Pteromalidae,Mesopolobus,diffinis,Hungary,47.1817585,19.5060937
+Pteromalidae,Mesopolobus,diffinis,Isle of Man (British Isles),54.1936805,-4.5591147
+Pteromalidae,Mesopolobus,diffinis,Moldova,47.286747,28.5110236
+Pteromalidae,Mesopolobus,diffinis,Montenegro,43.0285558,19.291739
+Pteromalidae,Mesopolobus,diffinis,Netherlands,52.2379891,5.53460738162
+Pteromalidae,Mesopolobus,diffinis,Slovakia,48.7411522,19.4528646
+Pteromalidae,Mesopolobus,diffinis,Spain,40.0028028,-4.0031039
+Pteromalidae,Mesopolobus,diffinis,Sweden,59.6749712,14.5208584
+Pteromalidae,Mesopolobus,diffinis,Tselinograd Obl.,51.15092055,71.4388595155
+Pteromalidae,Mesopolobus,diffinis,Turkey,38.9597594,34.9249653
+Pteromalidae,Mesopolobus,diffinis,Turkmenistan,39.3763807,59.3924609
+Pteromalidae,Mesopolobus,diffinis,England,52.7954791,-0.540240236617
+Pteromalidae,Mesopolobus,diffinis,Scotland,56.7861112,-4.1140517
+Pteromalidae,Mesopolobus,diffinis,Wales,52.2928116,-3.7389299
+NA,NA,NA,,,
+Pteromalidae,Muscidifurax,uniraptor,Barbados,13.1500331,-59.5250304
+Pteromalidae,Muscidifurax,uniraptor,Chile,-31.7613364,-71.3187696
+Pteromalidae,Muscidifurax,uniraptor,Marshall Islands,6.9518742,170.9985095
+Pteromalidae,Muscidifurax,uniraptor,Puerto Rico,18.2017809,-66.5841245
+Pteromalidae,Muscidifurax,uniraptor,Trinidad & Tobago,10.8677845,-60.9821066
+Pteromalidae,Muscidifurax,uniraptor,California,36.7014631,-118.7559973
+Pteromalidae,Muscidifurax,uniraptor,Minnesota,45.9896587,-94.6113287
+NA,NA,NA,,,
+Pteromalidae,Nasonia,vitripennis,Argentina,-34.9964962,-64.9672816
+Pteromalidae,Nasonia,vitripennis,New South Wales,-31.8759834,147.2869493
+Pteromalidae,Nasonia,vitripennis,Queensland,-21.9182855,144.4588889
+Pteromalidae,Nasonia,vitripennis,Victoria,-36.5986095,144.6780052
+Pteromalidae,Nasonia,vitripennis,Western Australia,-25.2303004,121.0187246
+Pteromalidae,Nasonia,vitripennis,Austria,47.2000338,13.199959
+Pteromalidae,Nasonia,vitripennis,Belgium,50.6407351,4.66696
+Pteromalidae,Nasonia,vitripennis,Goiás,-15.9321904,-50.1388783
+Pteromalidae,Nasonia,vitripennis,Minas Gerais,-18.5264843,-44.1588653
+Pteromalidae,Nasonia,vitripennis,Rio de Janeiro,-22.2752761,-42.4194149
+Pteromalidae,Nasonia,vitripennis,Alberta,55,-114.9999998
+Pteromalidae,Nasonia,vitripennis,British Columbia,55,-124.9999999
+Pteromalidae,Nasonia,vitripennis,New Brunswick,46.5,-66.7499999
+Pteromalidae,Nasonia,vitripennis,Ontario,50.0000002,-86
+Pteromalidae,Nasonia,vitripennis,Quebec,54,-71.9999999
+Pteromalidae,Nasonia,vitripennis,Chile,-31.7613364,-71.3187696
+Pteromalidae,Nasonia,vitripennis,Croatia,45.5643442,17.0118954
+Pteromalidae,Nasonia,vitripennis,Czech Republic,49.8167003,15.4749544
+Pteromalidae,Nasonia,vitripennis,Denmark,55.670249,10.3333283
+Pteromalidae,Nasonia,vitripennis,Egypt,26.2540493,29.2675469
+Pteromalidae,Nasonia,vitripennis,Germany,51.0834196,10.4234469
+Pteromalidae,Nasonia,vitripennis,Hawaii,21.2160437,-157.9752029
+Pteromalidae,Nasonia,vitripennis,Delhi,28.6517178,77.2219388
+Pteromalidae,Nasonia,vitripennis,Israel,30.8760272,35.0015196
+Pteromalidae,Nasonia,vitripennis,Italy,42.6384261,12.674297
+Pteromalidae,Nasonia,vitripennis,Japan,36.5748441,139.2394179
+Pteromalidae,Nasonia,vitripennis,Kirgizia,41.5089324,74.724091
+Pteromalidae,Nasonia,vitripennis,Korea,35.3985008,127.937111
+Pteromalidae,Nasonia,vitripennis,Korea. South,37.5540282,126.7893535
+Pteromalidae,Nasonia,vitripennis,Madeira,32.75175465,-16.9817465613
+Pteromalidae,Nasonia,vitripennis,Moldova,47.286747,28.5110236
+Pteromalidae,Nasonia,vitripennis,Netherlands,52.2379891,5.53460738162
+Pteromalidae,Nasonia,vitripennis,New Caledonia,-21.3019904,165.4880773
+Pteromalidae,Nasonia,vitripennis,New Zealand,-41.500083,172.8344077
+Pteromalidae,Nasonia,vitripennis,North Africa,41.4299403,-8.0932407
+Pteromalidae,Nasonia,vitripennis,Norway,64.574131,11.5270102892
+Pteromalidae,Nasonia,vitripennis,Shanxi (Shansi),37,112
+Pteromalidae,Nasonia,vitripennis,Poland,52.0977181,19.0258159
+Pteromalidae,Nasonia,vitripennis,Romania,45.9852129,24.6859225
+Pteromalidae,Nasonia,vitripennis,Senegal,14.4750607,-14.4529611
+Pteromalidae,Nasonia,vitripennis,Serbia,44.1534121,20.55144
+Pteromalidae,Nasonia,vitripennis,Slovakia,48.7411522,19.4528646
+Pteromalidae,Nasonia,vitripennis,South Africa,-28.8166235,24.991639
+Pteromalidae,Nasonia,vitripennis,Spain,40.0028028,-4.0031039
+Pteromalidae,Nasonia,vitripennis,Sri Lanka,7.878,80.7038245875
+Pteromalidae,Nasonia,vitripennis,Sweden,59.6749712,14.5208584
+Pteromalidae,Nasonia,vitripennis,Tadzhikistan,38.6281733,70.8156541
+Pteromalidae,Nasonia,vitripennis,Tselinograd Obl.,51.15092055,71.4388595155
+Pteromalidae,Nasonia,vitripennis,Turkey,38.9597594,34.9249653
+Pteromalidae,Nasonia,vitripennis,England,52.7954791,-0.540240236617
+Pteromalidae,Nasonia,vitripennis,Arizona,34.395342,-111.7632754
+Pteromalidae,Nasonia,vitripennis,Arkansas,35.2048883,-92.4479107
+Pteromalidae,Nasonia,vitripennis,California,36.7014631,-118.7559973
+Pteromalidae,Nasonia,vitripennis,District of Columbia,38.8949549,-77.0366455
+Pteromalidae,Nasonia,vitripennis,Florida,27.7567667,-81.4639834
+Pteromalidae,Nasonia,vitripennis,Illinois,40.0796319,-89.4339808
+Pteromalidae,Nasonia,vitripennis,Indiana,40.3270127,-86.1746932
+Pteromalidae,Nasonia,vitripennis,Maryland,39.5162234,-76.9382068
+Pteromalidae,Nasonia,vitripennis,Massachusetts,42.3788774,-72.0323659
+Pteromalidae,Nasonia,vitripennis,Michigan,43.6211955,-84.6824345
+Pteromalidae,Nasonia,vitripennis,Montana,47.3752671,-109.6387578
+Pteromalidae,Nasonia,vitripennis,Nebraska,41.7370229,-99.5873815
+Pteromalidae,Nasonia,vitripennis,New Jersey,40.0757384,-74.4041621
+Pteromalidae,Nasonia,vitripennis,New York,40.7305991,-73.9865811
+Pteromalidae,Nasonia,vitripennis,North Carolina,35.6729639,-79.0392918
+Pteromalidae,Nasonia,vitripennis,Texas,31.8160381,-99.5120985
+Pteromalidae,Nasonia,vitripennis,Utah,39.4225192,-111.7143583
+Pteromalidae,Nasonia,vitripennis,Uzbekistan,41.32373,63.9528098
+Pteromalidae,Nasonia,vitripennis,Zimbabwe,-18.4554962,29.7468414
+NA,NA,NA,,,
+Pteromalidae,Spalangia,endius,American Samoa,-14.30063085,-170.695974692
+Pteromalidae,Spalangia,endius,Argentina,-34.9964962,-64.9672816
+Pteromalidae,Spalangia,endius,New South Wales,-31.8759834,147.2869493
+Pteromalidae,Spalangia,endius,Northern Territory,-19.85161,133.2303375
+Pteromalidae,Spalangia,endius,Queensland,-21.9182855,144.4588889
+Pteromalidae,Spalangia,endius,South Australia,-30.5343664,135.6301212
+Pteromalidae,Spalangia,endius,Western Australia,-25.2303004,121.0187246
+Pteromalidae,Spalangia,endius,Belize,16.8259793,-88.7600926
+Pteromalidae,Spalangia,endius,Bolivia,-17.0568695,-64.9912285
+Pteromalidae,Spalangia,endius,Goiás,-15.9321904,-50.1388783
+Pteromalidae,Spalangia,endius,Mato Groso do Sul,-19.5852563,-54.479473
+Pteromalidae,Spalangia,endius,Minas Gerais,-18.5264843,-44.1588653
+Pteromalidae,Spalangia,endius,Rio Grande do Sul,-29.8517999,-53.7672249
+Pteromalidae,Spalangia,endius,Santa Catarina,-27.0628366,-51.1149649
+Pteromalidae,Spalangia,endius,Sao Paulo,-21.9549805,-49.0232347
+Pteromalidae,Spalangia,endius,British Virgin Islands,18.4024395,-64.5661641
+Pteromalidae,Spalangia,endius,Bulgaria,42.6073975,25.4856617
+Pteromalidae,Spalangia,endius,Alberta,55,-114.9999998
+Pteromalidae,Spalangia,endius,Ontario,50.0000002,-86
+Pteromalidae,Spalangia,endius,Canary Islands,28.5306525,-15.7464438
+Pteromalidae,Spalangia,endius,Easter Island,-27.1260191,-109.349674206
+Pteromalidae,Spalangia,endius,Colombia,2.893108,-73.7845142
+Pteromalidae,Spalangia,endius,Costa Rica,10.2735633,-84.0739101
+Pteromalidae,Spalangia,endius,Cyprus,34.9823018,33.1451285
+Pteromalidae,Spalangia,endius,Czech Republic,49.8167003,15.4749544
+Pteromalidae,Spalangia,endius,Ecuador,-1.3397667,-79.3666964
+Pteromalidae,Spalangia,endius,Galapagos,40.6965903,-3.3379592
+Pteromalidae,Spalangia,endius,Fiji,-18.1239695,179.0122737
+Pteromalidae,Spalangia,endius,Germany,51.0834196,10.4234469
+Pteromalidae,Spalangia,endius,Ghana,8.0300284,-1.080027
+Pteromalidae,Spalangia,endius,Guam,13.4501257,144.75755103
+Pteromalidae,Spalangia,endius,Guatemala,15.6356088,-89.8988086
+Pteromalidae,Spalangia,endius,Hawaii,21.2160437,-157.9752029
+Pteromalidae,Spalangia,endius,Delhi,28.6517178,77.2219388
+Pteromalidae,Spalangia,endius,Maharashtra,19.531932,76.0554568
+Pteromalidae,Spalangia,endius,Timor group (+ Wetar),-9.346017,124.637279938
+Pteromalidae,Spalangia,endius,West Lesser Sundas,-8.9999999,120
+Pteromalidae,Spalangia,endius,Italy,42.6384261,12.674297
+Pteromalidae,Spalangia,endius,Kirgizia,41.5089324,74.724091
+Pteromalidae,Spalangia,endius,Madeira,32.75175465,-16.9817465613
+Pteromalidae,Spalangia,endius,Malawi,-13.2687203,33.9301963
+Pteromalidae,Spalangia,endius,Malaysia,2.3923759,112.8471939
+Pteromalidae,Spalangia,endius,peninsular,-33.5991294,150.8346571
+Pteromalidae,Spalangia,endius,Marshall Islands,6.9518742,170.9985095
+Pteromalidae,Spalangia,endius,Mauritius,-20.275945,57.5703566
+Pteromalidae,Spalangia,endius,Mexico,19.4326009,-99.1333415
+Pteromalidae,Spalangia,endius,Morocco,31.1728192,-7.3366042
+Pteromalidae,Spalangia,endius,New Caledonia,-21.3019904,165.4880773
+Pteromalidae,Spalangia,endius,New Zealand,-41.500083,172.8344077
+Pteromalidae,Spalangia,endius,Nicaragua,12.3724928,-84.8700307
+Pteromalidae,Spalangia,endius,Nigeria,9.6000359,7.9999721
+Pteromalidae,Spalangia,endius,North Africa,41.4299403,-8.0932407
+Pteromalidae,Spalangia,endius,Beijing (Peking),39.9059631,116.391248
+Pteromalidae,Spalangia,endius,Fujian (Fukien),26.5450001,117.842778
+Pteromalidae,Spalangia,endius,Hunan (Hunan),27.9995878,112.009538
+Pteromalidae,Spalangia,endius,Shanxi (Shansi),37,112
+Pteromalidae,Spalangia,endius,Yunnan,25,102
+Pteromalidae,Spalangia,endius,Peru,-6.8699696,-75.0458514
+Pteromalidae,Spalangia,endius,Philippines,12.7503486,122.7312101
+Pteromalidae,Spalangia,endius,Puerto Rico,18.2017809,-66.5841245
+Pteromalidae,Spalangia,endius,Romania,45.9852129,24.6859225
+Pteromalidae,Spalangia,endius,South Africa,-28.8166235,24.991639
+Pteromalidae,Spalangia,endius,St Vincent & Grenadines,12.90447,-61.2765568
+Pteromalidae,Spalangia,endius,Sweden,59.6749712,14.5208584
+Pteromalidae,Spalangia,endius,Tanzania,-6.5247122,35.7878438
+Pteromalidae,Spalangia,endius,Thailand,14.8971921,100.83273
+Pteromalidae,Spalangia,endius,Trinidad & Tobago,10.8677845,-60.9821066
+Pteromalidae,Spalangia,endius,Tselinograd Obl.,51.15092055,71.4388595155
+Pteromalidae,Spalangia,endius,Arkansas,35.2048883,-92.4479107
+Pteromalidae,Spalangia,endius,California,36.7014631,-118.7559973
+Pteromalidae,Spalangia,endius,Florida,27.7567667,-81.4639834
+Pteromalidae,Spalangia,endius,Georgia,41.6809707,44.0287382
+Pteromalidae,Spalangia,endius,Illinois,40.0796319,-89.4339808
+Pteromalidae,Spalangia,endius,Indiana,40.3270127,-86.1746932
+Pteromalidae,Spalangia,endius,Maryland,39.5162234,-76.9382068
+Pteromalidae,Spalangia,endius,Missouri,38.7604815,-92.5617874
+Pteromalidae,Spalangia,endius,Nebraska,41.7370229,-99.5873815
+Pteromalidae,Spalangia,endius,New Jersey,40.0757384,-74.4041621
+Pteromalidae,Spalangia,endius,New York,40.7305991,-73.9865811
+Pteromalidae,Spalangia,endius,North Carolina,35.6729639,-79.0392918
+Pteromalidae,Spalangia,endius,South Carolina,33.6874388,-80.4363742
+Pteromalidae,Spalangia,endius,Texas,31.8160381,-99.5120985
+Pteromalidae,Spalangia,endius,Uruguay,-32.8755547,-56.0201524
+Pteromalidae,Spalangia,endius,US Virgin Islands,17.789187,-64.7080573
+Pteromalidae,Spalangia,endius,Uzbekistan,41.32373,63.9528098
+Pteromalidae,Spalangia,endius,Venezuela,8.0018709,-66.1109317
+Pteromalidae,Spalangia,endius,Western Samoa,40.86412885,-124.097067824
+Pteromalidae,Spalangia,endius,Zambia,-14.5186238,27.5599164
+NA,NA,NA,,,
+Pteromalidae,Spalangia,erythromera,Albania,41.000028,19.9999619
+Pteromalidae,Spalangia,erythromera,Austria,47.2000338,13.199959
+Pteromalidae,Spalangia,erythromera,Belgium,50.6407351,4.66696
+Pteromalidae,Spalangia,erythromera,Bulgaria,42.6073975,25.4856617
+Pteromalidae,Spalangia,erythromera,Alberta,55,-114.9999998
+Pteromalidae,Spalangia,erythromera,British Columbia,55,-124.9999999
+Pteromalidae,Spalangia,erythromera,Manitoba,55.0000001,-97
+Pteromalidae,Spalangia,erythromera,New Brunswick,46.5,-66.7499999
+Pteromalidae,Spalangia,erythromera,Ontario,50.0000002,-86
+Pteromalidae,Spalangia,erythromera,Prince Edward Island,46.3202067,-63.4594099
+Pteromalidae,Spalangia,erythromera,Quebec,54,-71.9999999
+Pteromalidae,Spalangia,erythromera,Saskatchewan,54,-105.9999999
+Pteromalidae,Spalangia,erythromera,Czech Republic,49.8167003,15.4749544
+Pteromalidae,Spalangia,erythromera,France,46.603354,1.8883335
+Pteromalidae,Spalangia,erythromera,Germany,51.0834196,10.4234469
+Pteromalidae,Spalangia,erythromera,Hungary,47.1817585,19.5060937
+Pteromalidae,Spalangia,erythromera,Moldova,47.286747,28.5110236
+Pteromalidae,Spalangia,erythromera,Montenegro,43.0285558,19.291739
+Pteromalidae,Spalangia,erythromera,Netherlands,52.2379891,5.53460738162
+Pteromalidae,Spalangia,erythromera,Beijing (Peking),39.9059631,116.391248
+Pteromalidae,Spalangia,erythromera,Jilin (Kirin),42.9995032,125.9816054
+Pteromalidae,Spalangia,erythromera,Nei Menggu (Inner Mongolia),43.2443242,114.3251664
+Pteromalidae,Spalangia,erythromera,Yunnan,25,102
+Pteromalidae,Spalangia,erythromera,Romania,45.9852129,24.6859225
+Pteromalidae,Spalangia,erythromera,Slovakia,48.7411522,19.4528646
+Pteromalidae,Spalangia,erythromera,Spain,40.0028028,-4.0031039
+Pteromalidae,Spalangia,erythromera,Sweden,59.6749712,14.5208584
+Pteromalidae,Spalangia,erythromera,Switzerland,46.7985624,8.2319736
+Pteromalidae,Spalangia,erythromera,Tselinograd Obl.,51.15092055,71.4388595155
+Pteromalidae,Spalangia,erythromera,England,52.7954791,-0.540240236617
+Pteromalidae,Spalangia,erythromera,Alaska,64.4459613,-149.6809089
+Pteromalidae,Spalangia,erythromera,Arizona,34.395342,-111.7632754
+Pteromalidae,Spalangia,erythromera,California,36.7014631,-118.7559973
+Pteromalidae,Spalangia,erythromera,Connecticut,41.6500201,-72.7342162
+Pteromalidae,Spalangia,erythromera,District of Columbia,38.8949549,-77.0366455
+Pteromalidae,Spalangia,erythromera,Florida,27.7567667,-81.4639834
+Pteromalidae,Spalangia,erythromera,Georgia,41.6809707,44.0287382
+Pteromalidae,Spalangia,erythromera,Illinois,40.0796319,-89.4339808
+Pteromalidae,Spalangia,erythromera,Maine,45.709097,-68.85902
+Pteromalidae,Spalangia,erythromera,Maryland,39.5162234,-76.9382068
+Pteromalidae,Spalangia,erythromera,Michigan,43.6211955,-84.6824345
+Pteromalidae,Spalangia,erythromera,Minnesota,45.9896587,-94.6113287
+Pteromalidae,Spalangia,erythromera,Missouri,38.7604815,-92.5617874
+Pteromalidae,Spalangia,erythromera,Montana,47.3752671,-109.6387578
+Pteromalidae,Spalangia,erythromera,New Hampshire,43.4849133,-71.6553991
+Pteromalidae,Spalangia,erythromera,New Mexico,34.5708167,-105.9930069
+Pteromalidae,Spalangia,erythromera,New York,40.7305991,-73.9865811
+Pteromalidae,Spalangia,erythromera,North Carolina,35.6729639,-79.0392918
+Pteromalidae,Spalangia,erythromera,Oklahoma,34.9550817,-97.2684062
+Pteromalidae,Spalangia,erythromera,Oregon,43.9792797,-120.7372569
+Pteromalidae,Spalangia,erythromera,Pennsylvania,40.9699889,-77.727883
+Pteromalidae,Spalangia,erythromera,South Carolina,33.6874388,-80.4363742
+Pteromalidae,Spalangia,erythromera,Tennessee,35.7730076,-86.282008
+Pteromalidae,Spalangia,erythromera,Utah,39.4225192,-111.7143583
+Pteromalidae,Spalangia,erythromera,Virginia,37.1232245,-78.492772
+Pteromalidae,Spalangia,erythromera,Washington,38.8949549,-77.0366455
+Pteromalidae,Spalangia,erythromera,Wyoming,43.1700264,-107.5685347
+Pteromalidae,Spalangia,erythromera,Venezuela,8.0018709,-66.1109317
+NA,NA,NA,,,
+Pteromalidae,Spalangia,fuscipes,Algeria,28.0000272,2.9999825
+Pteromalidae,Spalangia,fuscipes,Austria,47.2000338,13.199959
+Pteromalidae,Spalangia,fuscipes,Bulgaria,42.6073975,25.4856617
+Pteromalidae,Spalangia,fuscipes,Canary Islands,28.5306525,-15.7464438
+Pteromalidae,Spalangia,fuscipes,Croatia,45.5643442,17.0118954
+Pteromalidae,Spalangia,fuscipes,Czech Republic,49.8167003,15.4749544
+Pteromalidae,Spalangia,fuscipes,France,46.603354,1.8883335
+Pteromalidae,Spalangia,fuscipes,Germany,51.0834196,10.4234469
+Pteromalidae,Spalangia,fuscipes,Hungary,47.1817585,19.5060937
+Pteromalidae,Spalangia,fuscipes,Andhra Pradesh,15.9240905,80.1863809
+Pteromalidae,Spalangia,fuscipes,Karnataka,14.5203896,75.7223521
+Pteromalidae,Spalangia,fuscipes,Ireland (north and south),52.865196,-7.9794598
+Pteromalidae,Spalangia,fuscipes,Italy,42.6384261,12.674297
+Pteromalidae,Spalangia,fuscipes,Malaysia,2.3923759,112.8471939
+Pteromalidae,Spalangia,fuscipes,Moldova,47.286747,28.5110236
+Pteromalidae,Spalangia,fuscipes,Morocco,31.1728192,-7.3366042
+Pteromalidae,Spalangia,fuscipes,Netherlands,52.2379891,5.53460738162
+Pteromalidae,Spalangia,fuscipes,North Africa,41.4299403,-8.0932407
+Pteromalidae,Spalangia,fuscipes,Beijing (Peking),39.9059631,116.391248
+Pteromalidae,Spalangia,fuscipes,Guangdong (Kwangtung),23.1357694,113.1982688
+Pteromalidae,Spalangia,fuscipes,Romania,45.9852129,24.6859225
+Pteromalidae,Spalangia,fuscipes,Russia,64.6863136,97.7453061
+Pteromalidae,Spalangia,fuscipes,Slovakia,48.7411522,19.4528646
+Pteromalidae,Spalangia,fuscipes,Sweden,59.6749712,14.5208584
+Pteromalidae,Spalangia,fuscipes,Turkey,38.9597594,34.9249653
+Pteromalidae,Spalangia,fuscipes,Ukraine,49.4871968,31.2718321
+Pteromalidae,Spalangia,fuscipes,United States of America,39.7837304,-100.4458824
+Pteromalidae,Spalangia,fuscipes,Siberia,5.89168285,-75.9300731239
+NA,NA,NA,,,
+Torymidae,Megastigmus,borriesi,Denmark,55.670249,10.3333283
+Torymidae,Megastigmus,borriesi,Finland,63.2467777,25.9209164
+Torymidae,Megastigmus,borriesi,Japan,36.5748441,139.2394179
+Torymidae,Megastigmus,borriesi,Korea,35.3985008,127.937111
+Torymidae,Megastigmus,borriesi,Russia,64.6863136,97.7453061
+NA,NA,NA,,,
+Torymidae,Megastigmus,brevicaudis,Czech Republic,49.8167003,15.4749544
+Torymidae,Megastigmus,brevicaudis,Denmark,55.670249,10.3333283
+Torymidae,Megastigmus,brevicaudis,Finland,63.2467777,25.9209164
+Torymidae,Megastigmus,brevicaudis,France,46.603354,1.8883335
+Torymidae,Megastigmus,brevicaudis,Germany,51.0834196,10.4234469
+Torymidae,Megastigmus,brevicaudis,Netherlands,52.2379891,5.53460738162
+Torymidae,Megastigmus,brevicaudis,Poland,52.0977181,19.0258159
+Torymidae,Megastigmus,brevicaudis,Irkutsk Oblast,56.6370122,104.719221
+Torymidae,Megastigmus,brevicaudis,Komi ASSR,63.81152515,53.0940503376
+Torymidae,Megastigmus,brevicaudis,Moscow Oblast,55.5043158,38.0353929
+Torymidae,Megastigmus,brevicaudis,Sweden,59.6749712,14.5208584
+Torymidae,Megastigmus,brevicaudis,Ukraine,49.4871968,31.2718321
+Torymidae,Megastigmus,brevicaudis,England,52.7954791,-0.540240236617
+Torymidae,Megastigmus,brevicaudis,Massachusetts,42.3788774,-72.0323659
+Torymidae,Megastigmus,brevicaudis,Minnesota,45.9896587,-94.6113287
+Torymidae,Megastigmus,brevicaudis,New York,40.7305991,-73.9865811
+NA,NA,NA,,,
+Torymidae,Megastigmus,pictus,Austria,47.2000338,13.199959
+Torymidae,Megastigmus,pictus,Croatia,45.5643442,17.0118954
+Torymidae,Megastigmus,pictus,Czech Republic,49.8167003,15.4749544
+Torymidae,Megastigmus,pictus,Denmark,55.670249,10.3333283
+Torymidae,Megastigmus,pictus,Estonia,58.7523778,25.3319078
+Torymidae,Megastigmus,pictus,Finland,63.2467777,25.9209164
+Torymidae,Megastigmus,pictus,France,46.603354,1.8883335
+Torymidae,Megastigmus,pictus,Germany,51.0834196,10.4234469
+Torymidae,Megastigmus,pictus,Italy,42.6384261,12.674297
+Torymidae,Megastigmus,pictus,Netherlands,52.2379891,5.53460738162
+Torymidae,Megastigmus,pictus,Hebei,39.0000001,116
+Torymidae,Megastigmus,pictus,Heilongjiang (HeilungKiang),48.0000047,127.999992
+Torymidae,Megastigmus,pictus,Jilin (Kirin),42.9995032,125.9816054
+Torymidae,Megastigmus,pictus,Liaoning,40.9975197,122.9955469
+Torymidae,Megastigmus,pictus,Nei Menggu (Inner Mongolia),43.2443242,114.3251664
+Torymidae,Megastigmus,pictus,Shanxi (Shansi),37,112
+Torymidae,Megastigmus,pictus,Poland,52.0977181,19.0258159
+Torymidae,Megastigmus,pictus,Romania,45.9852129,24.6859225
+Torymidae,Megastigmus,pictus,Irkutsk Oblast,56.6370122,104.719221
+Torymidae,Megastigmus,pictus,St. Petersberg (Leningrad),59.9393657,30.3153628
+Torymidae,Megastigmus,pictus,Slovakia,48.7411522,19.4528646
+Torymidae,Megastigmus,pictus,Sweden,59.6749712,14.5208584
+Torymidae,Megastigmus,pictus,Ukraine,49.4871968,31.2718321
+Torymidae,Megastigmus,pictus,United Kingdom,54.7023545,-3.2765752
+Torymidae,Megastigmus,pictus,Siberia,5.89168285,-75.9300731239
+NA,NA,NA,,,
+Torymidae,Megastigmus,pinsapinis,Algeria,28.0000272,2.9999825
+Torymidae,Megastigmus,pinsapinis,France,46.603354,1.8883335
+Torymidae,Megastigmus,pinsapinis,Italy,42.6384261,12.674297
+Torymidae,Megastigmus,pinsapinis,Morocco,31.1728192,-7.3366042
+Torymidae,Megastigmus,pinsapinis,Spain,40.0028028,-4.0031039
+NA,NA,NA,,,
+Torymidae,Megastigmus,pistaciae,Afghanistan,33.0000866,64.9998468
+Torymidae,Megastigmus,pistaciae,Algeria,28.0000272,2.9999825
+Torymidae,Megastigmus,pistaciae,Armenia,40.7696272,44.6736646
+Torymidae,Megastigmus,pistaciae,Australia,-24.7761085,134.755
+Torymidae,Megastigmus,pistaciae,Bulgaria,42.6073975,25.4856617
+Torymidae,Megastigmus,pistaciae,Croatia,45.5643442,17.0118954
+Torymidae,Megastigmus,pistaciae,Cyprus,34.9823018,33.1451285
+Torymidae,Megastigmus,pistaciae,Corsica,42.1640662,9.0982074
+Torymidae,Megastigmus,pistaciae,Georgia,41.6809707,44.0287382
+Torymidae,Megastigmus,pistaciae,Greece,39.000041,21.9999569
+Torymidae,Megastigmus,pistaciae,Iran,32.9407496,52.9471344
+Torymidae,Megastigmus,pistaciae,Israel,30.8760272,35.0015196
+Torymidae,Megastigmus,pistaciae,Sicily,37.587794,14.155048
+Torymidae,Megastigmus,pistaciae,Kirgizia,41.5089324,74.724091
+Torymidae,Megastigmus,pistaciae,Mexico,19.4326009,-99.1333415
+Torymidae,Megastigmus,pistaciae,Montenegro,43.0285558,19.291739
+Torymidae,Megastigmus,pistaciae,Morocco,31.1728192,-7.3366042
+Torymidae,Megastigmus,pistaciae,China,35.000074,104.999927
+Torymidae,Megastigmus,pistaciae,Portugal,40.033265,-7.8896262
+Torymidae,Megastigmus,pistaciae,Russia,64.6863136,97.7453061
+Torymidae,Megastigmus,pistaciae,Spain,40.0028028,-4.0031039
+Torymidae,Megastigmus,pistaciae,Syria,34.6401861,39.0494106
+Torymidae,Megastigmus,pistaciae,Tadzhikistan,38.6281733,70.8156541
+Torymidae,Megastigmus,pistaciae,Tunisia,33.8439408,9.400138
+Torymidae,Megastigmus,pistaciae,Turkey,38.9597594,34.9249653
+Torymidae,Megastigmus,pistaciae,Turkmenistan,39.3763807,59.3924609
+Torymidae,Megastigmus,pistaciae,Ukraine,49.4871968,31.2718321
+Torymidae,Megastigmus,pistaciae,California,36.7014631,-118.7559973
+Torymidae,Megastigmus,pistaciae,Uzbekistan,41.32373,63.9528098
+NA,NA,NA,,,
+Torymidae,Megastigmus,rosae,Armenia,40.7696272,44.6736646
+Torymidae,Megastigmus,rosae,Austria,47.2000338,13.199959
+Torymidae,Megastigmus,rosae,Azerbaijan,40.3936294,47.7872508
+Torymidae,Megastigmus,rosae,Czech Republic,49.8167003,15.4749544
+Torymidae,Megastigmus,rosae,France,46.603354,1.8883335
+Torymidae,Megastigmus,rosae,Georgia,41.6809707,44.0287382
+Torymidae,Megastigmus,rosae,Germany,51.0834196,10.4234469
+Torymidae,Megastigmus,rosae,Iran,32.9407496,52.9471344
+Torymidae,Megastigmus,rosae,Russia,64.6863136,97.7453061
+Torymidae,Megastigmus,rosae,Daghestan ASSR,43.0574916,47.1332224
+Torymidae,Megastigmus,rosae,Switzerland,46.7985624,8.2319736
+Torymidae,Megastigmus,rosae,Tadzhikistan,38.6281733,70.8156541
+Torymidae,Megastigmus,rosae,Tselinograd Obl.,51.15092055,71.4388595155
+Torymidae,Megastigmus,rosae,Turkey,38.9597594,34.9249653
+Torymidae,Megastigmus,rosae,Turkmenistan,39.3763807,59.3924609
+Torymidae,Megastigmus,rosae,Ukraine,49.4871968,31.2718321
+Torymidae,Megastigmus,rosae,Siberia,5.89168285,-75.9300731239
+NA,NA,NA,,,
+Torymidae,Megastigmus,suspectus,Algeria,28.0000272,2.9999825
+Torymidae,Megastigmus,suspectus,Austria,47.2000338,13.199959
+Torymidae,Megastigmus,suspectus,Czech Republic,49.8167003,15.4749544
+Torymidae,Megastigmus,suspectus,Denmark,55.670249,10.3333283
+Torymidae,Megastigmus,suspectus,Finland,63.2467777,25.9209164
+Torymidae,Megastigmus,suspectus,France,46.603354,1.8883335
+Torymidae,Megastigmus,suspectus,Georgia,41.6809707,44.0287382
+Torymidae,Megastigmus,suspectus,Germany,51.0834196,10.4234469
+Torymidae,Megastigmus,suspectus,Greece,39.000041,21.9999569
+Torymidae,Megastigmus,suspectus,Hungary,47.1817585,19.5060937
+Torymidae,Megastigmus,suspectus,Italy,42.6384261,12.674297
+Torymidae,Megastigmus,suspectus,Montenegro,43.0285558,19.291739
+Torymidae,Megastigmus,suspectus,Netherlands,52.2379891,5.53460738162
+Torymidae,Megastigmus,suspectus,Poland,52.0977181,19.0258159
+Torymidae,Megastigmus,suspectus,Romania,45.9852129,24.6859225
+Torymidae,Megastigmus,suspectus,Slovakia,48.7411522,19.4528646
+Torymidae,Megastigmus,suspectus,Slovenia,45.8133113,14.4808369
+Torymidae,Megastigmus,suspectus,Spain,40.0028028,-4.0031039
+Torymidae,Megastigmus,suspectus,Sweden,59.6749712,14.5208584
+Torymidae,Megastigmus,suspectus,Tselinograd Obl.,51.15092055,71.4388595155
+Torymidae,Megastigmus,suspectus,Turkey,38.9597594,34.9249653
+Torymidae,Megastigmus,suspectus,Ukraine,49.4871968,31.2718321
+Torymidae,Megastigmus,suspectus,United Kingdom,54.7023545,-3.2765752
+NA,NA,NA,,,
+Torymidae,Torymus,bedeguaris,Andorra,42.5407167,1.5732033
+Torymidae,Torymus,bedeguaris,Armenia,40.7696272,44.6736646
+Torymidae,Torymus,bedeguaris,Austria,47.2000338,13.199959
+Torymidae,Torymus,bedeguaris,Azerbaijan,40.3936294,47.7872508
+Torymidae,Torymus,bedeguaris,Belgium,50.6407351,4.66696
+Torymidae,Torymus,bedeguaris,Bulgaria,42.6073975,25.4856617
+Torymidae,Torymus,bedeguaris,Alberta,55,-114.9999998
+Torymidae,Torymus,bedeguaris,British Columbia,55,-124.9999999
+Torymidae,Torymus,bedeguaris,Ontario,50.0000002,-86
+Torymidae,Torymus,bedeguaris,Quebec,54,-71.9999999
+Torymidae,Torymus,bedeguaris,Croatia,45.5643442,17.0118954
+Torymidae,Torymus,bedeguaris,Czech Republic,49.8167003,15.4749544
+Torymidae,Torymus,bedeguaris,Denmark,55.670249,10.3333283
+Torymidae,Torymus,bedeguaris,France,46.603354,1.8883335
+Torymidae,Torymus,bedeguaris,Georgia,41.6809707,44.0287382
+Torymidae,Torymus,bedeguaris,Germany,51.0834196,10.4234469
+Torymidae,Torymus,bedeguaris,Greece,39.000041,21.9999569
+Torymidae,Torymus,bedeguaris,Hungary,47.1817585,19.5060937
+Torymidae,Torymus,bedeguaris,Iran,32.9407496,52.9471344
+Torymidae,Torymus,bedeguaris,Italy,42.6384261,12.674297
+Torymidae,Torymus,bedeguaris,Kirgizia,41.5089324,74.724091
+Torymidae,Torymus,bedeguaris,Moldova,47.286747,28.5110236
+Torymidae,Torymus,bedeguaris,Netherlands,52.2379891,5.53460738162
+Torymidae,Torymus,bedeguaris,Romania,45.9852129,24.6859225
+Torymidae,Torymus,bedeguaris,Adygey AO (Adigei),44.6939006,40.1520421
+Torymidae,Torymus,bedeguaris,Daghestan ASSR,43.0574916,47.1332224
+Torymidae,Torymus,bedeguaris,Moscow Oblast,55.5043158,38.0353929
+Torymidae,Torymus,bedeguaris,Rostov Oblast,47.6222451,40.7957942
+Torymidae,Torymus,bedeguaris,Ul yanovsk Oblast,54.1463177,47.2324921
+Torymidae,Torymus,bedeguaris,Serbia,44.1534121,20.55144
+Torymidae,Torymus,bedeguaris,Slovakia,48.7411522,19.4528646
+Torymidae,Torymus,bedeguaris,Spain,40.0028028,-4.0031039
+Torymidae,Torymus,bedeguaris,Sweden,59.6749712,14.5208584
+Torymidae,Torymus,bedeguaris,Switzerland,46.7985624,8.2319736
+Torymidae,Torymus,bedeguaris,Tadzhikistan,38.6281733,70.8156541
+Torymidae,Torymus,bedeguaris,Tselinograd Obl.,51.15092055,71.4388595155
+Torymidae,Torymus,bedeguaris,Turkey,38.9597594,34.9249653
+Torymidae,Torymus,bedeguaris,Turkmenistan,39.3763807,59.3924609
+Torymidae,Torymus,bedeguaris,Ukraine,49.4871968,31.2718321
+Torymidae,Torymus,bedeguaris,England,52.7954791,-0.540240236617
+Torymidae,Torymus,bedeguaris,Arizona,34.395342,-111.7632754
+Torymidae,Torymus,bedeguaris,California,36.7014631,-118.7559973
+Torymidae,Torymus,bedeguaris,Colorado,38.7251776,-105.6077166
+Torymidae,Torymus,bedeguaris,Illinois,40.0796319,-89.4339808
+Torymidae,Torymus,bedeguaris,Iowa,41.9216734,-93.3122704
+Torymidae,Torymus,bedeguaris,Nebraska,41.7370229,-99.5873815
+Torymidae,Torymus,bedeguaris,Nevada,39.5158825,-116.8537226
+Torymidae,Torymus,bedeguaris,New Jersey,40.0757384,-74.4041621
+Torymidae,Torymus,bedeguaris,Oregon,43.9792797,-120.7372569
+Torymidae,Torymus,bedeguaris,Utah,39.4225192,-111.7143583
+Torymidae,Torymus,bedeguaris,Washington,38.8949549,-77.0366455
+NA,NA,NA,,,
+Trichogrammatidae,Megaphragma,deflectum,Fujian (Fukien),26.5450001,117.842778
+NA,NA,NA,,,
+Trichogrammatidae,Megaphragma,longiciliatum,Karnataka,14.5203896,75.7223521
+NA,NA,NA,,,
+Trichogrammatidae,Megaphragma,mymaripenne,Argentina,-34.9964962,-64.9672816
+Trichogrammatidae,Megaphragma,mymaripenne,Chile,-31.7613364,-71.3187696
+Trichogrammatidae,Megaphragma,mymaripenne,Guadeloupe,16.2490067,-61.5650443
+Trichogrammatidae,Megaphragma,mymaripenne,Haiti,19.1399952,-72.3570971
+Trichogrammatidae,Megaphragma,mymaripenne,Hawaii,21.2160437,-157.9752029
+Trichogrammatidae,Megaphragma,mymaripenne,Sicily,37.587794,14.155048
+Trichogrammatidae,Megaphragma,mymaripenne,California,36.7014631,-118.7559973
+Trichogrammatidae,Megaphragma,mymaripenne,Louisiana,30.8703881,-92.0071259
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,atopovirilia,Minas Gerais,-18.5264843,-44.1588653
+Trichogrammatidae,Trichogramma,atopovirilia,Paraná,-24.4842186,-51.8148871
+Trichogrammatidae,Trichogramma,atopovirilia,Pernambuco,-8.4127482,-38.3087922
+Trichogrammatidae,Trichogramma,atopovirilia,Sao Paulo,-21.9549805,-49.0232347
+Trichogrammatidae,Trichogramma,atopovirilia,Caribbean (including West Indies),15.0000001,-75
+Trichogrammatidae,Trichogramma,atopovirilia,Colombia,2.893108,-73.7845142
+Trichogrammatidae,Trichogramma,atopovirilia,El Salvador,13.8000382,-88.9140682
+Trichogrammatidae,Trichogramma,atopovirilia,Guatemala,15.6356088,-89.8988086
+Trichogrammatidae,Trichogramma,atopovirilia,Honduras,15.0610686,-84.5978533
+Trichogrammatidae,Trichogramma,atopovirilia,Mexico,19.4326009,-99.1333415
+Trichogrammatidae,Trichogramma,atopovirilia,Texas,31.8160381,-99.5120985
+Trichogrammatidae,Trichogramma,atopovirilia,Venezuela,8.0018709,-66.1109317
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,cacaeciae,Argentina,-34.9964962,-64.9672816
+Trichogrammatidae,Trichogramma,cacaeciae,Austria,47.2000338,13.199959
+Trichogrammatidae,Trichogramma,cacaeciae,Belarus,53.4250605,27.6971358
+Trichogrammatidae,Trichogramma,cacaeciae,Bulgaria,42.6073975,25.4856617
+Trichogrammatidae,Trichogramma,cacaeciae,Cuba,23.0131338,-80.8328747
+Trichogrammatidae,Trichogramma,cacaeciae,Denmark,55.670249,10.3333283
+Trichogrammatidae,Trichogramma,cacaeciae,Estonia,58.7523778,25.3319078
+Trichogrammatidae,Trichogramma,cacaeciae,France,46.603354,1.8883335
+Trichogrammatidae,Trichogramma,cacaeciae,Germany,51.0834196,10.4234469
+Trichogrammatidae,Trichogramma,cacaeciae,Greece,39.000041,21.9999569
+Trichogrammatidae,Trichogramma,cacaeciae,Iran,32.9407496,52.9471344
+Trichogrammatidae,Trichogramma,cacaeciae,Italy,42.6384261,12.674297
+Trichogrammatidae,Trichogramma,cacaeciae,Kirgizia,41.5089324,74.724091
+Trichogrammatidae,Trichogramma,cacaeciae,Latvia,56.8666904,24.5999717
+Trichogrammatidae,Trichogramma,cacaeciae,Lithuania,55.3500003,23.7499998
+Trichogrammatidae,Trichogramma,cacaeciae,Moldova,47.286747,28.5110236
+Trichogrammatidae,Trichogramma,cacaeciae,Morocco,31.1728192,-7.3366042
+Trichogrammatidae,Trichogramma,cacaeciae,Netherlands,52.2379891,5.53460738162
+Trichogrammatidae,Trichogramma,cacaeciae,Guangdong (Kwangtung),23.1357694,113.1982688
+Trichogrammatidae,Trichogramma,cacaeciae,Peru,-6.8699696,-75.0458514
+Trichogrammatidae,Trichogramma,cacaeciae,Poland,52.0977181,19.0258159
+Trichogrammatidae,Trichogramma,cacaeciae,Portugal,40.033265,-7.8896262
+Trichogrammatidae,Trichogramma,cacaeciae,Adygey AO (Adigei),44.6939006,40.1520421
+Trichogrammatidae,Trichogramma,cacaeciae,Altai Kray,55.9257332,158.7054275
+Trichogrammatidae,Trichogramma,cacaeciae,Amur Oblast,52.8032368,128.437295
+Trichogrammatidae,Trichogramma,cacaeciae,Kaliningrad Oblast,54.7066422,20.5105166
+Trichogrammatidae,Trichogramma,cacaeciae,Voronezh Oblast,50.9800393,40.1506507
+Trichogrammatidae,Trichogramma,cacaeciae,Spain,40.0028028,-4.0031039
+Trichogrammatidae,Trichogramma,cacaeciae,Switzerland,46.7985624,8.2319736
+Trichogrammatidae,Trichogramma,cacaeciae,Syria,34.6401861,39.0494106
+Trichogrammatidae,Trichogramma,cacaeciae,Tselinograd Obl.,51.15092055,71.4388595155
+Trichogrammatidae,Trichogramma,cacaeciae,Tunisia,33.8439408,9.400138
+Trichogrammatidae,Trichogramma,cacaeciae,Turkey,38.9597594,34.9249653
+Trichogrammatidae,Trichogramma,cacaeciae,Ukraine,49.4871968,31.2718321
+Trichogrammatidae,Trichogramma,cacaeciae,England,52.7954791,-0.540240236617
+Trichogrammatidae,Trichogramma,cacaeciae,California,36.7014631,-118.7559973
+Trichogrammatidae,Trichogramma,cacaeciae,Indiana,40.3270127,-86.1746932
+Trichogrammatidae,Trichogramma,cacaeciae,Washington,38.8949549,-77.0366455
+Trichogrammatidae,Trichogramma,cacaeciae,Uzbekistan,41.32373,63.9528098
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,cordubense,Azores,37.80852735,-25.4730851865
+Trichogrammatidae,Trichogramma,cordubense,Iran,32.9407496,52.9471344
+Trichogrammatidae,Trichogramma,cordubense,Madeira,32.75175465,-16.9817465613
+Trichogrammatidae,Trichogramma,cordubense,Portugal,40.033265,-7.8896262
+Trichogrammatidae,Trichogramma,cordubense,Spain,40.0028028,-4.0031039
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,dendrolimi,Austria,47.2000338,13.199959
+Trichogrammatidae,Trichogramma,dendrolimi,Belarus,53.4250605,27.6971358
+Trichogrammatidae,Trichogramma,dendrolimi,Bulgaria,42.6073975,25.4856617
+Trichogrammatidae,Trichogramma,dendrolimi,Chile,-31.7613364,-71.3187696
+Trichogrammatidae,Trichogramma,dendrolimi,France,46.603354,1.8883335
+Trichogrammatidae,Trichogramma,dendrolimi,Germany,51.0834196,10.4234469
+Trichogrammatidae,Trichogramma,dendrolimi,Greece,39.000041,21.9999569
+Trichogrammatidae,Trichogramma,dendrolimi,Hungary,47.1817585,19.5060937
+Trichogrammatidae,Trichogramma,dendrolimi,Jammu & Kashmir,34.0476564,76.7972892
+Trichogrammatidae,Trichogramma,dendrolimi,Iran,32.9407496,52.9471344
+Trichogrammatidae,Trichogramma,dendrolimi,Italy,42.6384261,12.674297
+Trichogrammatidae,Trichogramma,dendrolimi,Japan,36.5748441,139.2394179
+Trichogrammatidae,Trichogramma,dendrolimi,Korea,35.3985008,127.937111
+Trichogrammatidae,Trichogramma,dendrolimi,Korea. South,37.5540282,126.7893535
+Trichogrammatidae,Trichogramma,dendrolimi,Latvia,56.8666904,24.5999717
+Trichogrammatidae,Trichogramma,dendrolimi,Lithuania,55.3500003,23.7499998
+Trichogrammatidae,Trichogramma,dendrolimi,Moldova,47.286747,28.5110236
+Trichogrammatidae,Trichogramma,dendrolimi,Netherlands,52.2379891,5.53460738162
+Trichogrammatidae,Trichogramma,dendrolimi,Pakistan,30.3308401,71.247499
+Trichogrammatidae,Trichogramma,dendrolimi,Anhui (Anhwei),32,117
+Trichogrammatidae,Trichogramma,dendrolimi,Beijing (Peking),39.9059631,116.391248
+Trichogrammatidae,Trichogramma,dendrolimi,Guangdong (Kwangtung),23.1357694,113.1982688
+Trichogrammatidae,Trichogramma,dendrolimi,Heilongjiang (HeilungKiang),48.0000047,127.999992
+Trichogrammatidae,Trichogramma,dendrolimi,Henan (Honan),34.0000001,113.9999999
+Trichogrammatidae,Trichogramma,dendrolimi,Hubei (Hupeh),31,112
+Trichogrammatidae,Trichogramma,dendrolimi,Hunan (Hunan),27.9995878,112.009538
+Trichogrammatidae,Trichogramma,dendrolimi,Jiangsu (Kiangsu),33.0000001,119.9999999
+Trichogrammatidae,Trichogramma,dendrolimi,Jilin (Kirin),42.9995032,125.9816054
+Trichogrammatidae,Trichogramma,dendrolimi,Liaoning,40.9975197,122.9955469
+Trichogrammatidae,Trichogramma,dendrolimi,Shaanxi (Shensi),36,109
+Trichogrammatidae,Trichogramma,dendrolimi,Shandong (Shantung),36.0000001,118.9999999
+Trichogrammatidae,Trichogramma,dendrolimi,Shanxi (Shansi),37,112
+Trichogrammatidae,Trichogramma,dendrolimi,Zhejiang (Chekiang),29.0000001,119.9999999
+Trichogrammatidae,Trichogramma,dendrolimi,Poland,52.0977181,19.0258159
+Trichogrammatidae,Trichogramma,dendrolimi,Romania,45.9852129,24.6859225
+Trichogrammatidae,Trichogramma,dendrolimi,Adygey AO (Adigei),44.6939006,40.1520421
+Trichogrammatidae,Trichogramma,dendrolimi,Moscow Oblast,55.5043158,38.0353929
+Trichogrammatidae,Trichogramma,dendrolimi,Sakhalin Oblast,49.7219665,143.448533
+Trichogrammatidae,Trichogramma,dendrolimi,Tomsk Oblast,58.6124279,82.0475315
+Trichogrammatidae,Trichogramma,dendrolimi,Voronezh Oblast,50.9800393,40.1506507
+Trichogrammatidae,Trichogramma,dendrolimi,Taiwan,23.9739374,120.9820179
+Trichogrammatidae,Trichogramma,dendrolimi,Tselinograd Obl.,51.15092055,71.4388595155
+Trichogrammatidae,Trichogramma,dendrolimi,Turkey,38.9597594,34.9249653
+Trichogrammatidae,Trichogramma,dendrolimi,Ukraine,49.4871968,31.2718321
+Trichogrammatidae,Trichogramma,dendrolimi,Siberia,5.89168285,-75.9300731239
+Trichogrammatidae,Trichogramma,dendrolimi,Vietnam,13.2904027,108.4265113
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,dianae,Florida,27.7567667,-81.4639834
+Trichogrammatidae,Trichogramma,dianae,Georgia,41.6809707,44.0287382
+Trichogrammatidae,Trichogramma,dianae,Maryland,39.5162234,-76.9382068
+Trichogrammatidae,Trichogramma,dianae,Missouri,38.7604815,-92.5617874
+Trichogrammatidae,Trichogramma,dianae,South Carolina,33.6874388,-80.4363742
+Trichogrammatidae,Trichogramma,dianae,Virginia,37.1232245,-78.492772
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,flavum,Hebei,39.0000001,116
+Trichogrammatidae,Trichogramma,flavum,Florida,27.7567667,-81.4639834
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,nubilale,Guangdong (Kwangtung),23.1357694,113.1982688
+Trichogrammatidae,Trichogramma,nubilale,Alabama,33.2588817,-86.8295336
+Trichogrammatidae,Trichogramma,nubilale,Delaware,38.6920451,-75.4013314
+Trichogrammatidae,Trichogramma,nubilale,Florida,27.7567667,-81.4639834
+Trichogrammatidae,Trichogramma,nubilale,Iowa,41.9216734,-93.3122704
+Trichogrammatidae,Trichogramma,nubilale,Massachusetts,42.3788774,-72.0323659
+Trichogrammatidae,Trichogramma,nubilale,Minnesota,45.9896587,-94.6113287
+Trichogrammatidae,Trichogramma,nubilale,Missouri,38.7604815,-92.5617874
+Trichogrammatidae,Trichogramma,nubilale,North Carolina,35.6729639,-79.0392918
+Trichogrammatidae,Trichogramma,nubilale,Pennsylvania,40.9699889,-77.727883
+Trichogrammatidae,Trichogramma,nubilale,Texas,31.8160381,-99.5120985
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,oleae,Argentina,-34.9964962,-64.9672816
+Trichogrammatidae,Trichogramma,oleae,France,46.603354,1.8883335
+Trichogrammatidae,Trichogramma,oleae,Greece,39.000041,21.9999569
+Trichogrammatidae,Trichogramma,oleae,Italy,42.6384261,12.674297
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,semblidis,Bulgaria,42.6073975,25.4856617
+Trichogrammatidae,Trichogramma,semblidis,Manitoba,55.0000001,-97
+Trichogrammatidae,Trichogramma,semblidis,Ontario,50.0000002,-86
+Trichogrammatidae,Trichogramma,semblidis,Saskatchewan,54,-105.9999999
+Trichogrammatidae,Trichogramma,semblidis,France,46.603354,1.8883335
+Trichogrammatidae,Trichogramma,semblidis,Germany,51.0834196,10.4234469
+Trichogrammatidae,Trichogramma,semblidis,Hungary,47.1817585,19.5060937
+Trichogrammatidae,Trichogramma,semblidis,Karnataka,14.5203896,75.7223521
+Trichogrammatidae,Trichogramma,semblidis,Iran,32.9407496,52.9471344
+Trichogrammatidae,Trichogramma,semblidis,Italy,42.6384261,12.674297
+Trichogrammatidae,Trichogramma,semblidis,Netherlands,52.2379891,5.53460738162
+Trichogrammatidae,Trichogramma,semblidis,Norway,64.574131,11.5270102892
+Trichogrammatidae,Trichogramma,semblidis,Poland,52.0977181,19.0258159
+Trichogrammatidae,Trichogramma,semblidis,Nizhniy Novgorod Oblast,56.3278821,44.0072897
+Trichogrammatidae,Trichogramma,semblidis,St. Petersberg (Leningrad),59.9393657,30.3153628
+Trichogrammatidae,Trichogramma,semblidis,Tomsk Oblast,58.6124279,82.0475315
+Trichogrammatidae,Trichogramma,semblidis,Spain,40.0028028,-4.0031039
+Trichogrammatidae,Trichogramma,semblidis,Sweden,59.6749712,14.5208584
+Trichogrammatidae,Trichogramma,semblidis,Switzerland,46.7985624,8.2319736
+Trichogrammatidae,Trichogramma,semblidis,Syria,34.6401861,39.0494106
+Trichogrammatidae,Trichogramma,semblidis,Tselinograd Obl.,51.15092055,71.4388595155
+Trichogrammatidae,Trichogramma,semblidis,Ukraine,49.4871968,31.2718321
+Trichogrammatidae,Trichogramma,semblidis,England,52.7954791,-0.540240236617
+Trichogrammatidae,Trichogramma,semblidis,Alaska,64.4459613,-149.6809089
+Trichogrammatidae,Trichogramma,semblidis,Georgia,41.6809707,44.0287382
+Trichogrammatidae,Trichogramma,semblidis,Idaho,43.6447642,-114.015407
+Trichogrammatidae,Trichogramma,semblidis,Kansas,38.27312,-98.5821871
+Trichogrammatidae,Trichogramma,semblidis,Michigan,43.6211955,-84.6824345
+Trichogrammatidae,Trichogramma,semblidis,Minnesota,45.9896587,-94.6113287
+Trichogrammatidae,Trichogramma,semblidis,New York,40.7305991,-73.9865811
+Trichogrammatidae,Trichogramma,semblidis,Oregon,43.9792797,-120.7372569
+Trichogrammatidae,Trichogramma,semblidis,Siberia,5.89168285,-75.9300731239
+NA,NA,NA,,,
+Trichogrammatidae,Trichogramma,sibiricum,British Columbia,55,-124.9999999
+Trichogrammatidae,Trichogramma,sibiricum,Chita Oblast (=Chitinskaya),52.0334094,113.5008922
+Trichogrammatidae,Trichogramma,sibiricum,California,36.7014631,-118.7559973
+Trichogrammatidae,Trichogramma,sibiricum,Washington,38.8949549,-77.0366455
