@@ -16,7 +16,8 @@ Literature/
 *.jpg
 *.jpeg
 *.png
-
+*.docx
+*.xslx
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
@@ -24,7 +25,7 @@ Literature/
 # *.ps
 # *.eps
 *.pdf
-
+*.PDF
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
