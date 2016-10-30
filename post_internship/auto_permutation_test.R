@@ -11,10 +11,10 @@ data4 <- data[data$ref>"7",] # remove species very few studies
 data<-data3
 data$max_dist_eq <- pmax(abs(data$lat_min),abs(data$lat_max))
 
-for(c in 1:length(colnames(data))){
-  if(is.numeric(data[,c])){data[,c] <- abs(data[,c])}
-}
-# 
+# for(c in 1:length(colnames(data))){
+#   if(is.numeric(data[,c])){data[,c] <- abs(data[,c])}
+# }
+
 # par(mfrow=c(1,3))
 # boxplot(data$ref[data$mode=="sex"], data$ref[data$mode=="asex"], ylim=c(0,10))
 # boxplot(data2$ref[data2$mode=="sex"], data2$ref[data2$mode=="asex"], ylim=c(0,10))
@@ -25,13 +25,14 @@ variable="host_spp"
 
 fmla <- as.formula(paste(variable,"~ mode + (1|genus)",sep=" "))
 m_host <- glmer(fmla, data = data, family="poisson")
-z.obs <- coef(summary(m_host))[2, "z value"]
+z.obs <- coef(summary(m_host))[2, "t value"]
+
 
 ####################################################
 # Ramdomize the mode (sex, asex) within a genus
 n.genera <- length(levels(data$genus)) #number of genera
 l.genus <- as.vector(table(data$genus)) #list w/ number of species per genus
-nboot <- 10 #number of permutations
+nboot <- 1000 #number of permutations
 
 random_test <- function(x,y) {  #x: data, y:genus
 
@@ -40,6 +41,7 @@ random_test <- function(x,y) {  #x: data, y:genus
   var <- subset(x, genus == y)[,variable]
     
   # Sample without replacement
+
   random_mode <- sample(subset(x, genus == y)$mode)
   
   # Return a partial data frame (for each genus)
@@ -66,9 +68,9 @@ zval_model <- function(data, n.genera){
   #print(ref.distri)
   
   # Model
-  m1 <- glmer(var ~ random_mode + (1|genus_name), data = ref.distri, family="poisson")
+  m1 <- lmer(var ~ random_mode + (1|genus_name),data=ref.distri)
   
-  return(coef(summary(m1))[2, "z value"]) # Return zvalue
+  return(coef(summary(m1))[2, "t value"]) # Return zvalue
 }
 
 ####################################################
@@ -80,20 +82,20 @@ cl <- makeCluster(detectCores()-1)
 clusterEvalQ(cl,c(library(nlme),library(lme4)))
 
 # Export variables and functions to all nodes in the cluster
-clusterExport(cl,c("random_test","zval_model","data","m_host","n.genera","variable"))
+clusterExport(cl,c("random_test","zval_model","data","n.genera","variable"))
 
 
 # Simulations are shared among the nodes and the results are put together in the end.
 #zval.reference <- replicate(nboot, zval_model(data, n.genera))
-par(mfrow=c(2,3))
+par(mfrow=c(3,2))
 for(v in c("nbr_country","max_dist_eq","lat_mean","lat_median","host_spp")){
   variable = v
   clusterExport(cl,"variable")
   zval.reference <-parSapply(cl, 1:nboot, function(i,...){zval_model(data,n.genera)})
   fmla <- as.formula(paste(variable,"~ mode + (1|genus)",sep=" "))
-  m_host <- glmer(fmla, data = data, family="poisson")
-  z.obs <- coef(summary(m_host))[2, "z value"]
-  hist(main=variable,zval.reference, breaks = 100, xlim=c(-60, 60)) # Vector of nboot pvalues.
+  m_host <- lmer(fmla, data = data)
+  z.obs <- coef(summary(m_host))[2, "t value"]
+  hist(main=variable,zval.reference, breaks = 100, xlim=c(-40, 40)) # Vector of nboot pvalues.
   text(x = 35,y = nboot/50,labels = paste0("P-value = ",sum(z.obs>zval.reference)/nboot))
   abline(v=z.obs, col="red", lwd=3)
   print(paste0("P-value for ", variable, " is: ", sum(z.obs>zval.reference)/nboot))

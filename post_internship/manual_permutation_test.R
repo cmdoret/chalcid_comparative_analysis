@@ -6,18 +6,18 @@ data0 <- data0[!data0$nbr_country =="0",] #remove species with no countries desc
 data0 <- data0[!data0$nbr_host_spp =="0",] # remove species with no hosts described
 data <- data0[data0$pair != 0,]
 data$pair <- as.factor(data$pair)
-
+data$max_dist_eq <- pmax(abs(data$lat_min),abs(data$lat_max))
 
 variable = "nbr_host_spp"
 fmla <- as.formula(paste(variable,"~ mode + (1|pair)",sep=" "))
-m_host <- glmer(fmla, data = data, family="poisson")
-z.obs <- coef(summary(m_host))[2, "z value"]
+m_host <- lmer(fmla, data = data)
+z.obs <- coef(summary(m_host))[2, "t value"]
 
 ####################################################
 # Ramdomize the mode (sex, asex) within a genus
 n.genera <- length(levels(data$pair)) #number of genera
 l.genus <- as.vector(table(data$pair)) #list w/ number of species per genus
-nboot <- 10000 #number of permutations
+nboot <- 1000 #number of permutations
 
 random_test <- function(x,y) {  #x: data, y:genus
 
@@ -52,9 +52,9 @@ zval_model <- function(data, n.genera){
   #print(ref.distri)
   
   # Model
-  m1 <- glmer(var ~ random_mode + (1|pair_name), data = ref.distri, family="poisson")
+  m1 <- lmer(var ~ random_mode + (1|pair_name), data = ref.distri)
   
-  return(coef(summary(m1))[2, "z value"]) # Return zvalue
+  return(coef(summary(m1))[2, "t value"]) # Return zvalue
 }
 
 ####################################################
@@ -67,16 +67,23 @@ cl <- makeCluster(detectCores()-1)
 clusterEvalQ(cl,c(library(nlme),library(lme4)))
 
 # Export variables and functions to all nodes in the cluster
-clusterExport(cl,c("random_test","zval_model","data","m_host","n.genera"))
+clusterExport(cl,c("random_test","zval_model","data","n.genera"))
 
 # Simulations are shared among the nodes and the results are put together in the end.
-zval.reference <-parSapply(cl, 1:nboot, function(i,...){zval_model(data,n.genera)})
-
-hist(zval.reference, breaks = 100, xlim=c(-60, 60)) # Vector of nboot pvalues.
-text(x = 35,y = nboot/10,labels = paste0("P-value = ",sum(z.obs>zval.reference)/nboot))
-abline(v=z.obs, col="red", lwd=3)
-quantile(zval.reference,c(0.025, 0.975))
-sum(z.obs>zval.reference)/nboot
+par(mfrow=c(3,3))
+for(v in c("nbr_country","max_dist_eq","lat_mean","lat_median","nbr_host_spp","min_length","max_length")){
+  variable = v
+  clusterExport(cl,"variable")
+  zval.reference <-parSapply(cl, 1:nboot, function(i,...){zval_model(data,n.genera)})
+  fmla <- as.formula(paste(variable,"~ mode + (1|genus)",sep=" "))
+  m_host <- lmer(fmla, data = data)
+  z.obs <- coef(summary(m_host))[2, "t value"]
+  hist(main=variable,zval.reference, breaks = 100, xlim=c(-40, 40)) # Vector of nboot pvalues.
+  text(x = 35,y = nboot/50,labels = paste0("P-value = ",sum(z.obs>zval.reference)/nboot))
+  abline(v=z.obs, col="red", lwd=3)
+  print(paste0("P-value for ", variable, " is: ", sum(z.obs>zval.reference)/nboot))
+}
+stopCluster(cl)
 #10 sim = 1.9 sec
 
 
