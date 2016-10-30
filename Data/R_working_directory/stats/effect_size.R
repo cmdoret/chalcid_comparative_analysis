@@ -80,3 +80,5 @@ for (var in c("nbr_country", "nbr_host_spp", "body_length","max_dist_eq", "lat_m
   effect_sex <- append(effect_sex, mean(medpair_sex,na.rm=T)) #Takes the mean of values from all genera for sex spp
 }
 df_effect <- data.frame(variable_names, effect_asex, effect_sex)
+setwd("/home/cyril/Documents/Internship/Data/R_working_directory/stats/")
+write.table(df_effect, file="effect_size.txt", row.names=F, quote=F, sep=",")

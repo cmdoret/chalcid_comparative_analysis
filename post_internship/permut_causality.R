@@ -1,6 +1,6 @@
 # This scripts intends to test if sexual species from which asexual species 
 # diverged are more widely distributed or have more hosts than other sexual 
-# species. Here, I will merge both datasets, since I only have no information
+# species. Here, I will merge both datasets, since I only have information
 # about relatedness in the auto dataset, and I only have closest relative in
 # the manual dataset. The approach consists in comparing the sexuals from
 # manual, versus the other sexuals in the auto dataset within the same genus.
