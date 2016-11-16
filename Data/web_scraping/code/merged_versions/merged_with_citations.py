@@ -166,10 +166,9 @@ for f in fam[0:1]:
         else:
             print "Skipping genus."
         print "TOTAL SPECIES: " + str(countt)
-"""
+
 # ============================================================================================
-# Here, I write everything along with geographical data in a csv file. This part might not work without a proper IDE.
-# This issue can be resolved by merging scripts and removing references to the other script file name.
+# Here, I write everything along with geographical data in a csv file. 
 our_data = open(os.getcwd() + "/our_geo_exp.csv", 'w')
 # Creates or overwrites a csv file
 our_data.write('family,genus,species,num_loc,lat_min,lon_min,lat_max,lon_max,lat_mean,lon_mean,lat_median,lon_median\n')
@@ -346,7 +345,7 @@ our_data_ref.close()
 """
 This script retrieves citations from all species of Aphelinidae listed in the NHM Universal
 Chalcidoidea database and return them as python objects.
-"""
+
 
 
 # To do: Make it loop through URLs by replacing names with some extracted in taxonomic tree
