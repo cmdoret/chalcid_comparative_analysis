@@ -21,7 +21,7 @@ Presentation
 *.jpg
 *.jpeg
 *.png
-*.docx
+#*.docx
 *.xlsx
 *.tex
 ## Intermediate documents:
