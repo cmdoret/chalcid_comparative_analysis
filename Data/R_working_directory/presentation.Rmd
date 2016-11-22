@@ -8,8 +8,8 @@ runtime: shiny
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-auto_processed <-read.table("/home/cyril/Documents/Internship/Data/R_working_directory/auto/auto_processed_data.csv", header = T, sep= ",")
-manual_processed <-read.table("/home/cyril/Documents/Internship/Data/R_working_directory/manual/manual_processed_data.csv", header = T, sep= ",")
+auto_processed <-read.table("/home/cyril/Documents/Internship/chalcid_comparative_analysis/Data/R_working_directory/auto/auto_processed_data.csv", header = T, sep= ",")
+manual_processed <-read.table("/home/cyril/Documents/Internship/chalcid_comparative_analysis/Data/R_working_directory/manual/manual_processed_data.csv", header = T, sep= ",")
 library(ggplot2);library(gridExtra);library(lattice);library(MASS);library(car)
 ```
 
