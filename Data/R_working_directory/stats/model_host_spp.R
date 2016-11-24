@@ -1,6 +1,5 @@
 library(lattice); library(multcomp); library(lme4); library(arm); library(lmerTest); library("car"); library("MASS");library("AER");library("blmeco");library("MCMCglmm")
 
-
 #MANUAL DATASET
 
 setwd("/home/cyril/Documents/Internship/chalcid_comparative_analysis/Data/R_working_directory/manual/")
