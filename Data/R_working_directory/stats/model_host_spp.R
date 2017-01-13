@@ -64,7 +64,7 @@ summary(PQL.host)
 #=========================================================================================================
 #AUTO DATASET
 
-setwd("/home/cyril/Documents/Internship/Data/R_working_directory/auto/")
+setwd("/home/cyril/Documents/Internship/chalcid_comparative_analysis/Data/R_working_directory/auto/")
 mydf <- read.csv("auto_processed_data.csv", header=T)
 mydf <- mydf[mydf$mode !="both" & mydf$host_spp !=0,] 
 #remove spp with sex + asex populations, 0 hosts or not in a pair
