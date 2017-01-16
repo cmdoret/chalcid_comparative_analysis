@@ -1,0 +1,2 @@
+Alberta,55.0,-114.9999998
+British Columbia,55.0,-124.9999999

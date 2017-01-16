@@ -7,7 +7,20 @@ data0 <- data0[!data0$nbr_host_spp =="0",] # remove species with no hosts descri
 data <- data0[data0$pair != 0,]
 data$pair <- as.factor(data$pair)
 data$max_dist_eq <- pmax(abs(data$lat_min),abs(data$lat_max))
-
+mindist <- function(myrow){
+  Min = as.numeric(myrow[14])
+  Max = as.numeric(myrow[16])
+  if((Max*Min) > 0){
+    min_dist_eq <- pmin(abs(Min),abs(Max))
+  } else{
+    min_dist_eq <- 0
+  }
+  return(min_dist_eq)
+}
+data$lat_range <- abs(data$lat_max-data$lat_min)
+data$lat_range[data$lat_range == 0] <- 0.001
+tmp_mindist<- apply(data,MARGIN = 1,FUN = mindist)
+data$min_dist_eq <- unname(tmp_mindist)
 variable = "nbr_host_spp"
 fmla <- as.formula(paste(variable,"~ mode + (1|genus/pair)",sep=" "))
 m_host <- lmer(fmla, data = data)
@@ -78,7 +91,7 @@ clusterExport(cl,c("random_test","zval_model","data","n.pairs"))
 
 # Simulations are shared among the nodes and the results are put together in the end.
 par(mfrow=c(3,3))
-for(v in c("nbr_country","max_dist_eq","lat_mean","lat_median","nbr_host_spp","min_length","max_length")){
+for(v in c("nbr_country","max_dist_eq","min_dist_eq","lat_mean","lat_median","nbr_host_spp","min_length","max_length")){
   variable = v
   start_time <- proc.time()[3]
   clusterExport(cl,"variable")
@@ -94,7 +107,8 @@ for(v in c("nbr_country","max_dist_eq","lat_mean","lat_median","nbr_host_spp","m
     st <- "t"
   }
   z.obs <- coef(summary(m_host))[2, paste0(st," value")]
-  hist(main=paste0(variable, "\n","P-value = ",sum(z.obs>zval.reference)/nboot),zval.reference, 
+  hist(main=paste0(variable, "\n",st,"-value = ", round(z.obs,3),
+                   ", P = ",sum(z.obs>zval.reference)/nboot),zval.reference,zval.reference, 
        breaks = 100, xlim=c(min(c(zval.reference,z.obs)), max(c(zval.reference,z.obs)))) # Vector of nboot pvalues.
   abline(v=z.obs, col="red", lwd=3)
   print(paste0("P-value for ", variable, " is: ", sum(z.obs>zval.reference)/nboot))

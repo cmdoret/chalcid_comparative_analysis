@@ -1,0 +1,10 @@
+Alberta,55.0,-114.9999998
+British Columbia,55.0,-124.9999999
+Manitoba,55.0000001,-97.0
+New Brunswick,46.5,-66.7499999
+Ontario,50.0000002,-86.0
+Prince Edward Island,46.3202067,-63.4594099
+Saskatchewan,54.0,-105.9999999
+Arizona,34.395342,-111.7632754
+California,36.7014631,-118.7559973
+Colorado,38.7251776,-105.6077166

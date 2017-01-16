@@ -1,0 +1,3 @@
+Cape Verde Islands,16.0000552,-24.0083946
+Namibia (South West Africa),-22.5037497,17.0194784
+South Africa,-28.8166235,24.991639

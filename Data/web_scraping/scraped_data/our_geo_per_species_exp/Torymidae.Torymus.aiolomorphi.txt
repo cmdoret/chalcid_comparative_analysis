@@ -1,0 +1,10 @@
+Japan,36.5748441,139.2394179
+Fujian (Fukien),26.5450001,117.842778
+Guangxi (Kwangsi),24.0,109.0
+Hubei (Hupeh),31.0,112.0
+Hunan (Hunan),27.9995878,112.009538
+Jiangsu (Kiangsu),33.0000001,119.9999999
+Jiangxi (Kiangsi),28.0,116.0
+Sichuan (Szechwan),32.41875,102.6366383
+Zhejiang (Chekiang),29.0000001,119.9999999
+Taiwan,23.9739374,120.9820179

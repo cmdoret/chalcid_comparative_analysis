@@ -1,0 +1,3 @@
+Italy,42.6384261,12.674297
+Nizhniy Novgorod Oblast,56.3278821,44.0072897
+Ul'yanovsk Oblast,54.1463177,47.2324921

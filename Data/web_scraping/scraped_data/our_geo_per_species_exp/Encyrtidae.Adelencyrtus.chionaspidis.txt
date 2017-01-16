@@ -1,0 +1,4 @@
+India,22.3511148,78.6677428
+Fujian (Fukien),26.5450001,117.842778
+Sri Lanka,7.878,80.7038245875
+St Christopher (Kitts) & Nevis,17.3462278,-62.7687276

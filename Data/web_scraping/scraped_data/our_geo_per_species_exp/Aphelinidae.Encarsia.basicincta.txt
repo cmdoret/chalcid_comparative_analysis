@@ -1,0 +1,3 @@
+Distrito federal (Brasilia),-15.7934035,-47.8823171
+Puerto Rico,18.2017809,-66.5841245
+Florida,27.7567667,-81.4639834

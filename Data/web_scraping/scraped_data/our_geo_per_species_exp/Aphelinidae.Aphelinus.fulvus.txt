@@ -1,0 +1,5 @@
+Azerbaijan,40.3936294,47.7872508
+Czech Republic,49.8167003,15.4749544
+Heilongjiang (HeilungKiang),48.0000047,127.999992
+Ukraine,49.4871968,31.2718321
+United Kingdom,54.7023545,-3.2765752

@@ -1,0 +1,4 @@
+Beijing (Peking),39.9059631,116.391248
+Henan (Honan),34.0000001,113.9999999
+Shandong (Shantung),36.0000001,118.9999999
+Zhejiang (Chekiang),29.0000001,119.9999999

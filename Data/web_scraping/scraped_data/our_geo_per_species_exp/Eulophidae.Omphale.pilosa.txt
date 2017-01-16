@@ -1,0 +1,2 @@
+Prince Edward Island,46.3202067,-63.4594099
+Virginia,37.1232245,-78.492772

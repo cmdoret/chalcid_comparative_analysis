@@ -1,0 +1,4 @@
+Congo,-2.9814343,23.8222636
+Democratic Republic of Congo (Zaire),-2.9814343,23.8222636
+Ivory Coast,7.9897371,-5.5679457
+Liberia,5.7499721,-9.3658523

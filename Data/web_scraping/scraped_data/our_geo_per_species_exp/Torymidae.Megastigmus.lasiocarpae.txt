@@ -1,0 +1,8 @@
+Alberta,55.0,-114.9999998
+British Columbia,55.0,-124.9999999
+Finland,63.2467777,25.9209164
+Mexico,19.4326009,-99.1333415
+Xinjiang Uygur (Sinkiang),41.5,85.5
+Colorado,38.7251776,-105.6077166
+Connecticut,41.6500201,-72.7342162
+Washington,38.8949549,-77.0366455

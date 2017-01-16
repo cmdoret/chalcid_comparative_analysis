@@ -1,0 +1,7 @@
+Czech Republic,49.8167003,15.4749544
+Denmark,55.670249,10.3333283
+Ireland (north and south),52.865196,-7.9794598
+Kaluga (Kaluzhka) Oblast,54.5101087,36.2598115
+Novgorod Oblast,58.2843833,32.5169757
+St. Petersberg (Leningrad),59.9393657,30.3153628
+Sweden,59.6749712,14.5208584

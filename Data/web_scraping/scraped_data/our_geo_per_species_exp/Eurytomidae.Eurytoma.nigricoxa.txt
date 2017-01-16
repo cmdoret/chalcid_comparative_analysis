@@ -1,0 +1,3 @@
+British Columbia,55.0,-124.9999999
+Manitoba,55.0000001,-97.0
+Ontario,50.0000002,-86.0

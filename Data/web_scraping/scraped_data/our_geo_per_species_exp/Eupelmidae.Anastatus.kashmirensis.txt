@@ -1,0 +1,4 @@
+Himachal Pradesh,31.9292352,77.1828462
+Jammu & Kashmir,34.0476564,76.7972892
+China,35.000074,104.999927
+United States of America,39.7837304,-100.4458824

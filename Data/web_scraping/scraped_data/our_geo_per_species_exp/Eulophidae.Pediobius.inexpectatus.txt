@@ -1,0 +1,4 @@
+Papua New Guinea,-5.6816068,144.2489081
+Fujian (Fukien),26.5450001,117.842778
+Hong Kong,22.2793278,114.1628131
+Jiangxi (Kiangsi),28.0,116.0

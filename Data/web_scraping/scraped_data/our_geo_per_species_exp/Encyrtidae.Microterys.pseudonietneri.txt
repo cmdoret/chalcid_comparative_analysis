@@ -1,0 +1,4 @@
+Fujian (Fukien),26.5450001,117.842778
+Guangdong (Kwangtung),23.1357694,113.1982688
+Yunnan,25.0,102.0
+Zhejiang (Chekiang),29.0000001,119.9999999

@@ -1,0 +1,6 @@
+Caribbean (including West Indies),15.0000001,-75.0
+Trinidad & Tobago,10.8677845,-60.9821066
+Florida,27.7567667,-81.4639834
+Illinois,40.0796319,-89.4339808
+Mississippi,32.9715645,-89.7348496
+New Mexico,34.5708167,-105.9930069

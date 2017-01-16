@@ -1,0 +1,2 @@
+Andhra Pradesh,15.9240905,80.1863809
+Uttar Pradesh,27.1303344,80.859666

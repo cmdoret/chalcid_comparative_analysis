@@ -1,0 +1,6 @@
+Australian Capital Territory,-35.4021015,148.9464218
+New South Wales,-31.8759834,147.2869493
+Queensland,-21.9182855,144.4588889
+South Australia,-30.5343664,135.6301212
+Victoria,-36.5986095,144.6780052
+Papua New Guinea,-5.6816068,144.2489081

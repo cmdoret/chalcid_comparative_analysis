@@ -1,0 +1,2 @@
+Beijing (Peking),39.9059631,116.391248
+Shaanxi (Shensi),36.0,109.0

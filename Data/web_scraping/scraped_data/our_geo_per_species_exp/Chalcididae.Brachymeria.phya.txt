@@ -1,0 +1,6 @@
+Australian Capital Territory,-35.4021015,148.9464218
+New South Wales,-31.8759834,147.2869493
+Queensland,-21.9182855,144.4588889
+Western Australia,-25.2303004,121.0187246
+Tamil Nadu,10.9094334,78.3665347
+Papua New Guinea,-5.6816068,144.2489081

@@ -1,0 +1,3 @@
+Beijing (Peking),39.9059631,116.391248
+Nei Menggu (Inner Mongolia),43.2443242,114.3251664
+Ningxia (Ningsia),37.0000001,105.9999999
