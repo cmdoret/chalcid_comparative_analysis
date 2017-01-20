@@ -16,6 +16,9 @@ myasex <- mydata[mydata$mode=="asex",]
 #grep -rl 'Goa,' /home/cyril/PycharmProjects/internship_geodata/experimental/our_geo_per_species_exp/ | xargs sed -i 's/Goa,/Goa/g'
 #Replaces all occurences of "Goa," in the directory by "Goa"
 
+# More general command to find such occurences: egrep -rl '[a-zA-Z]*,[ ]*[a-zA-Z]' ./ | xargs sed -i -E "s/([a-zA-Z]+),([ ])*([a-zA-Z]+)/\1\2\3/"
+ 
+
 file.names <- dir(path, pattern =".txt")
 for(i in 1:length(file.names)){
   nmatch <- 0

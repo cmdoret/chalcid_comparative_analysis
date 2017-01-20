@@ -382,7 +382,7 @@ class Aphytis():
         , "Mauritius", -20.348404, 57.552152]}
 
     acutaspidis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "acutaspidis", "geo": ["Rio de Janeiro",-22.906847,-43.172896]}
-    
+
     africanus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "africanus", "geo": ["Argentina", -38.416097, -63.616672
         , "Egypt", 26.820553, 30.802498
         , "Israel", 31.046051, 34.851612
@@ -396,7 +396,7 @@ class Aphytis():
 
     anneckei = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "anneckei", "geo": ["Kenya", -0.023559, 37.906193
         , "South Africa", -30.559482, 22.937506]}
-    
+
     anomalus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "anomalus", "geo": ["Minas Gerais",-18.512178,-44.555031,"Rio de Janeiro",-22.906847,-43.172896]}
 
     antennalis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "antennalis",
@@ -549,7 +549,7 @@ class Aphytis():
     confusus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "confusus",
                 "geo": ["Guangdong (Kwangtung)", 23.132191, 113.266531
                     , "South Africa", -30.559482, 22.937506]}
-                
+
     costalimai = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "costalimai", "geo": ["Argentina",-38.416097,-63.616672,"Minas Gerais",-18.512178,-44.555031,"Rio de Janeiro",-22.906847,-43.172896,"Sao Paulo",-23.55052,-46.633309,"Paraguay",-23.442503,-58.443832]}
 
     cylindratus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "cylindratus",
@@ -566,19 +566,19 @@ class Aphytis():
         , "Guangdong (Kwangtung)", 23.132191, 113.266531
         , "Hong Kong", 22.396428, 114.109497
         , "California", 36.778261, -119.417932]}
-    
+
     desantisi = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "desantisi", "geo": ["Argentina",-38.416097,-63.616672]}
-    
+
     equatorialis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "equatorialis", "geo": ["Ivory Coast",7.539989,-5.54708,"South Africa",-30.559482,22.937506]}
-    
+
     fioriniae = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "fioriniae", "geo": ["Assam",26.200604,92.937574]}
-    
+
     fisheri = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "fisheri", "geo": ["India",20.593684,78.96288,"Japan",36.204824,138.252924,"Myanmar (Burma)",21.916221,95.955974,"Pakistan",30.375321,69.345116,"South Africa",-30.559482,22.937506,"Taiwan",23.69781,120.960515,"Thailand",15.870032,100.992541,"California",36.778261,-119.417932]}
 
     faurei = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "faurei", "geo": ["South Africa", -30.559482, 22.937506]}
 
     griseus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "griseus", "geo": ["South Africa", -30.559482, 22.937506]}
-    
+
     haywardi = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "haywardi", "geo": ["Argentina",-38.416097,-63.616672,"Uruguay",-32.522779,-55.765835]}
 
     holoxanthus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "holoxanthus",
@@ -605,7 +605,7 @@ class Aphytis():
                        , "California", 36.778261, -119.417932
                        , "Florida", 27.664827, -81.515754
                        , "Texas", 31.968599, -99.901813]}
-                   
+
     hyalinipennis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "hyalinipennis", "geo": ["New Caledonia",-20.904305,165.618042]}
 
     immaculatus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "immaculatus",
@@ -715,7 +715,7 @@ class Aphytis():
               "geo": ["Cyprus", 35.126413, 33.429859, "Corsica", 42.039604, 9.012893, "Germany", 51.165691, 10.451526,
                       "Greece",
                       39.074208, 21.824312, "Hungary", 47.162494, 19.503304, "Italy", 41.87194, 12.56738]}
-    
+
     margaretae = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "margaretae",
               "geo": ["Rio de Janeiro",-22.906847,-43.172896,"Mexico",23.634501,-102.552784]}
 
@@ -756,7 +756,7 @@ class Aphytis():
         , "Uruguay", -32.522779, -55.765835]}
 
     merceti = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "merceti", "geo": ["South Africa", -30.559482, 22.937506]}
-    
+
     moldavicus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "moldavicus", "geo": ["Czech Republic",49.817492,15.472962,"Georgia",32.165622,-82.900075,"Moldova",47.411631,28.369885,"Tadzhikistan",38.861034,71.276093]}
 
     mytilaspidis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "mytilaspidis", "geo": ["Algeria", 28.033886, 1.659626
@@ -845,9 +845,9 @@ class Aphytis():
 
     notialis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "notialis",
                 "geo": ["Argentina", -38.416097, -63.616672, "Chile", -35.675147, -71.542969]}
-    
+
     obscurus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "obscurus", "geo": ["Island of Martin Garcia",-34.182483,-58.249109]}
-    
+
     opuntiae = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "opuntiae",
                 "geo": ["Greece",39.074208,21.824312,"Italy",41.87194,12.56738,"Spain",40.463667,-3.74922]}
 
@@ -901,13 +901,13 @@ class Aphytis():
         , "Liaoning", 40.871254, 124.849584
         , "California", 36.778261, -119.417932
         , "Utah", 39.32098, -111.093731]}
-    
+
     vastus = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "vastus", "geo": ["Namibia",-22.95764,18.49041]}
-    
+
     wallumbillae = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "wallumbillae", "geo": ["Queensland",-20.917574,142.702796]}
-    
+
     yanonensis = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "yanonensis", "geo": ["France",46.227638,2.213749,"Japan",36.204824,138.252924,"Fujian (Fukien)",24.494349,118.41631,"Guizhou (Kweichow)",26.599194,106.706301,"Hunan (Hunan)",28.112449,112.98381,"Sichuan (Szechwan)",30.651226,104.075881,"Yunnan",25.045806,102.710002]}
-    
+
     yasumatsui = {"fam": "Aphelinidae", "gen": "Aphytis", "sp": "yasumatsui", "geo": ["Japan",36.204824,138.252924]}
 
 
@@ -1066,7 +1066,7 @@ class Encarsia():
         , "Ohio", 40.417287, -82.907123
         , "Texas", 31.968599, -99.901813
         , "Uzbekistan", 41.377491, 64.585262]}
-    
+
     gennaroi = {"fam": "Aphelinidae", "gen": "Encarsia", "sp": "gennaroi", "geo": ["California",36.778261,-119.417932,"Texas",31.968599,-99.901813,"Florida",27.664827,-81.515754,"Italy",41.87194,12.56738,"France",46.227638,2.213749,"Spain",40.463667,-3.74922,"Israel",31.046051,34.851612,"Egypt",26.820553,30.802498,"Canary Islands",28.291564,-16.62913,"Australia",-25.274398,133.775136]}
 
     guadaloupae = {"fam": "Aphelinidae", "gen": "Encarsia", "sp": "guadaloupae", "geo": ["Benin", 9.30769, 2.315834
@@ -1205,9 +1205,9 @@ class Encarsia():
                        -3.74922, "Taiwan", 23.69781, 120.960515, "California", 36.778261, -119.417932, "Florida",
                        27.664827, -81.515754, "South Carolina", 33.836081, -81.163724
                        ]}
-               
+
     suzannae = {"fam": "Aphelinidae", "gen": "Encarsia", "sp": "suzannae", "geo": ["Texas",31.968599,-99.901813]}
-    
+
     tabacivora = {"fam": "Aphelinidae", "gen": "Encarsia", "sp": "tabacivora", "geo": ["Minas Gerais",-18.512178,-44.555031,
                         "Baja California",30.840634,-115.283758, "Arizona",34.048928,-111.093731, "California",36.778261,-119.417932, "Texas",31.968599,-99.901813]}
 
@@ -1381,8 +1381,7 @@ class Megastigmus():
                          45.038189, "Australia", -25.274398, 133.775136, "Bulgaria", 42.733883, 25.48583, "Croatia",
                          45.1, 15.2, "Cyprus", 35.126413, 33.429859, "Corsica", 42.039604, 9.012893, "Georgia",
                          32.165622, -82.900075, "Greece", 39.074208, 21.824312, "Iran", 32.427908, 53.688046, "Israel",
-                         31.046051, 34.851612, "Sicily", 37.599994, 14.015356, "Kyrgyzstan",41.20438,74.766098
-,
+                         31.046051, 34.851612, "Sicily", 37.599994, 14.015356, "Kyrgyzstan",41.20438,74.766098,
                          "Mexico", 23.634501, -102.552784, "Montenegro", 42.708678, 19.37439, "Morocco", 31.791702,
                          -7.09262, "Peoples' Republic of China", 27.72175, 85.332844, "Portugal", 39.399872, -8.224454,
                          "Russia", 61.52401, 105.318756, "Spain", 40.463667, -3.74922, "Syria", 34.802075, 38.996815,
@@ -1451,74 +1450,72 @@ class Megastigmus():
               "geo": ["British Columbia", 53.726668, -127.647621, "Oregon", 43.804133, -120.554201, "Washington",
                       38.907192, -77.036871]}
 
-class Torymus(): 
-    
+class Torymus():
+
     arundinis = {"fam": "Torymidae", "gen": "Torymus", "sp": "arundinis","geo": ["Croatia",45.1,15.2,"Czech Republic",49.817492,15.472962,"France",46.227638,2.213749,"Georgia",32.165622,-82.900075,"Germany",51.165691,10.451526,"Hungary",47.162494,19.503304,"Moldova",47.411631,28.369885,"Netherlands",52.132633,5.291266,"Poland",51.919438,19.145136,"Romania",45.943161,24.96676,"Sakhalin Oblast",49.980785,143.373813,"Slovakia",48.669026,19.699024,"Sweden",60.128161,18.643501,"Switzerland",46.818188,8.227512,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432]}
-    
-    bedeguaris ={"fam": "Torymidae", "gen": "Torymus", "sp": "bedeguaris","geo": ["Andorra",42.506285,1.521801,"Armenia",40.069099,45.038189,"Austria",47.516231,14.550072,"Azerbaijan",40.143105,47.576927,"Belgium",50.503887,4.469936,"Bulgaria",42.733883,25.48583,"Alberta",53.933271,-116.576503,"British Columbia",53.726668,-127.647621,"Ontario",34.063344,-117.650888,"Quebec",52.939916,-73.549136,"Croatia",45.1,15.2,"Czech Republic",49.817492,15.472962,"Denmark",56.26392,9.501785,"France",46.227638,2.213749,"Georgia",32.165622,-82.900075,"Germany",51.165691,10.451526,"Greece",39.074208,21.824312,"Hungary",47.162494,19.503304,"Iran",32.427908,53.688046,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Kyrgyzstan",41.20438,74.766098,"Moldova",47.411631,28.369885,"Netherlands",52.132633,5.291266,"Romania",45.943161,24.96676,"Adygey AO (Adigei)",44.822916,40.175446,"Daghestan ASSR",42.143189,47.09498,"Moscow Oblast",55.340396,38.291765,"Rostov Oblast",47.685325,41.825895,"Ul'yanovsk Oblast",53.979336,47.776243,"Serbia",44.016521,21.005859,"Slovakia",48.669026,19.699024,"Spain",40.463667,-3.74922,"Sweden",60.128161,18.643501,"Switzerland",46.818188,8.227512,"Tadzhikistan",55.810111,37.403991,"Tselinograd Obl.",51.160523,71.470356,"Turkey",38.963745,35.243322,"Turkmenistan",38.969719,59.556278,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932,"Colorado",39.550051,-105.782067,"Illinois",40.633125,-89.398528,"Iowa",41.878003,-93.097702,"Nebraska",41.492537,-99.901813,"Nevada",38.80261,-116.419389,"New Jersey",40.058324,-74.405661,"Oregon",43.804133,-120.554201,"Utah",39.32098,-111.093731,"Washington",38.907192,-77.036871
-]} 
-    
-    impar = {"fam": "Torymidae", "gen": "Torymus", "sp": "impar","geo": ["Azerbaijan",40.143105,47.576927,"Denmark",56.26392,9.501785,"Finland",61.92411,25.748151,"Georgia",32.165622,-82.900075,"Germany",51.165691,10.451526,"Hungary",47.162494,19.503304,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Netherlands",52.132633,5.291266,"Poland",51.919438,19.145136,"Sweden",60.128161,18.643501,"Tselinograd Obl.",51.160523,71.470356,"Turkmenistan",38.969719,59.556278,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"Scotland",56.490671,-4.202646
-]} 
-    
+
+    bedeguaris ={"fam": "Torymidae", "gen": "Torymus", "sp": "bedeguaris","geo": ["Andorra",42.506285,1.521801,"Armenia",40.069099,45.038189,"Austria",47.516231,14.550072,"Azerbaijan",40.143105,47.576927,"Belgium",50.503887,4.469936,"Bulgaria",42.733883,25.48583,"Alberta",53.933271,-116.576503,"British Columbia",53.726668,-127.647621,"Ontario",34.063344,-117.650888,"Quebec",52.939916,-73.549136,"Croatia",45.1,15.2,"Czech Republic",49.817492,15.472962,"Denmark",56.26392,9.501785,"France",46.227638,2.213749,"Georgia",32.165622,-82.900075,"Germany",51.165691,10.451526,"Greece",39.074208,21.824312,"Hungary",47.162494,19.503304,"Iran",32.427908,53.688046,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Kyrgyzstan",41.20438,74.766098,"Moldova",47.411631,28.369885,"Netherlands",52.132633,5.291266,"Romania",45.943161,24.96676,"Adygey AO (Adigei)",44.822916,40.175446,"Daghestan ASSR",42.143189,47.09498,"Moscow Oblast",55.340396,38.291765,"Rostov Oblast",47.685325,41.825895,"Ul'yanovsk Oblast",53.979336,47.776243,"Serbia",44.016521,21.005859,"Slovakia",48.669026,19.699024,"Spain",40.463667,-3.74922,"Sweden",60.128161,18.643501,"Switzerland",46.818188,8.227512,"Tadzhikistan",55.810111,37.403991,"Tselinograd Obl.",51.160523,71.470356,"Turkey",38.963745,35.243322,"Turkmenistan",38.969719,59.556278,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932,"Colorado",39.550051,-105.782067,"Illinois",40.633125,-89.398528,"Iowa",41.878003,-93.097702,"Nebraska",41.492537,-99.901813,"Nevada",38.80261,-116.419389,"New Jersey",40.058324,-74.405661,"Oregon",43.804133,-120.554201,"Utah",39.32098,-111.093731,"Washington",38.907192,-77.036871]}
+
+    impar = {"fam": "Torymidae", "gen": "Torymus", "sp": "impar","geo": ["Azerbaijan",40.143105,47.576927,"Denmark",56.26392,9.501785,"Finland",61.92411,25.748151,"Georgia",32.165622,-82.900075,"Germany",51.165691,10.451526,"Hungary",47.162494,19.503304,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Netherlands",52.132633,5.291266,"Poland",51.919438,19.145136,"Sweden",60.128161,18.643501,"Tselinograd Obl.",51.160523,71.470356,"Turkmenistan",38.969719,59.556278,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"Scotland",56.490671,-4.202646]}
+
 class Megaphragma():
-    
-    amalphitanum ={"fam": "Trichogrammatidae", "gen": "Megaphragma", "sp": "amalphitanum","geo": ["France",46.227638,2.213749,"Italy",41.87194,12.56738,"Portugal",39.399872,-8.224454]} 
-    
-    mymaripenne = {"fam": "Trichogrammatidae", "gen": "Megaphragma", "sp": "mymaripenne","geo": ["Argentina",-38.416097,-63.616672,"Chile",-35.675147,-71.542969,"Guadeloupe",16.265,-61.551,"Haiti",18.971187,-72.285215,"Hawaii",19.896766,-155.582782,"Sicily",37.599994,14.015356,"California",36.778261,-119.417932,"Louisiana",30.984298,-91.962333]} 
-    
+
+    amalphitanum ={"fam": "Trichogrammatidae", "gen": "Megaphragma", "sp": "amalphitanum","geo": ["France",46.227638,2.213749,"Italy",41.87194,12.56738,"Portugal",39.399872,-8.224454]}
+
+    mymaripenne = {"fam": "Trichogrammatidae", "gen": "Megaphragma", "sp": "mymaripenne","geo": ["Argentina",-38.416097,-63.616672,"Chile",-35.675147,-71.542969,"Guadeloupe",16.265,-61.551,"Haiti",18.971187,-72.285215,"Hawaii",19.896766,-155.582782,"Sicily",37.599994,14.015356,"California",36.778261,-119.417932,"Louisiana",30.984298,-91.962333]}
+
 class Trichogramma():
-    
-    alpha = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "alpha","geo": ["Manitoba",53.760861,-98.813876,"Ontario",34.063344,-117.650888,"Prince Edward Island",46.510712,-63.416814,"Quebec",52.939916,-73.549136,"California",36.778261,-119.417932,"District of Columbia",38.907192,-77.036871,"Missouri",37.964253,-91.831833,"Nebraska",41.492537,-99.901813,"Washington",38.907192,-77.036871]} 
-    
+
+    alpha = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "alpha","geo": ["Manitoba",53.760861,-98.813876,"Ontario",34.063344,-117.650888,"Prince Edward Island",46.510712,-63.416814,"Quebec",52.939916,-73.549136,"California",36.778261,-119.417932,"District of Columbia",38.907192,-77.036871,"Missouri",37.964253,-91.831833,"Nebraska",41.492537,-99.901813,"Washington",38.907192,-77.036871]}
+
     atopovirilla = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "atopovirilla","geo": ["Minas Gerais",-18.512178,-44.555031,"Parana",-25.252089,-52.021542,"Pernambuco",-8.813717,-36.954107,"Sao Paulo",-23.55052,-46.633309,"Caribbean (including West Indies)",21.469114,-78.656894,"Colombia",4.570868,-74.297333,"El Salvador",13.794185,-88.89653,"Guatemala",15.783471,-90.230759,"Honduras",15.199999,-86.241905,"Mexico",23.634501,-102.552784,"Texas",31.968599,-99.901813,"Venezuela",6.42375,-66.58973]}
-    
-    aurosum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "aurosum","geo": ["Bulgaria",42.733883,25.48583,"Alberta",53.933271,-116.576503,"British Columbia",53.726668,-127.647621,"Ontario",34.063344,-117.650888,"Quebec",52.939916,-73.549136,"Altai Kray",51.79363,82.67586,"Chita Oblast (=Chitinskaya)",52.051503,113.471191,"Alaska",64.200841,-149.493673,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932,"Illinois",40.633125,-89.398528,"Maryland",39.045755,-76.641271,"Michigan",44.314844,-85.602364,"Montana",46.879682,-110.362566,"New Hampshire",43.193852,-71.572395,"South Dakota",43.969515,-99.901813,"Washington",38.907192,-77.036871,"Wyoming",43.075968,-107.290284]} 
-    
-    australicum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "australicum","geo": ["Queensland",-20.917574,142.702796,"Western Australia",-27.672817,121.62831,"Bahamas",25.03428,-77.39628,"Barbados",13.193887,-59.543198,"Bolivia",-16.290154,-63.588653,"Brazil",-14.235004,-51.92528,"Colombia",4.570868,-74.297333,"Grenada",12.1165,-61.679,"Hawaii",19.896766,-155.582782,"Andhra Pradesh",15.9129,79.739987,"Delhi",28.613939,77.209021,"Gujarat",22.258652,71.192381,"Karnataka",15.317278,75.713888,"Maharashtra",19.75148,75.713888,"Punjab",31.170406,72.709716,"Tamil Nadu",11.127123,78.656894,"Uttar Pradesh",26.846709,80.946159,"West Bengal",22.986757,87.854976,"Java",-7.614529,110.712246,"Bali",-8.409518,115.188916,"Japan",36.204824,138.252924,"Madagascar",-18.766947,46.869107,"Malaysia",4.210484,101.975766,"Mauritania",21.00789,-10.940835,"Mauritius",-20.348404,57.552152,"Montserrat",16.742498,-62.187366,"Pakistan",30.375321,69.345116,"Guangdong (Kwangtung)",23.132191,113.266531,"Peru",-9.189967,-75.015152,"Philippines",12.879721,121.774017,"Puerto Rico",18.220833,-66.590149,"Reunion",-21.115141,55.536384,"Sri Lanka",7.873054,80.771797,"Taiwan",23.69781,120.960515,"Thailand",15.870032,100.992541,"Trinidad & Tobago",10.691803,-61.222503,"Venezuela",6.42375,-66.58973]} 
-    
+
+    aurosum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "aurosum","geo": ["Bulgaria",42.733883,25.48583,"Alberta",53.933271,-116.576503,"British Columbia",53.726668,-127.647621,"Ontario",34.063344,-117.650888,"Quebec",52.939916,-73.549136,"Altai Kray",51.79363,82.67586,"Chita Oblast (=Chitinskaya)",52.051503,113.471191,"Alaska",64.200841,-149.493673,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932,"Illinois",40.633125,-89.398528,"Maryland",39.045755,-76.641271,"Michigan",44.314844,-85.602364,"Montana",46.879682,-110.362566,"New Hampshire",43.193852,-71.572395,"South Dakota",43.969515,-99.901813,"Washington",38.907192,-77.036871,"Wyoming",43.075968,-107.290284]}
+
+    australicum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "australicum","geo": ["Queensland",-20.917574,142.702796,"Western Australia",-27.672817,121.62831,"Bahamas",25.03428,-77.39628,"Barbados",13.193887,-59.543198,"Bolivia",-16.290154,-63.588653,"Brazil",-14.235004,-51.92528,"Colombia",4.570868,-74.297333,"Grenada",12.1165,-61.679,"Hawaii",19.896766,-155.582782,"Andhra Pradesh",15.9129,79.739987,"Delhi",28.613939,77.209021,"Gujarat",22.258652,71.192381,"Karnataka",15.317278,75.713888,"Maharashtra",19.75148,75.713888,"Punjab",31.170406,72.709716,"Tamil Nadu",11.127123,78.656894,"Uttar Pradesh",26.846709,80.946159,"West Bengal",22.986757,87.854976,"Java",-7.614529,110.712246,"Bali",-8.409518,115.188916,"Japan",36.204824,138.252924,"Madagascar",-18.766947,46.869107,"Malaysia",4.210484,101.975766,"Mauritania",21.00789,-10.940835,"Mauritius",-20.348404,57.552152,"Montserrat",16.742498,-62.187366,"Pakistan",30.375321,69.345116,"Guangdong (Kwangtung)",23.132191,113.266531,"Peru",-9.189967,-75.015152,"Philippines",12.879721,121.774017,"Puerto Rico",18.220833,-66.590149,"Reunion",-21.115141,55.536384,"Sri Lanka",7.873054,80.771797,"Taiwan",23.69781,120.960515,"Thailand",15.870032,100.992541,"Trinidad & Tobago",10.691803,-61.222503,"Venezuela",6.42375,-66.58973]}
+
     bezdencovii = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "bezdencovii","geo": ["Armenia",40.069099,45.038189,"Belarus",53.709807,27.953389,"Bulgaria",42.733883,25.48583,"Chile",-35.675147,-71.542969,"Voronezh Oblast",50.858971,39.864438,"Ukraine",48.379433,31.16558]}
-    
-    bourarachae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "bourarachae","geo": ["Morocco",31.791702,-7.09262,"Portugal",39.399872,-8.224454,"Tunisia",33.886917,9.537499]} 
-    
-    cacoeciae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "cacoeciae","geo": ["Argentina",-38.416097,-63.616672,"Austria",47.516231,14.550072,"Belarus",53.709807,27.953389,"Bulgaria",42.733883,25.48583,"Cuba",21.521757,-77.781167,"Denmark",56.26392,9.501785,"Estonia",58.595272,25.013607,"France",46.227638,2.213749,"Germany",51.165691,10.451526,"Greece",39.074208,21.824312,"Iran",32.427908,53.688046,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Kyrgyzstan",41.20438,74.766098,"Latvia",56.879635,24.603189,"Lithuania",55.169438,23.881275,"Moldova",47.411631,28.369885,"Morocco",31.791702,-7.09262,"Netherlands",52.132633,5.291266,"Guangdong (Kwangtung)",23.132191,113.266531,"Peru",-9.189967,-75.015152,"Poland",51.919438,19.145136,"Portugal",39.399872,-8.224454,"Adygey AO (Adigei)",44.822916,40.175446,"Altai Kray",51.79363,82.67586,"Amur Oblast",54.603506,127.480172,"Kaliningrad Oblast",54.823529,21.481616,"Voronezh Oblast",50.858971,39.864438,"Spain",40.463667,-3.74922,"Switzerland",46.818188,8.227512,"Syria",34.802075,38.996815,"Tselinograd Obl.",51.160523,71.470356,"Tunisia",33.886917,9.537499,"Turkey",38.963745,35.243322,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"California",36.778261,-119.417932,"Indiana",40.267194,-86.134902,"Washington",38.907192,-77.036871,"Uzbekistan",41.377491,64.585262]} 
-    
-    closterae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "closterae","geo": ["Anhui (Anhwei)",31.861121,117.284903,"Beijing (Peking)",39.904211,116.407395,"Hubei (Hupeh)",30.546558,114.341745,"Liaoning",41.836175,123.431383,"Shandong (Shantung)",36.66853,117.020359,"Zhejiang (Chekiang)",30.267443,120.152792]} 
-    
-    cordubensis = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "cordubensis","geo": ["Azores",37.741249,-25.675594,"Iran",32.427908,53.688046,"Madeira",32.760707,-16.959472,"Portugal",39.399872,-8.224454,"Spain",40.463667,-3.74922]} 
-    
+
+    bourarachae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "bourarachae","geo": ["Morocco",31.791702,-7.09262,"Portugal",39.399872,-8.224454,"Tunisia",33.886917,9.537499]}
+
+    cacoeciae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "cacoeciae","geo": ["Argentina",-38.416097,-63.616672,"Austria",47.516231,14.550072,"Belarus",53.709807,27.953389,"Bulgaria",42.733883,25.48583,"Cuba",21.521757,-77.781167,"Denmark",56.26392,9.501785,"Estonia",58.595272,25.013607,"France",46.227638,2.213749,"Germany",51.165691,10.451526,"Greece",39.074208,21.824312,"Iran",32.427908,53.688046,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Kyrgyzstan",41.20438,74.766098,"Latvia",56.879635,24.603189,"Lithuania",55.169438,23.881275,"Moldova",47.411631,28.369885,"Morocco",31.791702,-7.09262,"Netherlands",52.132633,5.291266,"Guangdong (Kwangtung)",23.132191,113.266531,"Peru",-9.189967,-75.015152,"Poland",51.919438,19.145136,"Portugal",39.399872,-8.224454,"Adygey AO (Adigei)",44.822916,40.175446,"Altai Kray",51.79363,82.67586,"Amur Oblast",54.603506,127.480172,"Kaliningrad Oblast",54.823529,21.481616,"Voronezh Oblast",50.858971,39.864438,"Spain",40.463667,-3.74922,"Switzerland",46.818188,8.227512,"Syria",34.802075,38.996815,"Tselinograd Obl.",51.160523,71.470356,"Tunisia",33.886917,9.537499,"Turkey",38.963745,35.243322,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"California",36.778261,-119.417932,"Indiana",40.267194,-86.134902,"Washington",38.907192,-77.036871,"Uzbekistan",41.377491,64.585262]}
+
+    closterae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "closterae","geo": ["Anhui (Anhwei)",31.861121,117.284903,"Beijing (Peking)",39.904211,116.407395,"Hubei (Hupeh)",30.546558,114.341745,"Liaoning",41.836175,123.431383,"Shandong (Shantung)",36.66853,117.020359,"Zhejiang (Chekiang)",30.267443,120.152792]}
+
+    cordubensis = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "cordubensis","geo": ["Azores",37.741249,-25.675594,"Iran",32.427908,53.688046,"Madeira",32.760707,-16.959472,"Portugal",39.399872,-8.224454,"Spain",40.463667,-3.74922]}
+
     dianae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "dianae","geo": ["Florida",27.664827,-81.515754,"Georgia",32.165622,-82.900075,"Maryland",39.045755,-76.641271,"Missouri",37.964253,-91.831833,"South Carolina",33.836081,-81.163724,"Virginia",37.431573,-78.656894]}
-    
+
     flavum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "flavum","geo": ["Hebei",38.037057,114.468665,"Florida",27.664827,-81.515754]}
-    
+
     lasallei = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "lasallei","geo": ["Bolivia",-16.290154,-63.588653,"Parana",-25.252089,-52.021542,"Sao Paulo",-23.55052,-46.633309,"British Virgin Islands",18.420695,-64.639968,"Costa Rica",9.748917,-83.753428,"Cuba",21.521757,-77.781167,"Mexico",23.634501,-102.552784,"Florida",27.664827,-81.515754,"Uruguay",-32.522779,-55.765835,"US Virgin Islands",18.335765,-64.896335,"Venezuela",6.42375,-66.58973,"Virgin Islands",18.335765,-64.896335]}
-    
+
     lopezandinensis = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "lopezandinensis","geo": ["Colombia",4.570868,-74.297333]}
-    
-    nerudai = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "nerudai","geo": ["Argentina",-38.416097,-63.616672,"Chile",-35.675147,-71.542969]} 
-    
-    nubilale = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "nubilale","geo": ["Guangdong (Kwangtung)",23.132191,113.266531,"Alabama",32.318231,-86.902298,"Delaware",38.910833,-75.52767,"Florida",27.664827,-81.515754,"Iowa",41.878003,-93.097702,"Massachusetts",42.407211,-71.382437,"Minnesota",46.729553,-94.6859,"Missouri",37.964253,-91.831833,"North Carolina",35.759573,-79.0193,"Pennsylvania",41.203322,-77.194525,"Texas",31.968599,-99.901813]} 
-    
-    oleae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "oleae","geo": ["Argentina",-38.416097,-63.616672,"France",46.227638,2.213749,"Greece",39.074208,21.824312,"Italy",41.87194,12.56738]} 
-    
-    ostriniae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "ostriniae","geo": ["Japan",36.204824,138.252924,"Korea, South",37.663998,127.978458,"Anhui (Anhwei)",31.861121,117.284903,"Beijing (Peking)",39.904211,116.407395,"Guangdong (Kwangtung)",23.132191,113.266531,"Heilongjiang (HeilungKiang)",45.742367,126.661665,"Henan (Honan)",34.765515,113.753602,"Hubei (Hupeh)",30.546558,114.341745,"Jiangsu (Kiangsu)",32.061707,118.763232,"Jilin (Kirin)",43.837883,126.549572,"Liaoning",41.836175,123.431383,"Shandong (Shantung)",36.66853,117.020359,"Shanxi (Shansi)",37.873499,112.562678,"Zhejiang (Chekiang)",30.267443,120.152792,"South Africa",-30.559482,22.937506,"Kentucky",37.839333,-84.270018,"Massachusetts",42.407211,-71.382437,"New York",40.712784,-74.005941]} 
-    
-    pratti = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "pratti","geo": ["California",36.778261,-119.417932]} 
-    
-    sathon = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "sathon","geo": ["Mexico",23.634501,-102.552784,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932,"New Mexico",34.51994,-105.87009,"Texas",31.968599,-99.901813]} 
-    
-    semblidis = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "semblidis","geo": ["Bulgaria",42.733883,25.48583,"Manitoba",53.760861,-98.813876,"Ontario",34.063344,-117.650888,"Saskatchewan",52.939916,-106.450864,"France",46.227638,2.213749,"Germany",51.165691,10.451526,"Hungary",47.162494,19.503304,"Karnataka",15.317278,75.713888,"Iran",32.427908,53.688046,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Netherlands",52.132633,5.291266,"Norway",60.472024,8.468946,"Poland",51.919438,19.145136,"Nizhniy Novgorod Oblast",55.799516,44.029677,"St. Petersberg (Leningrad)",59.93428,30.335099,"Tomsk Oblast",58.896988,82.67655,"Spain",40.463667,-3.74922,"Sweden",60.128161,18.643501,"Switzerland",46.818188,8.227512,"Syria",34.802075,38.996815,"Tselinograd Obl.",51.160523,71.470356,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"Alaska",64.200841,-149.493673,"Georgia",32.165622,-82.900075,"Idaho",44.068202,-114.742041,"Kansas",39.011902,-98.484246,"Michigan",44.314844,-85.602364,"Minnesota",46.729553,-94.6859,"New York",40.712784,-74.005941,"Oregon",43.804133,-120.554201]} 
-    
-    sibericum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "sibericum","geo": ["British Columbia",53.726668,-127.647621,"Chita Oblast (=Chitinskaya)",52.051503,113.471191,"California",36.778261,-119.417932,"Washington",38.907192,-77.036871]} 
-    
+
+    nerudai = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "nerudai","geo": ["Argentina",-38.416097,-63.616672,"Chile",-35.675147,-71.542969]}
+
+    nubilale = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "nubilale","geo": ["Guangdong (Kwangtung)",23.132191,113.266531,"Alabama",32.318231,-86.902298,"Delaware",38.910833,-75.52767,"Florida",27.664827,-81.515754,"Iowa",41.878003,-93.097702,"Massachusetts",42.407211,-71.382437,"Minnesota",46.729553,-94.6859,"Missouri",37.964253,-91.831833,"North Carolina",35.759573,-79.0193,"Pennsylvania",41.203322,-77.194525,"Texas",31.968599,-99.901813]}
+
+    oleae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "oleae","geo": ["Argentina",-38.416097,-63.616672,"France",46.227638,2.213749,"Greece",39.074208,21.824312,"Italy",41.87194,12.56738]}
+
+    ostriniae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "ostriniae","geo": ["Japan",36.204824,138.252924,"Korea, South",37.663998,127.978458,"Anhui (Anhwei)",31.861121,117.284903,"Beijing (Peking)",39.904211,116.407395,"Guangdong (Kwangtung)",23.132191,113.266531,"Heilongjiang (HeilungKiang)",45.742367,126.661665,"Henan (Honan)",34.765515,113.753602,"Hubei (Hupeh)",30.546558,114.341745,"Jiangsu (Kiangsu)",32.061707,118.763232,"Jilin (Kirin)",43.837883,126.549572,"Liaoning",41.836175,123.431383,"Shandong (Shantung)",36.66853,117.020359,"Shanxi (Shansi)",37.873499,112.562678,"Zhejiang (Chekiang)",30.267443,120.152792,"South Africa",-30.559482,22.937506,"Kentucky",37.839333,-84.270018,"Massachusetts",42.407211,-71.382437,"New York",40.712784,-74.005941]}
+
+    pratti = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "pratti","geo": ["California",36.778261,-119.417932]}
+
+    sathon = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "sathon","geo": ["Mexico",23.634501,-102.552784,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932,"New Mexico",34.51994,-105.87009,"Texas",31.968599,-99.901813]}
+
+    semblidis = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "semblidis","geo": ["Bulgaria",42.733883,25.48583,"Manitoba",53.760861,-98.813876,"Ontario",34.063344,-117.650888,"Saskatchewan",52.939916,-106.450864,"France",46.227638,2.213749,"Germany",51.165691,10.451526,"Hungary",47.162494,19.503304,"Karnataka",15.317278,75.713888,"Iran",32.427908,53.688046,"Italy",41.87194,12.56738,"Kazakhstan",48.019573,66.923684,"Netherlands",52.132633,5.291266,"Norway",60.472024,8.468946,"Poland",51.919438,19.145136,"Nizhniy Novgorod Oblast",55.799516,44.029677,"St. Petersberg (Leningrad)",59.93428,30.335099,"Tomsk Oblast",58.896988,82.67655,"Spain",40.463667,-3.74922,"Sweden",60.128161,18.643501,"Switzerland",46.818188,8.227512,"Syria",34.802075,38.996815,"Tselinograd Obl.",51.160523,71.470356,"Ukraine",48.379433,31.16558,"England",52.355518,-1.17432,"Alaska",64.200841,-149.493673,"Georgia",32.165622,-82.900075,"Idaho",44.068202,-114.742041,"Kansas",39.011902,-98.484246,"Michigan",44.314844,-85.602364,"Minnesota",46.729553,-94.6859,"New York",40.712784,-74.005941,"Oregon",43.804133,-120.554201]}
+
+    sibericum = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "sibericum","geo": ["British Columbia",53.726668,-127.647621,"Chita Oblast (=Chitinskaya)",52.051503,113.471191,"California",36.778261,-119.417932,"Washington",38.907192,-77.036871]}
+
     tshumakovae = {"fam": "Trichogrammatidae", "gen": "Trichogramma", "sp": "tshumakovae","geo": ["Iran",32.427908,53.688046,"Kyrgyzstan",41.20438,74.766098]}
-    
+
 class Trichogrammatoidea():
-    
+
     armigera = {"fam": "Trichogrammatidae", "gen": "Trichogrammatoidea", "sp": "armigera","geo": ["Antigua",17.074656,-61.817521,"Antilles",33.480284,-117.703701,"Barbados",13.193887,-59.543198,"Cape Verde Islands",16,-24,"Colombia",4.570868,-74.297333,"Dominica",15.414999,-61.370976,"Grenada",12.1165,-61.679,"Karnataka",15.317278,75.713888,"West Bengal",22.986757,87.854976,"Java",-7.614529,110.712246,"Bali",-8.409518,115.188916,"Kenya",-0.023559,37.906193,"Hainan",20.017378,110.349229,"Peru",-9.189967,-75.015152,"Philippines",12.879721,121.774017,"Saint Lucia",13.909444,-60.978893,"South Africa",-30.559482,22.937506,"Saint Kitts",17.34338,-62.755904,"St Helena",38.505243,-122.470387,"St Vincent & Grenadines",13.252818,-61.197163,"Trinidad & Tobago",10.691803,-61.222503]}
-    
-    bactrae = {"fam": "Trichogrammatidae", "gen": "Trichogrammatoidea", "sp": "bactrae","geo": ["Argentina",-38.416097,-63.616672,"Northern Territory",-19.491411,132.55096,"Queensland",-20.917574,142.702796,"Western Australia",-27.672817,121.62831,"Barbados",13.193887,-59.543198,"Egypt",26.820553,30.802498,"Bihar",25.096074,85.313119,"Karnataka",15.317278,75.713888,"Tamil Nadu",11.127123,78.656894,"West Bengal",22.986757,87.854976,"Java",-7.614529,110.712246,"Bali",-8.409518,115.188916,"Malaysia",4.210484,101.975766,"New Caledonia",-20.904305,165.618042,"New Zealand",-40.900557,174.885971,"Pakistan",30.375321,69.345116,"Hainan",20.017378,110.349229,"Philippines",12.879721,121.774017,"Taiwan",23.69781,120.960515,"Thailand",15.870032,100.992541,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932]} 
-    
+
+    bactrae = {"fam": "Trichogrammatidae", "gen": "Trichogrammatoidea", "sp": "bactrae","geo": ["Argentina",-38.416097,-63.616672,"Northern Territory",-19.491411,132.55096,"Queensland",-20.917574,142.702796,"Western Australia",-27.672817,121.62831,"Barbados",13.193887,-59.543198,"Egypt",26.820553,30.802498,"Bihar",25.096074,85.313119,"Karnataka",15.317278,75.713888,"Tamil Nadu",11.127123,78.656894,"West Bengal",22.986757,87.854976,"Java",-7.614529,110.712246,"Bali",-8.409518,115.188916,"Malaysia",4.210484,101.975766,"New Caledonia",-20.904305,165.618042,"New Zealand",-40.900557,174.885971,"Pakistan",30.375321,69.345116,"Hainan",20.017378,110.349229,"Philippines",12.879721,121.774017,"Taiwan",23.69781,120.960515,"Thailand",15.870032,100.992541,"Arizona",34.048928,-111.093731,"California",36.778261,-119.417932]}
+
 
 list_species = [Aphelinus.abdominalis, Aphelinus.albipodus, Aphelinus.asychis, Aphelinus.certus, Aphelinus.chaonia,
                 Aphelinus.glycinis, Aphelinus.gossypii, Aphelinus.mali, Aphelinus.paramali,
@@ -1583,7 +1580,7 @@ def dist_area(sp, one_sp=True):
         print("Number of countries: " + str(len(sp["geo"]) / 3) + "\n" + "=" * 43)
     else:
         return [int(round(min(lat))), int(round(min(lon))), int(round(max(lat))), int(round(max(lon))),
-                int(round(mean(lat))), int(round(mean(lon))), int(round(median(lat))), int(round(median(lon)))]
+                int(round(mean(lat))), int(round(mean(lon))), int(round(median(lat))), int(round(median(lon))),int(round(min(map(abs,lat))))]
 
 
 def out_loc_num(ls=list_species, extremes=False):
@@ -1592,20 +1589,23 @@ def out_loc_num(ls=list_species, extremes=False):
     """
     a = open(os.getcwd() + "/places.txt", 'w')
     if not extremes:
+        a.write('genus,species,countries')
         for i in ls:
             a.write(str(i["gen"]) + " " + str(i["sp"]) + "," + str(len(i["geo"]) / 3) + "\n")
     else:
+        a.write('genus,species,coord_min,coord_max,coord_mean,coord_median,countries,min_dist_eq')
         for k in ls:
-            a.write(str(k["gen"]) + " " + str(k["sp"]) + "," + 
-                    str(dist_area(k, one_sp=False)[0]) + ";" + 
-                    str(dist_area(k, one_sp=False)[1]) + "," + 
-                    str(dist_area(k, one_sp=False)[2]) + ";" + 
-                    str(dist_area(k, one_sp=False)[3]) + "," + 
+            a.write(str(k["gen"]) + " " + str(k["sp"]) + "," +
+                    str(dist_area(k, one_sp=False)[0]) + ";" +
+                    str(dist_area(k, one_sp=False)[1]) + "," +
+                    str(dist_area(k, one_sp=False)[2]) + ";" +
+                    str(dist_area(k, one_sp=False)[3]) + "," +
                     str(dist_area(k, one_sp=False)[4]) + ";" +
                     str(dist_area(k, one_sp=False)[5]) + "," +
                     str(dist_area(k, one_sp=False)[6]) + ";" +
                     str(dist_area(k, one_sp=False)[7]) + "," +
-                    str(len(k["geo"]) / 3) + "\n")
+                    str(len(k["geo"]) / 3) + "," +
+                    str(dist_area(k, one_sp=False)[8]) + "\n")
     a.close()
 
 
@@ -1682,8 +1682,8 @@ while Hi:
             break
         else:
             continue
-    except TypeError:
-        print("Wrong type of value entered, try again.")
+#    except TypeError:
+        #print("Wrong type of value entered, try again.")
     except NameError:
         print("Couldn't find input species, try again.")
     except AttributeError:

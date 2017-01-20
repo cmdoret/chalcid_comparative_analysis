@@ -4,8 +4,9 @@
 # Cyril Matthey-Doret
 # 11.01.2017
 
-#BSUB -J par_sim_glm
+#BSUB -J auto_glm
 #BSUB -M 16777216
 #BSUB -n 30
+#BSUB -R "span[ptile=30]"
 
-R < rangedist_auto_permutation_test.R --no-save 
+R < auto_permutation_test.R --no-save 
