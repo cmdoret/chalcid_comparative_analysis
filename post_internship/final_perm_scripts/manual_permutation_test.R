@@ -1,6 +1,6 @@
 library(nlme); library(lme4);library(parallel)
 #Note: If run on the cluster, needs R 3.2.2 as packages are not installed for R 3.3
-setwd("Dropbox/Cyril-Casper_shared/post_internship/final_perm_scripts/")
+
 data0 <- read.csv("./manual_data.csv", header=T)
 data <- data0[data0$pair != 0,]
 data <- data[!is.na(data$species),]
@@ -8,15 +8,15 @@ rownames(data) <- NULL
 data$pair <- as.factor(data$pair)
 
 variable = "host_spp"
-#fmla <- as.formula(paste(variable,"~ mode + (1|genus/pair)",sep=" "))
-#m_host <- lmer(fmla, data = data)
-#zobs <- coef(summary(m_host))[2, "t value"]
+fmla <- as.formula(paste(variable,"~ mode + (1|genus/pair)",sep=" "))
+m_host <- lmer(fmla, data = data)
+zobs <- coef(summary(m_host))[2, "t value"]
 
 ####################################################
 # Randomize the mode (sex, asex) within a genus
 n.pairs <- length(levels(data$pair)) #number of genera
 l.genus <- as.vector(table(data$pair)) #list w/ number of species per genus
-nboot <- 10 #number of permutations
+nboot <- 10000 #number of permutations
 
 random_test <- function(x,y) {  #x: data, y:genus
 
@@ -82,7 +82,12 @@ for(v in c("nbr_country","max_dist_eq","min_dist_eq","lat_mean","lat_median","mi
   start_time <- proc.time()[3]
   clusterExport(cl,"variable")
   fmla <- as.formula(paste(variable,"~ mode + (1|genus/pair)",sep=" "))
-  if(v %in% c("nbr_country","nbr_host_spp")){
+  if(v %in% c("nbr_country","host_spp")){
+    if(v=="host_spp"){
+      data <- data[!data$host_spp ==0,] # remove species with no hosts described
+      clusterExport(cl,"data")
+    }
+    
     zval.reference <-parSapply(cl, 1:nboot, function(i,...){zval_model(data,n.pairs,count=T)})
     m_host <- glmer(fmla, data = data,family = "poisson")
     st <- "z"
