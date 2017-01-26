@@ -5,25 +5,21 @@
 # Loading data
 library(ggplot2);library(FactoMineR); library(factoextra)
 #data0 <- read.csv("~/Documents/Internship/Data/R_working_directory/auto/auto_processed_data.csv", header=T)
-data0 <- read.csv("~/Documents/Internship/chalcid_comparative_analysis/Data/R_working_directory/auto/auto_processed_data.csv", header=T)
-citat <-read.csv("~/Dropbox/Cyril-Casper_shared/Internship_tidy/Data/auto/auto_citations_per_species.csv", header=T)
-data <- merge(x=data0, y=citat, by.x=c("family","genus","species"), by.y=c("family","genus","species"), all=F)
+data <- read.csv("~/Dropbox/Cyril-Casper_shared/for_publication/auto_data.csv")
 data <- data[!data$nbr_country =="0",] #remove species with no countries described
 data <- data[!data$host_spp =="0",] # remove species with no hosts described
 
-cut_data <- data[data$ref>4,] # remove species very few studies
+cut_data <- data[data$ref>0,] # remove species very few studies
 data<-cut_data
-data$max_dist_eq <- pmax(abs(data$lat_min),abs(data$lat_max))
-data$min_dist_eq <- pmin(abs(data$lat_min),abs(data$lat_max))
+vars <- c("nbr_country","lat_median","lat_range","host_spp","min_dist_eq","max_dist_eq","ref")
 
-
-pc <- prcomp(x = data[,4:15])$x
-weight <- prcomp(x=data[,4:15])$rotation
+pc <- prcomp(x = data[,vars])$x
+weight <- prcomp(x=data[,vars])$rotation
 
 ggplot()+
   geom_point(aes(x=pc[,5],y=pc[,7],col=data$mode))
 
-res.pca <- PCA(data[,c(4:8,15,18)], graph = FALSE)
+res.pca <- PCA(data[,vars], graph = FALSE)
 
 # Proportion of variance explained by each PC
 fviz_screeplot(res.pca, ncp=10)
@@ -41,13 +37,13 @@ fviz_pca_var(res.pca, col.var="cos2") +
 # Control variable colors using their contributions
 fviz_pca_var(res.pca, col.var="contrib",axes =c(1,2)) +
   scale_color_gradient2(low="white", mid="blue", 
-                        high="red", midpoint=3) + theme_minimal()
+                        high="red", midpoint=5) + theme_minimal()
 
 # Contribution of each variable to variation between species on PC1 and PC2
-fviz_pca_contrib(res.pca, choice = "var", axes = 2:3) 
+fviz_pca_contrib(res.pca, choice = "var", axes = 1)
 fviz_pca_contrib(res.pca, choice = "var", axes = 3)
-f0viz_pca_contrib(res.pca, choice = "var", axes = 2:2) # Contribution on PC 1 and 2 together
-fviz_pca_ind(res.pca,axes=c(2,3),habillage = data$mode,geom="point")
+fviz_pca_contrib(res.pca, choice = "var", axes = 3:4) # Contribution on PC 1 and 2 together
+fviz_pca_ind(res.pca,axes=c(4,2),habillage = data$mode,geom="point")
 fviz_pca_ind(res.pca,axes=c(2,3),habillage=data$family,geom="point")
 pairs(res.pca$ind$coord,col=data$mode)
 #fviz_pca_contrib(res.pca, choice = "ind", axes = 1,color=data$mode)
