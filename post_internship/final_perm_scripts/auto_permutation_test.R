@@ -53,7 +53,7 @@ zval_model <- function(data, n.genera, count=F){
 
 library(nlme); library(lme4);library(parallel)
 data <- read.csv("./auto_data.csv", header=T)
-nboot <- 10000
+nboot <- 100
 # Simulations are shared among the nodes and the results are put together in the end.
 #zval.reference <- replicate(nboot, zval_model(cut_data, n.genera))
 for(cutoff in -1:20){
