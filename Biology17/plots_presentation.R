@@ -3,7 +3,7 @@ setwd("~/Documents/Internship/Biology17/")
 auto <- read.csv("auto_data.csv",header=T)
 manual <- read.csv("manual_data.csv",header=T)
 manual <- manual[manual$pair!=0,]
-
+library(ggplot2);library(gridExtra)
 #==================================
 #Manual dataset
 
@@ -15,7 +15,7 @@ m.host <- reshape (df, varying=c("host.asex", "host.sex"), v.names = "host_spp",
 m.host<- merge(x=m.host,y=manual[,c("family","pair")],by="pair")
 line.host <- ggplot(data=m.host, aes(x=mode, y=host_spp, group=pair)) + 
   geom_path(alpha=0.6) + theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-  ylab("Number of host species") + xlab("") + annotate("text", x=1.5, y=170, label="p = 0.0042", size=4)
+  ylab("Number of host species") + xlab("") + annotate("text", x=1.5, y=170, label="p = 0.0042", size=4)+ylim(c(0,75))
 
 country.asex <- by (data=manual$nbr_country[manual$mode=="asex"], manual$pair[manual$mode=="asex"] , mean, simplify=T, na.rm=T)
 country.sex <- by (data=manual$nbr_country[manual$mode=="sex"], manual$pair[manual$mode=="sex"] , mean, simplify=T, na.rm=T)
@@ -26,7 +26,7 @@ m.country<- merge(x=m.country,y=manual[,c("family","pair")],by="pair")
 
 line.country <- ggplot(data=m.country, aes(x=mode, y=nbr_country, group=pair))+  
   geom_path(alpha=0.6) + theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-  ylab("Number of countries") + xlab("") + annotate("text", x=1.5, y=120, label="p = 0.0046", size=4)
+  ylab("Number of countries") + xlab("") + annotate("text", x=1.5, y=120, label="p = 0.0046", size=4)+ylim(c(0,100))
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
 
