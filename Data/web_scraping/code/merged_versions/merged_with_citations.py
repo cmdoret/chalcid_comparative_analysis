@@ -17,7 +17,6 @@ This script gather distribution and hosts for all species in the nhm universal C
 Note: Since the script uses the Nominatim API which is not intended for bulk geocoding, the time.sleep
 method has been set to a very high value in order to avoid overloading the servers. This causes the
 script to be very slow.
-Note2: Not sure the script works, didn't run it until the end
 """
 
 
@@ -168,7 +167,7 @@ for f in fam[0:1]:
         print "TOTAL SPECIES: " + str(countt)
 
 # ============================================================================================
-# Here, I write everything along with geographical data in a csv file. 
+# Here, I write everything along with geographical data in a csv file.
 our_data = open(os.getcwd() + "/our_geo_exp.csv", 'w')
 # Creates or overwrites a csv file
 our_data.write('family,genus,species,num_loc,lat_min,lon_min,lat_max,lon_max,lat_mean,lon_mean,lat_median,lon_median\n')
@@ -395,4 +394,3 @@ def get_refs(address):
                     #print "ADDED CITATION number: " + str(refnum)
         print "Total number of citations: " + str(refnum)
         return refnum
-
