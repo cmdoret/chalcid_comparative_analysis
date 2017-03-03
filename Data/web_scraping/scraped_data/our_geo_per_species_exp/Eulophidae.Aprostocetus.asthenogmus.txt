@@ -1,5 +1,0 @@
-Caribbean (including West Indies),15.0000001,-75.0
-India,22.3511148,78.6677428
-North Africa,41.4299403,-8.0932407
-Seychelles,-4.6574976,55.4540146
-Sri Lanka,7.878,80.7038245875

@@ -1,4 +1,0 @@
-Japan,36.5748441,139.2394179
-Gansu (Kansu),39.054054,99.091892
-Guangxi (Kwangsi),24.0,109.0
-Sakhalin Oblast,49.7219665,143.448533

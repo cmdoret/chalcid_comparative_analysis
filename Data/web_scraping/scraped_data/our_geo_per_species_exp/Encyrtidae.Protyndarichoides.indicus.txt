@@ -1,9 +1,0 @@
-Andhra Pradesh,15.9240905,80.1863809
-Arunachal Pradesh,28.3641989,94.7586273
-Assam,26.4073841,93.2551303
-Uttar Pradesh,27.1303344,80.859666
-West Bengal,22.9964948,87.6855882
-Gansu (Kansu),39.054054,99.091892
-Guangxi (Kwangsi),24.0,109.0
-Sichuan (Szechwan),32.41875,102.6366383
-Yunnan,25.0,102.0

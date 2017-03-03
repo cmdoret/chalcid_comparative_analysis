@@ -1,3 +1,0 @@
-District of Columbia,38.8949549,-77.0366455
-Michigan,43.6211955,-84.6824345
-North Dakota,47.6201461,-100.5407369

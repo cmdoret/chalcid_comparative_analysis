@@ -1,5 +1,0 @@
-Nei Menggu (Inner Mongolia),43.2443242,114.3251664
-Ningxia (Ningsia),37.0000001,105.9999999
-Shanxi (Shansi),37.0,112.0
-Sichuan (Szechwan),32.41875,102.6366383
-Yunnan,25.0,102.0

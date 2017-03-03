@@ -1,9 +1,0 @@
-Japan,36.5748441,139.2394179
-Hebei,39.0000001,116.0
-Henan (Honan),34.0000001,113.9999999
-Hunan (Hunan),27.9995878,112.009538
-Jiangxi (Kiangsi),28.0,116.0
-Liaoning,40.9975197,122.9955469
-Ningxia (Ningsia),37.0000001,105.9999999
-Shaanxi (Shensi),36.0,109.0
-Zhejiang (Chekiang),29.0000001,119.9999999

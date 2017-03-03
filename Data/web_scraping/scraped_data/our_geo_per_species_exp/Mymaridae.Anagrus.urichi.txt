@@ -1,5 +1,0 @@
-Distrito federal (Brasilia),-15.7934035,-47.8823171
-Goiás,-15.9321904,-50.1388783
-Caribbean (including West Indies),15.0000001,-75.0
-Guyana,4.8417097,-58.641689
-Trinidad & Tobago,10.8677845,-60.9821066

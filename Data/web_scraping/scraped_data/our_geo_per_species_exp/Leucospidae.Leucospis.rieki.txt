@@ -1,3 +1,0 @@
-New South Wales,-31.8759834,147.2869493
-Northern Territory,-19.85161,133.2303375
-Victoria,-36.5986095,144.6780052

@@ -1,5 +1,0 @@
-Hebei,39.0000001,116.0
-Liaoning,40.9975197,122.9955469
-Shaanxi (Shensi),36.0,109.0
-Shandong (Shantung),36.0000001,118.9999999
-Tianjin (Tientsin),39.1235635,117.1980785

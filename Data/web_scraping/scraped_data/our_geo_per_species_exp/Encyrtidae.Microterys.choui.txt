@@ -1,4 +1,0 @@
-Henan (Honan),34.0000001,113.9999999
-Ningxia (Ningsia),37.0000001,105.9999999
-Shaanxi (Shensi),36.0,109.0
-Shanxi (Shansi),37.0,112.0

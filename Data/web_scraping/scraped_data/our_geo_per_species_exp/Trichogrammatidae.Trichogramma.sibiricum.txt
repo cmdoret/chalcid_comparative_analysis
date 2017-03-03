@@ -1,4 +1,0 @@
-British Columbia,55.0,-124.9999999
-Chita Oblast (=Chitinskaya),52.0334094,113.5008922
-California,36.7014631,-118.7559973
-Washington,38.8949549,-77.0366455

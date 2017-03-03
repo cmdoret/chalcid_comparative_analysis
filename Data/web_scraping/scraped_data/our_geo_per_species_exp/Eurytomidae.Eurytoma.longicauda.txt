@@ -1,4 +1,0 @@
-Gansu (Kansu),39.054054,99.091892
-Heilongjiang (HeilungKiang),48.0000047,127.999992
-Shaanxi (Shensi),36.0,109.0
-Yunnan,25.0,102.0

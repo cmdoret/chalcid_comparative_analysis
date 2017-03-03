@@ -1,5 +1,0 @@
-Anhui (Anhwei),32.0,117.0
-Beijing (Peking),39.9059631,116.391248
-Hebei,39.0000001,116.0
-Nei Menggu (Inner Mongolia),43.2443242,114.3251664
-Shanxi (Shansi),37.0,112.0

@@ -1,7 +1,0 @@
-Northern Territory,-19.85161,133.2303375
-Christmas Island,-10.4878278,105.6329821
-Japan,36.5748441,139.2394179
-Papua New Guinea,-5.6816068,144.2489081
-Northern Solomon Islands,8.46488365,124.635117506
-Primor'ye Kray,45.0819456,134.726645
-Sakhalin Oblast,49.7219665,143.448533

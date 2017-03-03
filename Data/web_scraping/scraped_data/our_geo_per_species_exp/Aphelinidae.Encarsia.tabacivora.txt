@@ -1,5 +1,0 @@
-Brazil,-10.3333332,-53.1999999
-Caribbean (including West Indies),15.0000001,-75.0
-Dominican Republic,19.0974031,-70.3028025
-Mexico,19.4326009,-99.1333415
-South Carolina,33.6874388,-80.4363742

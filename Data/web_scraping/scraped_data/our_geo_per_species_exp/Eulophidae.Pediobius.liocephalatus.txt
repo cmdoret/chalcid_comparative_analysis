@@ -1,2 +1,0 @@
-Canada,61.0666922,-107.991707
-United States of America,39.7837304,-100.4458824

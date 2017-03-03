@@ -1,4 +1,0 @@
-Congo,-2.9814343,23.8222636
-Democratic Republic of Congo (Zaire),-2.9814343,23.8222636
-South Africa,-28.8166235,24.991639
-Yemen,16.3471243,47.8915271
