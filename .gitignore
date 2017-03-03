@@ -115,6 +115,8 @@ acs-*.bib
 *.ilg
 *.ind
 *.ist
+.directory
+.Rhistory
 
 # minitoc
 *.maf

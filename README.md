@@ -1,4 +1,7 @@
-# chalcid_comparative_analysis
+# Chalcid Comparative Analysis
+
+### Casper Van Der Kooi, Cyril Matthey-Doret
+
 Comparative analysis of ecological variables between sex and
 asex species of Chaldidoidea.
 
@@ -14,11 +17,11 @@ Variables studied are:
   * Latitude and longitude
   * Body length
 
+
 Two Datasets are used in the analysis; the smaller one was gathered
 by hand from the literature, while the larger one was build from
 data scraped off the Universal Chalcidoidea Database, on the NHM
-website.
+website. The web_scraper folder contains the program used to retrieve the data.
 
-This project was part of a project I performed in 2016
-in the Schwander Group under the supervision of Casper Van Der
-Kooi,at the University of Lausanne.
+This project was part of a project performed in 2016
+in the Schwander Group under at the University of Lausanne.
