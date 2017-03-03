@@ -14,7 +14,7 @@ Variables studied are:
   * Latitude and longitude
   * Body length
 
-Two Datasets are used in the analyis; the smaller one was gathered
+Two Datasets are used in the analysis; the smaller one was gathered
 by hand from the literature, while the larger one was build from
 data scraped off the Universal Chalcidoidea Database, on the NHM
 website.
