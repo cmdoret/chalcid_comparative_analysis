@@ -1,7 +1,0 @@
-variable_names,effect_asex,effect_sex
-nbr_country,21.875,10.234375
-nbr_host_spp,20.8333333333333,7.921875
-body_length,1.287,1.22990740740741
-max_dist_eq,45.21875,39.84375
-lat_median,25.109375,17.484375
-lat_range,53.125,42.1034482758621
