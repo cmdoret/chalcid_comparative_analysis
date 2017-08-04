@@ -2,9 +2,9 @@
 # diverged are more widely distributed or have more hosts than other sexual 
 # species. Here, both datasets are merged, since there is no information
 # about relatedness in the auto dataset, and closest relative is known only in
-# the manual dataset. The approach consists in comparing the sexuals from
-# manual (sister species of an asexual), versus the other sexuals in the 
-# auto dataset within the same genus (outgroup).
+# the manual dataset. The approach consists in comparing the sexuals in each 
+# pair from manual (sister species of an asexual), versus the other sexuals 
+# in the auto dataset within the same genus (outgroup).
 # Cyril Matthey-Doret, Casper Van Der Kooi
 # 17.02.2017
 
@@ -15,23 +15,23 @@ rm(list=ls()); library(permute); library(nlme); library(lme4);library(ggplot2); 
 ######
 
 # Loading number of references.
-citat <-read.csv("../auto_citations_per_species.csv", header=T)
+citat <-read.csv("sample_data/auto_citations_per_species.csv", header=T)
 
 # Loading dataset and merging dataset with citations. Only species for which both data and number of citations is available will be kept.
-manu0 <- read.csv("../manual_data.csv")
+manu0 <- read.csv("sample_data/manual_data_ref.csv")
 manu <- merge(x=manu0, y=citat, by.x=c("family","genus","species"), by.y=c("family","genus","species"), all=F)
 
-close_sex0 <-manu[manu$pair!=0,]
-close_sex <- cbind(close_sex0, diverg=rep("close"))
+close_sex0 <-manu[manu$pair!=0,]  # Removing species not assigned to a pair (if any)
+close_sex <- cbind(close_sex0, diverg=rep("close"))  # all asex in manual dataset are sister species (close)
 close_sex$diverg <- as.character(close_sex$diverg)
-close_sex$diverg[close_sex$mode=='asex'] <- 'asex'
+close_sex$diverg[close_sex$mode=='asex'] <- 'asex' # Adding separate level for asexuals
 close_sex$diverg <- as.factor(close_sex$diverg)
 close_sex <- close_sex[!close_sex$nbr_country==0 & !close_sex$host_spp==0,]
+# Excluding species without country or host information
 close_sex <- close_sex[!is.na(close_sex$family),];rownames(close_sex) <- NULL
 
-
 # Loading dataset and merging dataset with citations. Only species for which both data and number of citations is available will be kept.
-auto0 <- read.csv("../auto_data.csv", header=T)
+auto0 <- read.csv("sample_data/auto_data.csv", header=T)
 auto <- auto0
 #auto <- merge(x=auto0, y=citat, by.x=c("family","genus","species"), by.y=c("family","genus","species"), all=F) 
 auto <- auto[!auto$nbr_country ==0,] #remove species with no countries described
@@ -46,6 +46,8 @@ far_sex$pair <- rep(0)
 # Changing colnames for successful rbind.
 close_sex <- close_sex %>% rename(lat_min = latitude_min, lat_max = latitude_max, lat_mean = latitude_mean, 
                                   lat_median = latitude_median)
+far_sex <- far_sex %>% rename(lat_min = latitude_min, lat_max = latitude_max, lat_mean = latitude_mean, 
+                                  lat_median = latitude_median, ref=references_total)
 close_sex <- close_sex[,c("family", "genus", "species", "pair", "mode", "lat_min", "lat_max", "lat_mean", 
                           "lat_median", "nbr_country", "host_spp",  "ref", "diverg")]
 #colnames(close_sex)[14] <- "host_spp"
@@ -185,13 +187,15 @@ m.host <- reshape (df, varying=c("host.close", "host.far", "host.asex"), v.names
 m.host$diverg <- as.character(m.host$diverg)
 m.host$diverg <- factor(m.host$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
-line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp, group=pair))+ 
+line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp))+ 
   geom_point(col='white') + 
-  geom_path(data=m.host[m.host$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=host_spp)) +
-  geom_path(data=m.host[m.host$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=host_spp)) + 
+  geom_path(data=m.host[m.host$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=host_spp, group=pair)) +
+  geom_path(data=m.host[m.host$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=host_spp, group=pair)) + 
+  geom_boxplot(width=0.1) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-  ylab("Number of host species") + xlab("") + ggtitle("p < 0.001")+ylim(c(0,75))
-#annotate("text", x=1.5, y=29, label="p < 0.001", size=4)
+  ylab("Number of host species") + xlab("") + ylim(c(0,75)) + 
+  annotate("text", x=1.5, y=max(m.host$host_spp[m.host$diverg!="Parthenogen"], na.rm=T), 
+           label="p < 0.001", size=4)  
 
 country.close <- by (data=abs(merged$nbr_country[merged$diverg=="close"]), merged$pair[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
 country.far <- by (data=abs(merged$nbr_country[merged$diverg=="far"]), merged$pair[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
@@ -202,13 +206,15 @@ m.country <- reshape (df, varying=c("country.close", "country.far", "country.ase
 m.country$diverg <- as.character(m.country$diverg)
 m.country$diverg <- factor(m.country$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
-line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country, group=pair))+ 
+line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country))+ 
   geom_point(col='white') + 
-  geom_path(data=m.country[m.country$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=nbr_country)) +
-  geom_path(data=m.country[m.country$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=nbr_country)) + 
+  geom_path(data=m.country[m.country$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=nbr_country, group=pair)) +
+  geom_path(data=m.country[m.country$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=nbr_country, group=pair)) + 
+  geom_boxplot(width=0.1) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-  ylab("Number of countries") + xlab("") + ggtitle("p < 0.001")
-#annotate("text", x=1.5, y=55, label="p < 0.001", size=4)
+  ylab("Number of countries") + xlab("") + 
+  annotate("text", x=1.5, y=max(m.country$nbr_country[m.country$diverg!="Parthenogen"], na.rm=T), 
+           label="p < 0.001", size=4)
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
 
