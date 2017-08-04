@@ -8,25 +8,30 @@
 # Cyril Matthey-Doret, Casper Van Der Kooi
 # 17.02.2017
 
-rm(list=ls()); library(permute); library(nlme); library(lme4);library(ggplot2); library(gridExtra)
+rm(list=ls()); library(permute); library(nlme); library(lme4);library(ggplot2); library(gridExtra); library(dplyr)
 
 ######
 #Data#
 ######
 
 # Loading number of references.
-citat <-read.csv("~/Dropbox/Cyril-Casper_shared/Internship/Data/R_working_directory/auto/auto_citations_per_species.csv", header=T)
+citat <-read.csv("../auto_citations_per_species.csv", header=T)
 
 # Loading dataset and merging dataset with citations. Only species for which both data and number of citations is available will be kept.
-manu0 <- read.csv("~/Dropbox/Cyril-Casper_shared/for_publication/manual_data.csv")
+manu0 <- read.csv("../manual_data.csv")
 manu <- merge(x=manu0, y=citat, by.x=c("family","genus","species"), by.y=c("family","genus","species"), all=F)
 
-close_sex0 <-manu[manu$pair!=0 & manu$mode=="sex",]
+close_sex0 <-manu[manu$pair!=0,]
 close_sex <- cbind(close_sex0, diverg=rep("close"))
+close_sex$diverg <- as.character(close_sex$diverg)
+close_sex$diverg[close_sex$mode=='asex'] <- 'asex'
+close_sex$diverg <- as.factor(close_sex$diverg)
 close_sex <- close_sex[!close_sex$nbr_country==0 & !close_sex$host_spp==0,]
+close_sex <- close_sex[!is.na(close_sex$family),];rownames(close_sex) <- NULL
+
 
 # Loading dataset and merging dataset with citations. Only species for which both data and number of citations is available will be kept.
-auto0 <- read.csv("~/Dropbox/Cyril-Casper_shared/for_publication/auto_data.csv", header=T)
+auto0 <- read.csv("../auto_data.csv", header=T)
 auto <- auto0
 #auto <- merge(x=auto0, y=citat, by.x=c("family","genus","species"), by.y=c("family","genus","species"), all=F) 
 auto <- auto[!auto$nbr_country ==0,] #remove species with no countries described
@@ -37,38 +42,47 @@ far_sex0 <- auto[auto$mode=="sex",]
 
 # Adding a column, to label those species as "far", meaning they are not closely related to an asexual species.
 far_sex <- cbind(far_sex0, diverg=rep("far"))
-
+far_sex$pair <- rep(0) 
 # Changing colnames for successful rbind.
-close_sex <- close_sex[,c("family", "genus", "species", "mode", "lon_min", "lon_max", 
-                          "lon_mean", "lon_median", "lat_min", "lat_max", "lat_mean", 
-                          "lat_median", "nbr_country", "host_spp", "eco", "ref", "diverg")]
+close_sex <- close_sex %>% rename(lat_min = latitude_min, lat_max = latitude_max, lat_mean = latitude_mean, 
+                                  lat_median = latitude_median)
+close_sex <- close_sex[,c("family", "genus", "species", "pair", "mode", "lat_min", "lat_max", "lat_mean", 
+                          "lat_median", "nbr_country", "host_spp",  "ref", "diverg")]
 #colnames(close_sex)[14] <- "host_spp"
-far_sex <- far_sex[, c("family", "genus", "species", "mode", "lon_min", "lon_max", "lon_mean", 
-                       "lon_median", "lat_min", "lat_max", "lat_mean", "lat_median", "nbr_country", 
-                       "host_spp", "eco", "ref", "diverg")]
+far_sex <- far_sex[, c("family", "genus", "species", "pair", "mode", 
+                       "lat_min", "lat_max", "lat_mean", "lat_median", "nbr_country", 
+                       "host_spp", "ref", "diverg")]
 
-#Merging both sets with rbind.
-merged_sets <- rbind(close_sex, far_sex[far_sex$genus %in% close_sex$genus,])
-merged_sets <- merged_sets[!is.na(merged_sets$genus),]
-
-# Removing all dupplicate species to keep only those coming from close_sex.
-merged <- subset(merged_sets, subset = !(duplicated(merged_sets$species) & duplicated(merged_sets$genus) &  merged_sets$diverg=="far"))
-
+# Adding outgroup for each pair (convenient for plotting)
+merged_sets <- close_sex
+for(g in levels(close_sex$genus)){
+  tmp_pairs <- unique(close_sex$pair[close_sex$genus==g])
+  for(p in tmp_pairs){
+    tmp_far <- far_sex[far_sex$genus==g,]
+    tmp_far$pair <- p
+    excl <- data.frame(genus = close_sex$genus,species = close_sex$species)
+    tmp_far <- anti_join(tmp_far, excl, by = c("genus", "species"))
+    merged_sets <- rbind(merged_sets, tmp_far)
+  }
+}
+merged <- merged_sets
 # Removing all genera without any "close" species.
 merged$genus <-droplevels(merged$genus)
 
 # Applying different cutoffs for references
+if(FALSE){
 merged2 <- merged[merged$ref>2,] # remove species very few studies
 merged3 <- merged[merged$ref>4,] # remove species very few studies
 merged4 <- merged[merged$ref>7,] # remove species very few studies
 merged <- merged3
-
+}
 ##########
 #ANALYSIS#
 ##########
 
 #=======================================================
 test_var <- "nbr_country" # This line allows to choose the variable to be tested
+merged$pair <- as.factor(merged$pair)
 #======================================================
 
 #Comparing distribution of the number of references in both groups with different cutoff (would ideally be equal)
@@ -84,41 +98,43 @@ text(x = 1.5,y=0,round(t.test(merged4$ref[merged4$diverg=="close"],merged4$ref[m
 # Far tend to have fewer references (kind of expected) but not significantly different.
 
 
-# Model, using divergence as a two level factor (far vs close) where close means the species is the closest relative of an asexual species.
-my_model <- glmer(merged[,test_var] ~ diverg + (1|genus), data = merged, family="poisson")
+# Model, using divergence as a two level factor (far vs close) where close means the species 
+# is the closest relative of an asexual species.
+mod_data <- merged[merged$diverg!='Parthenogen',]
+my_model <- glmer(mod_data[,test_var] ~ diverg + (1|pair), data = mod_data, family="poisson")
 z.obs <- coef(summary(my_model))[2, "z value"]
 z.obs
 ####################################################
 # Randomize the divergence (close, far) within a genus
-n.genera <- length(levels(merged$genus)) #number of genera
-l.genus <- as.vector(table(merged$genus)) #list w/ number of species per genus
+n.pairs <- length(levels(mod_data$pair)) #number of genera
+l.genus <- as.vector(table(mod_data$genus)) #list w/ number of species per genus
 nboot <- 100 #number of permutations
 
 random_test <- function(x,y) {  #x: merged, y:genus
-
-  genus_name <- subset(x, genus == y)$genus
-  species_name <- subset(x, genus == y)$species
-  genus_var <- subset(x, genus == y)[,test_var]
-    
+  
+  pair_name <- subset(x, pair == y)$pair
+  species_name <- subset(x, pair == y)$species
+  pair_var <- subset(x, pair == y)[,test_var]
+  
   # Sample without replacement
-  random_diverg <- sample(subset(x, genus == y)$diverg)
+  random_diverg <- sample(subset(x, pair == y)$diverg)
   
   # Return a partial data frame (for each genus)
-  return(data.frame(genus_name, species_name, genus_var, random_diverg)) 
+  return(data.frame(pair_name, species_name, pair_var, random_diverg)) 
 }
 
 ####################################################
-# For each genus, run the random_test() function.
+# For each pair, run the random_test() function.
 
-zval_model <- function(data, n.genera){
+zval_model <- function(data, n.pairs){
   
   # Complete data frame initialization.
   ref.distri <- data.frame(x= character(0), y= character(0), z = character(0))
   
-  for (t in 1:n.genera) {
+  for (t in 1:n.pairs) {
     
-    # Sub data frame (for each genus).
-    part_distri <- random_test(data, levels(data$genus)[t])
+    # Sub data frame (for each pair).
+    part_distri <- random_test(data, levels(data$pair)[t])
     
     # Concatenation of each sub data frames.
     ref.distri <- rbind(ref.distri, part_distri)
@@ -127,7 +143,7 @@ zval_model <- function(data, n.genera){
   #print(ref.distri)
   
   # Model
-  m1 <- glmer(ref.distri[,"genus_var"] ~ random_diverg + (1|genus_name), data = ref.distri, family="poisson")
+  m1 <- glmer(ref.distri[,"pair_var"] ~ random_diverg + (1|pair_name), data = ref.distri, family="poisson")
   
   return(coef(summary(m1))[2, "z value"]) # Return zvalue
 }
@@ -135,7 +151,7 @@ zval_model <- function(data, n.genera){
 ####################################################
 # Main
 
-zval.reference <- replicate(nboot, zval_model(merged, n.genera))
+zval.reference <- replicate(nboot, zval_model(mod_data, n.pairs))
 hist(zval.reference, breaks = 30, xlim=c(-60, 60)) # Vector of nboot pvalues.
 abline(v=z.obs, col="red", lwd=3)
 quantile(zval.reference,c(0.025, 0.975))
@@ -158,27 +174,41 @@ host <- ggplot()+
   labs(x="",y="Number of hosts") +
   annotate(x = c(1,2),y=c(10,10),geom= "text", 
   label=NA ) + theme_classic() + theme(axis.line.x = element_line(color = "black"), axis.line.y = element_line(color = "black"))
-host
 
-host.close <- by (data=abs(merged$host_spp[merged$diverg=="close"]), merged$genus[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
-host.far <- by (data=abs(merged$host_spp[merged$diverg=="far"]), merged$genus[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
-df <- as.data.frame(cbind(host.close, host.far))
-m.host <- reshape (df, varying=c("host.close", "host.far"), v.names = "host_spp", timevar="diverg", direction="long", 
-                   times = c("Sister species", "Outgroup"), idvar="genus")
+merged$pair <- as.factor(merged$pair)
+host.close <- by (data=abs(merged$host_spp[merged$diverg=="close"]), merged$pair[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
+host.far <- by (data=abs(merged$host_spp[merged$diverg=="far"]), merged$pair[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
+host.asex <- by (data=abs(merged$host_spp[merged$diverg=="asex"]), merged$pair[merged$diverg=="asex"] , mean, simplify=T, na.rm=T)
+df <- as.data.frame(cbind(host.close, host.far, host.asex))
+m.host <- reshape (df, varying=c("host.close", "host.far", "host.asex"), v.names = "host_spp", timevar="diverg", direction="long", 
+                   times = c("Sister species", "Outgroup", "Parthenogen"), idvar="pair")
+m.host$diverg <- as.character(m.host$diverg)
+m.host$diverg <- factor(m.host$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
-line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp, group=genus))+ geom_path(alpha=0.6) +
+line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp, group=pair))+ 
+  geom_point(col='white') + 
+  geom_path(data=m.host[m.host$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=host_spp)) +
+  geom_path(data=m.host[m.host$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=host_spp)) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-  ylab("Number of host species") + xlab("") + annotate("text", x=1.5, y=29, label="p < 0.001", size=4)
+  ylab("Number of host species") + xlab("") + ggtitle("p < 0.001")+ylim(c(0,75))
+#annotate("text", x=1.5, y=29, label="p < 0.001", size=4)
 
-country.close <- by (data=abs(merged$nbr_country[merged$diverg=="close"]), merged$genus[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
-country.far <- by (data=abs(merged$nbr_country[merged$diverg=="far"]), merged$genus[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
-df <- as.data.frame(cbind(country.close, country.far))
-m.country <- reshape (df, varying=c("country.close", "country.far"), v.names = "nbr_country", timevar="diverg", direction="long", 
-                      times = c("Sister species", "Outgroup"), idvar="genus")
+country.close <- by (data=abs(merged$nbr_country[merged$diverg=="close"]), merged$pair[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
+country.far <- by (data=abs(merged$nbr_country[merged$diverg=="far"]), merged$pair[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
+country.asex <- by (data=abs(merged$nbr_country[merged$diverg=="asex"]), merged$pair[merged$diverg=="asex"] , mean, simplify=T, na.rm=T)
+df <- as.data.frame(cbind(country.close, country.far, country.asex))
+m.country <- reshape (df, varying=c("country.close", "country.far", "country.asex"), v.names = "nbr_country", timevar="diverg", direction="long", 
+                      times = c("Sister species", "Outgroup", "Parthenogen"), idvar="pair")
+m.country$diverg <- as.character(m.country$diverg)
+m.country$diverg <- factor(m.country$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
-line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country, group=genus))+ geom_path(alpha=0.6) +
+line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country, group=pair))+ 
+  geom_point(col='white') + 
+  geom_path(data=m.country[m.country$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=nbr_country)) +
+  geom_path(data=m.country[m.country$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=nbr_country)) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-  ylab("Number of countries") + xlab("") + annotate("text", x=1.5, y=55, label="p < 0.001", size=4)
+  ylab("Number of countries") + xlab("") + ggtitle("p < 0.001")
+#annotate("text", x=1.5, y=55, label="p < 0.001", size=4)
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
 
