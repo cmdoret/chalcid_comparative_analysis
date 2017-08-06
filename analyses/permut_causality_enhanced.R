@@ -44,15 +44,12 @@ far_sex0 <- auto[auto$mode=="sex",]
 far_sex <- cbind(far_sex0, diverg=rep("far"))
 far_sex$pair <- rep(0) 
 # Changing colnames for successful rbind.
-close_sex <- close_sex %>% rename(lat_min = latitude_min, lat_max = latitude_max, lat_mean = latitude_mean, 
-                                  lat_median = latitude_median)
-far_sex <- far_sex %>% rename(lat_min = latitude_min, lat_max = latitude_max, lat_mean = latitude_mean, 
-                                  lat_median = latitude_median, ref=references_total)
-close_sex <- close_sex[,c("family", "genus", "species", "pair", "mode", "lat_min", "lat_max", "lat_mean", 
-                          "lat_median", "nbr_country", "host_spp",  "ref", "diverg")]
-#colnames(close_sex)[14] <- "host_spp"
+
+close_sex <- close_sex[,c("family", "genus", "species", "pair", "mode", "latitude_min", "latitude_max", "latitude_mean", 
+                          "latitude_median", "nbr_country", "host_spp",  "ref", "diverg")]
+
 far_sex <- far_sex[, c("family", "genus", "species", "pair", "mode", 
-                       "lat_min", "lat_max", "lat_mean", "lat_median", "nbr_country", 
+                       "latitude_min", "latitude_max", "latitude_mean", "latitude_median", "nbr_country", 
                        "host_spp", "ref", "diverg")]
 
 # Adding outgroup for each pair (convenient for plotting)
@@ -71,38 +68,20 @@ merged <- merged_sets
 # Removing all genera without any "close" species.
 merged$genus <-droplevels(merged$genus)
 
-# Applying different cutoffs for references
-if(FALSE){
-merged2 <- merged[merged$ref>2,] # remove species very few studies
-merged3 <- merged[merged$ref>4,] # remove species very few studies
-merged4 <- merged[merged$ref>7,] # remove species very few studies
-merged <- merged3
-}
 ##########
 #ANALYSIS#
 ##########
 
 #=======================================================
-test_var <- "nbr_country" # This line allows to choose the variable to be tested
-merged$pair <- as.factor(merged$pair)
+test_var <- "host_spp" # This line allows to choose the variable to be tested
 #======================================================
-
-#Comparing distribution of the number of references in both groups with different cutoff (would ideally be equal)
-par(mfrow=c(1,4))
-boxplot(merged$ref[merged$diverg=="close"], merged$ref[merged$diverg=="far"], ylim=c(0,30))
-text(x = 1.5,y=0,round(t.test(merged$ref[merged$diverg=="close"],merged$ref[merged$diverg=="far"])$p.value,3))
-boxplot(merged2$ref[merged2$diverg=="close"], merged2$ref[merged2$diverg=="far"], ylim=c(0,30))
-text(x = 1.5,y=0,round(t.test(merged2$ref[merged2$diverg=="close"],merged2$ref[merged2$diverg=="far"])$p.value,3))
-boxplot(merged3$ref[merged3$diverg=="close"], merged3$ref[merged3$diverg=="far"], ylim=c(0,30))
-text(x = 1.5,y=0,round(t.test(merged3$ref[merged3$diverg=="close"],merged3$ref[merged3$diverg=="far"])$p.value,3))
-boxplot(merged4$ref[merged4$diverg=="close"], merged4$ref[merged4$diverg=="far"], ylim=c(0,30))
-text(x = 1.5,y=0,round(t.test(merged4$ref[merged4$diverg=="close"],merged4$ref[merged4$diverg=="far"])$p.value,3))
-# Far tend to have fewer references (kind of expected) but not significantly different.
+merged$pair <- as.factor(merged$pair)
 
 
 # Model, using divergence as a two level factor (far vs close) where close means the species 
 # is the closest relative of an asexual species.
 mod_data <- merged[merged$diverg!='Parthenogen',]
+# Excluding asexuals to compare only sister species versus outgroup
 my_model <- glmer(mod_data[,test_var] ~ diverg + (1|pair), data = mod_data, family="poisson")
 z.obs <- coef(summary(my_model))[2, "z value"]
 z.obs
@@ -110,7 +89,7 @@ z.obs
 # Randomize the divergence (close, far) within a genus
 n.pairs <- length(levels(mod_data$pair)) #number of genera
 l.genus <- as.vector(table(mod_data$genus)) #list w/ number of species per genus
-nboot <- 100 #number of permutations
+nboot <- 10000 #number of permutations
 
 random_test <- function(x,y) {  #x: merged, y:genus
   
@@ -162,21 +141,6 @@ sum(z.obs>zval.reference)/nboot
 
 ############### -------------- VISUALIZATION --------------- ###################
 
-#BOXPLOTS
-country <- ggplot()+
-  geom_boxplot(data = merged,
-  aes(x=diverg,y=nbr_country)) +
-  labs(x="",y="Number of countries") +
-  annotate(x = c(1,2),y=c(10,10),geom= "text", 
-  label=NA ) + theme_classic() + theme(axis.line.x = element_line(color = "black"), axis.line.y = element_line(color = "black"))
-country
-host <- ggplot()+
-  geom_boxplot(data = merged,
-  aes(x=diverg,y=host_spp)) +
-  labs(x="",y="Number of hosts") +
-  annotate(x = c(1,2),y=c(10,10),geom= "text", 
-  label=NA ) + theme_classic() + theme(axis.line.x = element_line(color = "black"), axis.line.y = element_line(color = "black"))
-
 merged$pair <- as.factor(merged$pair)
 host.close <- by (data=abs(merged$host_spp[merged$diverg=="close"]), merged$pair[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
 host.far <- by (data=abs(merged$host_spp[merged$diverg=="far"]), merged$pair[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
@@ -194,8 +158,8 @@ line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp))+
   geom_boxplot(width=0.1) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
   ylab("Number of host species") + xlab("") + ylim(c(0,75)) + 
-  annotate("text", x=1.5, y=max(m.host$host_spp[m.host$diverg!="Parthenogen"], na.rm=T), 
-           label="p < 0.001", size=4)  
+  annotate("text", x=1.5, y=max(m.host$host_spp[m.host$diverg!="Parthenogen"]*1.1, na.rm=T), 
+           label="p = 0.0007", size=4)  
 
 country.close <- by (data=abs(merged$nbr_country[merged$diverg=="close"]), merged$pair[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
 country.far <- by (data=abs(merged$nbr_country[merged$diverg=="far"]), merged$pair[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
@@ -213,8 +177,8 @@ line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country))+
   geom_boxplot(width=0.1) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
   ylab("Number of countries") + xlab("") + 
-  annotate("text", x=1.5, y=max(m.country$nbr_country[m.country$diverg!="Parthenogen"], na.rm=T), 
-           label="p < 0.001", size=4)
+  annotate("text", x=1.5, y=max(m.country$nbr_country[m.country$diverg!="Parthenogen"]*1.1, na.rm=T), 
+           label="p = 0.0007", size=4)
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
 
