@@ -89,19 +89,20 @@ z.obs
 # Randomize the divergence (close, far) within a genus
 n.pairs <- length(levels(mod_data$pair)) #number of genera
 l.genus <- as.vector(table(mod_data$genus)) #list w/ number of species per genus
-nboot <- 10000 #number of permutations
+nboot <- 10 #number of permutations
 
 random_test <- function(x,y) {  #x: merged, y:genus
   
   pair_name <- subset(x, pair == y)$pair
   species_name <- subset(x, pair == y)$species
   pair_var <- subset(x, pair == y)[,test_var]
+  genus_name <- subset(x, pair == y)$genus
   
   # Sample without replacement
   random_diverg <- sample(subset(x, pair == y)$diverg)
   
   # Return a partial data frame (for each genus)
-  return(data.frame(pair_name, species_name, pair_var, random_diverg)) 
+  return(data.frame(pair_name, genus_name, species_name, pair_var, random_diverg)) 
 }
 
 ####################################################
@@ -124,7 +125,7 @@ zval_model <- function(data, n.pairs){
   #print(ref.distri)
   
   # Model
-  m1 <- glmer(ref.distri[,"pair_var"] ~ random_diverg + (1|genus/pair_name), data = ref.distri, family="poisson")
+  m1 <- glmer(ref.distri[,"pair_var"] ~ random_diverg + (1|genus_name/pair_name), data = ref.distri, family="poisson")
   
   return(coef(summary(m1))[2, "z value"]) # Return zvalue
 }
