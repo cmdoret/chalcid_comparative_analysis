@@ -10,7 +10,7 @@ asex species of Chaldidoidea.
 The code hosted in this repository was part of a project performed in 2016
 in the Schwander Group under at the University of Lausanne. It is distibuted under the MIT license and you are free to use it as specified, as long as you cite the original publication: Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis. _Evolution letters_, (under review)
 
-If you plan to use the web scraper on the NHM Universal Chalcidoidea database, you will need a written authorization from the NHM first.
+If you plan to use the web scraper on the [NHM Universal Chalcidoidea](http://www.nhm.ac.uk/our-science/data/chalcidoids/) database, you will need a written authorization from the NHM first.
 
 Chalcidoidea is a large superfamily of parasitoid wasps
 containing both sexual and asexual species. This project
@@ -27,8 +27,8 @@ Variables studied are:
 
 Two Datasets are used in the analysis; the smaller one was gathered
 by hand from the literature, while the larger one was build from
-data scraped off the Universal Chalcidoidea Database, on the NHM
-website. The web_scraper folder contains the program used to retrieve the data.
+data scraped off the Universal Chalcidoidea Database, on the [NHM
+website](http://www.nhm.ac.uk/our-science/data/chalcidoids/). The web_scraper folder contains the program used to retrieve the data.
 
 
 
