@@ -124,7 +124,7 @@ zval_model <- function(data, n.pairs){
   #print(ref.distri)
   
   # Model
-  m1 <- glmer(ref.distri[,"pair_var"] ~ random_diverg + (1|pair_name), data = ref.distri, family="poisson")
+  m1 <- glmer(ref.distri[,"pair_var"] ~ random_diverg + (1|genus/pair_name), data = ref.distri, family="poisson")
   
   return(coef(summary(m1))[2, "z value"]) # Return zvalue
 }
@@ -181,8 +181,3 @@ line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country))+
            label="p = 0.0007", size=4)
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
-
-
-cor.test(merged$host_spp, merged$nbr_country, method = "kendall")
-m <- glm(diverg ~  host_spp + nbr_country, data=merged, family=binomial)
-summary(m) # effect of country is more important than host, per se

@@ -1,6 +1,6 @@
 # Chalcid Comparative Analysis
 
-### Casper Van Der Kooi, Cyril Matthey-Doret
+### Casper Van Der Kooi, Cyril Matthey-Doret and Tanja Schwander
 
 Comparative analysis of ecological variables between sex and
 asex species of Chaldidoidea.
@@ -23,5 +23,5 @@ by hand from the literature, while the larger one was build from
 data scraped off the Universal Chalcidoidea Database, on the NHM
 website. The web_scraper folder contains the program used to retrieve the data.
 
-This project was part of a project performed in 2016
-in the Schwander Group under at the University of Lausanne.
+The code hosted in this repository was part of a project performed in 2016
+in the Schwander Group under at the University of Lausanne. You are free to use it as long as you cite the following publication: Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis. _Evolution letters_, (under review)
