@@ -14,13 +14,28 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 """
+##############################################################################
+#    Univeral Chalcidoidea Database Web Scraper - a tool to automatically    #
+#    gather ecological data from the NHM Universal Chaldidoidea database.    #
+#                                                                            #
+#  Please see README and LICENCE for details of use and licence conditions.  #
+# This software was written by Cyril Matthey-Doret from the Schwander group, #
+#  at the University of Lausanne, Switzerland. Latest version is available   #
+#  for download at https://github.com/cmdoret/chalcid_comparative_analysis.  #
+#                                                                            #
+#  Copyright (c) 2017 Cyril Matthey-Doret and Casper Van der Kooi            #
+#  Author: Cyril Matthey-Doret (cyril.matthey-Doret@unil.ch)                 #
+#  Acknowledgement: Noyes, J.S. ****. Universal Chalcidoidea Database.       #
+#  World Wide Web electronic publication. http://www.nhm.ac.uk/chalcidoids   #
+##############################################################################
+
 This script gather distribution, hosts and number of references for all species
 in the nhm universal Chalcidoidea database.
 Note: Since the script uses the Nominatim API which is not intended for bulk
 geocoding, the time.sleep method has been set to a high value in order to
 avoid overloading the servers. This slows down the script considerably.
 
-This script may not work anymore and will require some tweaking of the 
+This script may not work anymore and will require some tweaking of the
 URLs patterns and HTML parsing if the design of the nhm website has been changed.
 
 The list of genera used in this script includes all genera with at least one asexual species.
