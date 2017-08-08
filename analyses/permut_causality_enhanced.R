@@ -151,10 +151,30 @@ m.host <- reshape (df, varying=c("host.close", "host.far", "host.asex"), v.names
 m.host$diverg <- as.character(m.host$diverg)
 m.host$diverg <- factor(m.host$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
+xa_offset <- function(x){
+  for(i in 1:length(x)){
+    if(x[i]>1.5)
+      {x[i] <- x[i]-0.1}
+    else
+      {x[i] <- x[i]+0.1}
+  }  
+}
+
+xb_offset <- function(x){
+  for(i in 1:length(x)){
+    if(x[i]<2.5)
+      {x[i] <- x[i]+0.1}
+    else
+      {x[i] <- x[i]-0.1}
+  }  
+}
+m.host <- m.host %>% mutate(a=case_when(as.integer(.$diverg)>1.5 ~ 1.9, as.integer(.$diverg)<1.5 ~ 1.1),
+                            b=case_when(as.integer(.$diverg)>2.5 ~ 2.9, as.integer(.$diverg)<2.5 ~ 2.1))
+
 line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp))+ 
   geom_point(col='white') + 
-  geom_path(data=m.host[m.host$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=host_spp, group=pair)) +
-  geom_path(data=m.host[m.host$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=host_spp, group=pair)) + 
+  geom_path(data=m.host[m.host$diverg!='Parthenogen',], alpha=0.6, aes(x = a, y=host_spp, group=pair)) +
+  geom_path(data=m.host[m.host$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = b, y=host_spp, group=pair)) + 
   geom_boxplot(width=0.1) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
   ylab("Number of host species") + xlab("") + ylim(c(0,75)) + 
@@ -170,10 +190,13 @@ m.country <- reshape (df, varying=c("country.close", "country.far", "country.ase
 m.country$diverg <- as.character(m.country$diverg)
 m.country$diverg <- factor(m.country$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
+m.country <- m.country %>% mutate(a=case_when(as.integer(.$diverg)>1.5 ~ 1.9, as.integer(.$diverg)<1.5 ~ 1.1),
+                            b=case_when(as.integer(.$diverg)>2.5 ~ 2.9, as.integer(.$diverg)<2.5 ~ 2.1))
+
 line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country))+ 
   geom_point(col='white') + 
-  geom_path(data=m.country[m.country$diverg!='Parthenogen',], alpha=0.6, aes(x = diverg, y=nbr_country, group=pair)) +
-  geom_path(data=m.country[m.country$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = diverg, y=nbr_country, group=pair)) + 
+  geom_path(data=m.country[m.country$diverg!='Parthenogen',], alpha=0.6, aes(x = a, y=nbr_country, group=pair)) +
+  geom_path(data=m.country[m.country$diverg!='Outgroup',], alpha=0.6, lty=2, aes(x = b, y=nbr_country, group=pair)) + 
   geom_boxplot(width=0.1) + 
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
   ylab("Number of countries") + xlab("") + 
