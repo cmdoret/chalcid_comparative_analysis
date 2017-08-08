@@ -29,7 +29,7 @@ sys.setdefaultencoding('utf8')
 #  World Wide Web electronic publication. http://www.nhm.ac.uk/chalcidoids   #
 ##############################################################################
 
-This script gather distribution, hosts and number of references for all species
+This script gathers distribution, hosts and number of references for all species
 in the nhm universal Chalcidoidea database.
 Note: Since the script uses the Nominatim API which is not intended for bulk
 geocoding, the time.sleep method has been set to a high value in order to
@@ -44,16 +44,16 @@ Note this includes species with known reproductive polymorphism.
 
 
 def mean(mylist):
-    return sum(mylist) / len(mylist)
+    return float(sum(mylist)) / max(len(mylist),1)
 
 
 def median(mylist):
     if len(mylist) % 2 != 0:
         return sorted(mylist)[len(mylist) / 2]
     else:
-        midavg = (sorted(mylist)[len(mylist) / 2] + sorted(mylist)[len(mylist) / 2 - 1]) / 2.0
+        midavg = (sorted(mylist)[len(mylist) / 2] +
+                  sorted(mylist)[len(mylist) / 2 - 1]) / 2.0
         return midavg
-
 
 countt = 0
 # Counter for displaying info on total species progress
@@ -112,7 +112,7 @@ my_genera = ["Aphelinus", "Ablerus", "Aphytis", "Coccophagus", "Encarsia", "Eret
 # List of genera we are interested in (those with at least 1 known asexual species)
 
 # Looping over families, genera and species to build a nested taxonomic dictionary with all desired species and their URL's.
-for f in fam[7:8]:
+for f in fam:
     # Iterating over family names.
     print "FAMILY = " + str(f)
     # Displaying progress (current family name)
