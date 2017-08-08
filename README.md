@@ -10,7 +10,7 @@ asex species of Chaldidoidea.
 The code hosted in this repository was part of a project performed in 2016
 in the Schwander Group under at the University of Lausanne. It is distibuted under the MIT license and you are free to use it as specified, as long as you cite the original publication: Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis. _Evolution letters_, (under review)
 
-If you plan to use the web scraper on the [NHM Universal Chalcidoidea](http://www.nhm.ac.uk/our-science/data/chalcidoids/) database, you will need a written authorization from the NHM first.
+If you plan to use the web scraper on the [Natural History Museum Universal Chalcidoidea Database](http://www.nhm.ac.uk/our-science/data/chalcidoids/), you will need a written authorization from the NHM first.
 
 Chalcidoidea is a large superfamily of parasitoid wasps
 containing both sexual and asexual species. This project
@@ -27,21 +27,26 @@ Variables studied are:
 
 Two Datasets are used in the analysis; the smaller one was gathered
 by hand from the literature, while the larger one was build from
-data scraped off the Universal Chalcidoidea Database, on the [NHM
-website](http://www.nhm.ac.uk/our-science/data/chalcidoids/). The web_scraper folder contains the program used to retrieve the data.
+data scraped off the Universal Chalcidoidea Database (UCD), on the [Natural History Museum (NHM) website](http://www.nhm.ac.uk/our-science/data/chalcidoids/). The web_scraper folder contains the program used to retrieve the data.
+## Dependencies
 
+To run the code hosted on this repository, you will first need the following dependencies:
 
+* [Python 2](https://www.python.org/) with the following packages installed:
+  + [BeautifulSoup 4](https://www.crummy.com/software/BeautifulSoup/)
+  + [Geocoder](https://github.com/DenisCarriere/geocoder)
 
-## Analyses
+* [R 3.2.x](https://www.r-project.org/):
+  + [dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
+  + [ggplot2](http://ggplot2.org/)
+  + [gridExtra](https://cran.r-project.org/web/packages/gridExtra/index.html)
+  + [tidyr](https://cran.r-project.org/web/packages/tidyr/index.html)
+  + [lme4](https://cran.r-project.org/web/packages/lme4/index.html)
+  + [nlme](https://cran.r-project.org/web/packages/nlme/index.html)
+  + [parallel](https://cran.r-project.org/web/views/HighPerformanceComputing.html)
+  + [permute](https://cran.r-project.org/web/packages/permute/index.html)  
 
-This folder contains scripts and models used for comparisons between asexual and sexual species.
-
-- auto_permutation_test.R : script used to compare asexual and sexual species in the automated dataset. In this script, we use a permutation approach with a generalized linear mixed model.
-- manual_permutation_test.R : same script adapted for pairs in the smaller manual dataset.
-- permut_causality_enhanced.R : based on the same principle, but for comparison between sexual species with an asexual sister species versus (manual dataset) other sexuals (automated dataset).
-
-
-# Universal Chalcidoidea Database Web scraper
+## Universal Chalcidoidea Database Web scraper
 
 This Python program allows to automatically retrieve host range, distribution and number of references for a set of desired wasp species on the Universal Chalcidoidea Database, on the London Natural History Museum website. The list of families/Genera need to be specified in the source (main_script.py). Given a set of species, the script will produce the following:
 
@@ -56,6 +61,29 @@ This Python program allows to automatically retrieve host range, distribution an
 - loc_store: This file is used to speed up the program. It stores each location and its details only once locally. This is used to reduce the number of requests sent to the Nominatim servers (only once for each unique location).
 
 Note the program relies on the HTML structure of the website and therefore may need to be tweaked in case the website architecture has changed. Output may also differ as the database is updated and expanded.
+
+## Analyses
+
+This folder contains scripts and models used for comparisons between asexual and sexual species.
+
+- auto_permutation_test.R : script used to compare asexual and sexual species in the automated dataset. In this script, we use a permutation approach with a generalized linear mixed model.
+- manual_permutation_test.R : same script adapted for pairs in the smaller manual dataset.
+- permut_causality_enhanced.R : based on the same principle, but for comparison between sexual species with an asexual sister species versus (manual dataset) other sexuals (automated dataset).
+- sample_data : contains the 2 datasets presented in the associated publication; the auto dataset (auto_data.csv) was gathered using the UCD web scraper, while the manual dataset (manual_data_ref.csv) contains the species that for which data was found manually in the literature. There is a third file containing the number of citations per species recorded on the UCD, this information was also obtained with the web scraper.
+
+## Instructions
+
+To run the statistical analysis on data from the publication:
+1. Open one of the script ontained in the folder `analyses`.
+2. Change the variable `test_var` to the variable you are interested in.
+3. Choose the desired of simulations by changing `nboot`.
+3. Run the code, either in a development environment such as Rstudio, or by typing `Rscript <name of script>` on the command line.
+
+To run the web scraper and regenerate data:
+1. Get written authorization from the NHM to exploit the UCD database
+2. Select the taxa you are interested in by changing the lists of names directly in `main_script.py`.
+3. Run the code by typing `python2 main_script.py`. The program should generate the files described in the Universal Chalcidoidea Database Web Scraper section of this README.
+4. In case you want to input the data generated this way into the scripts provided, you will need to get the different files into a single table by concatenating columns together. The headers might need to be reformatted.
 
 ## Acknowledgments
 

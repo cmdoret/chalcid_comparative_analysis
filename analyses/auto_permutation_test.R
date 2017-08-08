@@ -1,6 +1,6 @@
 
 ########################################################
-#======================================================#
+library(nlme); library(lme4);library(parallel)
 ########################################################
 
 # Running full script with all different references cutoffs
@@ -51,7 +51,7 @@ zval_model <- function(data, n.genera, count=F){
   return(coef(summary(m1))[2, paste0(st," value")]) # Return zvalue
 }
 
-library(nlme); library(lme4);library(parallel)
+
 data <- read.csv("./auto_data.csv", header=T)
 nboot <- 10000
 # Simulations are shared among the nodes and the results are put together in the end.
