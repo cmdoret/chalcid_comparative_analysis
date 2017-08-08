@@ -108,7 +108,7 @@ random_test <- function(x,y) {  #x: merged, y:genus
 ####################################################
 # For each pair, run the random_test() function.
 
-zval_model <- function(data, n.pairs){
+zval_model <- function(data, n.pairs, count=F){
   
   # Complete data frame initialization.
   ref.distri <- data.frame(x= character(0), y= character(0), z = character(0))
@@ -125,14 +125,21 @@ zval_model <- function(data, n.pairs){
   #print(ref.distri)
   
   # Model
-  m1 <- glmer(ref.distri[,"pair_var"] ~ random_diverg + (1|genus_name/pair_name), data = ref.distri, family="poisson")
+  if(count){
+    m1 <- glmer(pair_var ~ random_diverg + (1|genus_name/pair_name), data = ref.distri,family = "poisson")
+    st <- "z"
+  } else{
+    m1 <- lmer(pair_var ~ random_diverg + (1|genus_name/pair_name), data = ref.distri)
+    st <- "t"
+  }
   
-  return(coef(summary(m1))[2, "z value"]) # Return zvalue
+  return(coef(summary(m1))[2, paste0(st," value")]) # Return zvalue
 }
 
 ####################################################
 # Main
 
+count <- ifelse(test_var %in% c("nbr_country", "host_spp"), T, F)
 zval.reference <- replicate(nboot, zval_model(mod_data, n.pairs))
 hist(zval.reference, breaks = 30, xlim=c(-60, 60)) # Vector of nboot pvalues.
 abline(v=z.obs, col="red", lwd=3)
@@ -152,23 +159,7 @@ m.host <- reshape (df, varying=c("host.close", "host.far", "host.asex"), v.names
 m.host$diverg <- as.character(m.host$diverg)
 m.host$diverg <- factor(m.host$diverg,levels = c("Outgroup","Sister species","Parthenogen"), ordered = T)
 
-xa_offset <- function(x){
-  for(i in 1:length(x)){
-    if(x[i]>1.5)
-      {x[i] <- x[i]-0.1}
-    else
-      {x[i] <- x[i]+0.1}
-  }  
-}
 
-xb_offset <- function(x){
-  for(i in 1:length(x)){
-    if(x[i]<2.5)
-      {x[i] <- x[i]+0.1}
-    else
-      {x[i] <- x[i]-0.1}
-  }  
-}
 m.host <- m.host %>% mutate(a=case_when(as.integer(.$diverg)>1.5 ~ 1.9, as.integer(.$diverg)<1.5 ~ 1.1),
                             b=case_when(as.integer(.$diverg)>2.5 ~ 2.9, as.integer(.$diverg)<2.5 ~ 2.1))
 
@@ -180,7 +171,7 @@ line.host <- ggplot(data=m.host, aes(x=diverg, y=host_spp))+
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
   ylab("Number of host species") + xlab("") + ylim(c(0,75)) + 
   annotate("text", x=1.5, y=max(m.host$host_spp[m.host$diverg!="Parthenogen"]*1.1, na.rm=T), 
-           label="p = 0.0007", size=4)  
+           label="p = 0.0002", size=4)  
 
 country.close <- by (data=abs(merged$nbr_country[merged$diverg=="close"]), merged$pair[merged$diverg=="close"] , mean, simplify=T, na.rm=T)
 country.far <- by (data=abs(merged$nbr_country[merged$diverg=="far"]), merged$pair[merged$diverg=="far"] , mean, simplify=T, na.rm=T)
@@ -202,6 +193,6 @@ line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country))+
   theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
   ylab("Number of countries") + xlab("") + 
   annotate("text", x=1.5, y=max(m.country$nbr_country[m.country$diverg!="Parthenogen"]*1.1, na.rm=T), 
-           label="p = 0.0007", size=4)
+           label="p = 0.0006", size=4)
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
