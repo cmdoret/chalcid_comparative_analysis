@@ -59,7 +59,7 @@ def get_refs(address):
                 # Prevents counting twice the same reference
                 if re.search(r'([0-9]){4}', i.text) and "img" not in str(i.tag):
                     # Iterating over tables (1 article = 1table).
-                    print i.text.replace("\n", "").replace("\r", "").replace("\t", "")
+                    # print i.text.replace("\n", "").replace("\r", "").replace("\t", "")
                     # replace is just used to make debugging easier by removing newlines in output
                     refnum += len(re.findall(r'([0-9]){4}', i.text))
                     # adds as many references as there are dates in the table. This relies on the assumption

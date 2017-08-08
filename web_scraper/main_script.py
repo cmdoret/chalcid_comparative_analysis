@@ -337,7 +337,7 @@ our_data_ref = open(join(os.getcwd(), "ref_data.csv"), 'w')
 # Creates or overwrites a csv file
 our_data_ref.write('family,genus,species,ref\n')
 # Adding headers to the csv file.
-print "SPE_TARG=" + str(spe_targ)
+# print "SPE_TARG=" + str(spe_targ)
 # Prints the current species name.
 # through superfamilies
 for l in sorted(spe_targ):

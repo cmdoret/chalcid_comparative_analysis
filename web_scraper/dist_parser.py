@@ -207,5 +207,5 @@ def get_distribution(address):
         geocountries.append(tmp_loc[2])
         # Storing country to which location belongs
         print "Country of the processed tag is: " + str(tmp_loc[2])
-    print "3 OBJECTS LENGTHS: " + str(len(coords)) + ", " + str(len(locnames)) + ", " + str(len(geocountries))
+    # print "3 OBJECTS LENGTHS: " + str(len(coords)) + ", " + str(len(locnames)) + ", " + str(len(geocountries))
     return [coords, len(locnames), locnames, geocountries]
