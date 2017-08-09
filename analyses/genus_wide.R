@@ -5,7 +5,7 @@
 
 library(nlme); library(lme4);library(parallel)
 # Load data
-data <- read.csv("./auto_data.csv", header=T)
+data <- read.csv("sample_data/auto_data.csv", header=T)
 nboot <- 10000  # Number of permutations per test
 
 
@@ -58,7 +58,6 @@ zval_model <- function(data, n.genera, count=F){
 
 
 # Simulations are shared among the nodes and the results are put together in the end.
-#zval.reference <- replicate(nboot, zval_model(cut_data, n.genera))
 for(cutoff in -1:20){
   cut_data <- data[data$ref>cutoff,] # remove species very few studies
   n.genera <- length(levels(cut_data$genus)) #number of genera
@@ -69,30 +68,32 @@ for(cutoff in -1:20){
     pdf(paste0("auto_10ksim_GT", cutoff,"ref.pdf"), width = 15, height=12)
   }
   par(mfrow=c(4,2))
-  cl <- makeCluster(detectCores()-0)  
+  cl <- makeCluster(detectCores()-1)  
   
   #get library support needed to run the code
   clusterEvalQ(cl,c(library(nlme),library(lme4)))
   # Export variables and functions to all nodes in the cluster
   clusterExport(cl,c("random_test","zval_model","cut_data","n.genera"))
   for(v in c("nbr_country","max_dist_equator","min_dist_equator","latitude_mean",
-             "latitude_median","latituderange","host_spp")){
+             "latitude_median","latitude_range","host_spp")){
     variable = v
     start_time <- proc.time()[3]
     clusterExport(cl,"variable")
     fmla <- as.formula(paste(variable,"~ mode + (1|genus)",sep=" "))
-    if(v %in% c("nbr_country","host_spp")){
+    if(v %in% c("nbr_country","host_spp")){  # These variables are count data
       if(v=="host_spp"){
         cut_data <- cut_data[!cut_data$host_spp ==0,] # remove species with no hosts described
       }
       clusterExport(cl,"cut_data")
       zval.reference <-parSapply(cl, 1:nboot, function(i,...){zval_model(cut_data,n.genera,count=T)})
       m_host <- glmer(fmla, data = cut_data,family = "poisson")
+      # Using glm with poisson family for count variables
       st <- "z"
     }
     else{
       zval.reference <-parSapply(cl, 1:nboot, function(i,...){zval_model(cut_data,n.genera)})
-      m_host <- lmer(fmla, data = cut_data)
+      m_host <- lmer(fmla, data = cut_data)  
+      # Using linear model with gaussian family for other variables
       st <- "t"
     }
     z.obs <- coef(summary(m_host))[2, paste0(st, " value")]
@@ -103,7 +104,7 @@ for(cutoff in -1:20){
          breaks = 100, xlim=c(min(c(zval.reference,z.obs)), max(c(zval.reference,z.obs)))) # Vector of nboot pvalues
     abline(v=z.obs, col="red", lwd=3)
     print(paste0("P-value for ", variable, " is: ", pval))
-    print(paste0(nboot, " simulations for ", variable, " took ", unname(proc.time()[3]-start_time), " seconds"))
+    print(paste0(nboot, " simulations for ", variable, " took ", round(unname(proc.time()[3]-start_time), 3), " seconds"))
     print(paste0("n=",nrow(cut_data)))
     print("=====================================================")
     line = paste(cutoff,variable,pval1T,pval,round(z.obs,3),sep=",")
@@ -112,3 +113,11 @@ for(cutoff in -1:20){
   stopCluster(cl)
   dev.off()
 }
+
+# Example visualisation with box_lines.R. Replace variables at will
+# source("box_lines.R");library(gridExtra)
+# line.mineq <- linebox(df = adata,fac='mode',group='genus',var = 'min_dist_equator', box=T)
+# line.maxeq <- linebox(df = adata,fac='mode',group='genus',var = 'max_dist_equator', box=T)
+# grid.arrange(line.maxeq, line.mineq, nrow=1, ncol=2)
+
+

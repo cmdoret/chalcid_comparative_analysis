@@ -16,14 +16,10 @@ data$pair <- as.factor(data$pair)
 #======================================
 ## CHOOSE SETTINGS ##
 nboot <- 10000 # Number of permutations
-variable = "host_spp"  # Variable to be tested
 ####################################################
 # Randomize the mode (sex, asex) within a genus
-n.pairs <- length(levels(data$pair)) # number of genera
-l.genus <- as.vector(table(data$pair)) #list w/ number of species per genus
-fmla <- as.formula(paste(variable,"~ mode + (1|genus/pair)",sep=" "))
-m_host <- glmer(fmla, data = data,family = "poisson")
-zobs <- coef(summary(m_host))[2, "z value"]
+n.pairs <- length(levels(data$pair)) # number of pairs
+l.pair <- as.vector(table(data$pair)) #list w/ number of species per pair
 
 
 random_test <- function(x,y) {  #x: data, y:genus
@@ -75,7 +71,7 @@ zval_model <- function(data, n.pairs,count=F){
 # Main
 
 # Note I leave 1 core free, so that it is still possible to do other things while the script runs
-cl <- makeCluster(detectCores()-0)  
+cl <- makeCluster(detectCores()-1)  
 
 #get library support needed to run the code
 clusterEvalQ(cl,c(library(nlme),library(lme4)))
@@ -85,7 +81,8 @@ clusterExport(cl,c("random_test","zval_model","data","n.pairs"))
 pdf("manual_10ksim_plots.pdf", height=15,width=12)
 # Simulations are shared among the nodes and the results are put together in the end.
 par(mfrow=c(3,3))
-for(v in c("nbr_country","max_dist_eq","min_dist_eq","lat_mean","lat_median","min_length","max_length","lat_range","host_spp")){
+for(v in c("nbr_country","max_dist_equator","min_dist_equator","latitude_mean",
+           "latitude_min", "latitude_max","min_body_length","max_body_length","host_spp")){
   variable = v
   start_time <- proc.time()[3]
   clusterExport(cl,"variable")
@@ -112,7 +109,7 @@ for(v in c("nbr_country","max_dist_eq","min_dist_eq","lat_mean","lat_median","mi
        breaks = 100, xlim=c(min(c(zval.reference,zobs)), max(c(zval.reference,zobs)))) # Vector of nboot pvalues.
   abline(v=zobs, col="red", lwd=3)
   print(paste0("P-value for ", variable, " is: ",pval))
-  print(paste0(nboot, " simulations for ", variable, " took", unname(proc.time()[3]-start_time), " seconds"))
+  print(paste0(nboot, " simulations for ", variable, " took ", round(unname(proc.time()[3]-start_time), 3), " seconds"))
   line = paste(variable, pval1T, pval, round(zobs,3),sep=",")
   write(line, file="out_manual.csv",append=T)
 }
@@ -122,7 +119,7 @@ dev.off()
 stopCluster(cl)
 
 # Example visualisation with box_lines.R. Replace variables at will
-# source("box_lines.R")
-# line.maxlat <- linebox(df = data,fac='mode',group='pair',var = 'latitude_max')
-# line.minlat <- linebox(df = data,fac='mode',group='pair',var = 'latitude_min')
-# grid.arrange(line.maxlat, line.minlat, nrow=1, ncol=2)
+# source("box_lines.R"); library(gridExtra)
+# m.line.host <- linebox(df = data,fac='mode',group='pair',var = 'host_spp', box=T)
+# m.line.country <- linebox(df = data,fac='mode',group='pair',var = 'nbr_country', box=T)
+# grid.arrange(m.line.host, m.line.country, nrow=1, ncol=2)

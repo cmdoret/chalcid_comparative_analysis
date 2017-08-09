@@ -17,7 +17,7 @@ library(dplyr);library(ggplot2)
 #' @param group The grouping variable. Lines will connect 
 #' observations from the same group within different categories.
 #' @param var Quantitative variable to plot. Defines the y axis.
-linebox <- function(df, fac, group, var){
+linebox <- function(df, fac, group, var, box=T){
   df[,group] <- as.factor(df[,group])
   tmp.list <- list()
   for(lev in levels(df[,fac])){
@@ -27,16 +27,17 @@ linebox <- function(df, fac, group, var){
   m.df <- reshape (df2, varying=levels(df[,fac]), v.names = var, timevar=fac, direction="long", idvar=group,
                    times = levels(df[,fac]))
   m.df[,fac] <- as.character(m.df[,fac] )
-  m.df[,fac] <- factor(m.df[,fac],levels = levels(df[,fac]), ordered = T)
+  m.df[,fac] <- factor(m.df[,fac],levels = sort(levels(df[,fac]),decreasing = T), ordered = T)
   
   
   m.df <- m.df %>% mutate(a=case_when(as.integer(.[,fac])>1.5 ~ 1.9, as.integer(.[,fac])<1.5 ~ 1.1),
                               b=case_when(as.integer(.[,fac])>2.5 ~ 2.9, as.integer(.[,fac])<2.5 ~ 2.1))
   
   line.box <- ggplot(data=m.df, aes_string(x=fac, y=var))+ 
-    geom_point(col='white') + geom_boxplot(width=0.1) + 
+    geom_point(col='white') + 
     theme_classic() + theme(axis.line.x = element_line (color="black"), axis.line.y = element_line (color="black")) +
-    ylab(var) + xlab("") + ylim(c(0,75))
+    ylab(var) + xlab("")
+  if(box==T){line.box <- line.box + geom_boxplot(width=0.1)}
   if(length(levels(df[,fac]))==3){
     line.box <- line.box + 
       geom_path(data=m.df[m.df$diverg!=min(m.df[,fac]),], alpha=0.6, aes_string(x = "b", y=var, group=group)) +
