@@ -10,6 +10,12 @@
 
 rm(list=ls()); library(permute); library(nlme); library(lme4);library(ggplot2); library(gridExtra); library(dplyr)
 
+###########################
+# CHOOSE PARAMETER VALUES #
+#=======================================================
+test_var <- "host_spp" # This line allows to choose the variable to be tested
+nboot <- 10000 # number of permutations
+#======================================================
 ######
 #Data#
 ######
@@ -72,10 +78,6 @@ merged$genus <-droplevels(merged$genus)
 #ANALYSIS#
 ##########
 
-#=======================================================
-test_var <- "host_spp" # This line allows to choose the variable to be tested
-nboot <- 10000 # number of permutations
-#======================================================
 merged$pair <- as.factor(merged$pair)
 
 

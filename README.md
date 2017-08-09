@@ -66,16 +66,16 @@ Note the program relies on the HTML structure of the website and therefore may n
 
 This folder contains scripts and models used for comparisons between asexual and sexual species.
 
-- auto_permutation_test.R : script used to compare asexual and sexual species in the automated dataset. In this script, we use a permutation approach with a generalized linear mixed model.
-- manual_permutation_test.R : same script adapted for pairs in the smaller manual dataset.
-- permut_causality_enhanced.R : based on the same principle, but for comparison between sexual species with an asexual sister species versus (manual dataset) other sexuals (automated dataset).
+- genus_wide.R : script used to compare asexual and sexual species in the large automated dataset obtained with the web parser. In this script, we use a permutation approach with a generalized linear mixed model.
+- species_pairs.R : similar script adapted for pairs in the smaller manually assembled dataset containing asexuals and their sexual sister (or closely related) species.
+- causality.R : based on the same principle, but for comparison between sexual species with an asexual sister species versus (manual dataset) other sexuals (automated dataset).
 - sample_data : contains the 2 datasets presented in the associated publication; the auto dataset (auto_data.csv) was gathered using the UCD web scraper, while the manual dataset (manual_data_ref.csv) contains the species that for which data was found manually in the literature. There is a third file containing the number of citations per species recorded on the UCD, this information was also obtained with the web scraper.
 
 ## Instructions
 
 To run the statistical analysis on data from the publication:
 1. Open one of the script ontained in the folder `analyses`.
-2. Change the variable `test_var` to the variable you are interested in.
+2. If running `causality.R`, change the variable `test_var` to the variable you are interested in. Otherwise, the script will run automatically on all variables and store results.
 3. Choose the desired of simulations by changing `nboot`.
 3. Run the code, either in a development environment such as Rstudio, or by typing `Rscript <name of script>` on the command line.
 
