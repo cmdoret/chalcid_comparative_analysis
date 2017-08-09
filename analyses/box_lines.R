@@ -2,6 +2,21 @@
 # Cyril Matthey-Doret
 
 library(dplyr);library(ggplot2)
+
+
+#' Generates boxplots with lines connecting observations 
+#' that belong to the same group.
+#'
+#' This function allows to generate similar plots as those 
+#' in the publication, with any variable present in the 
+#' input dataset. 
+#' @param df The input dataframe containing all informations
+#' @param fac The factor defining categories to compare. Must 
+#' have either 2 (sex/asex) or 3 (close/far/asex) categories. 
+#' One box will be drawn for each level.
+#' @param group The grouping variable. Lines will connect 
+#' observations from the same group within different categories.
+#' @param var Quantitative variable to plot. Defines the y axis.
 linebox <- function(df, fac, group, var){
   df[,group] <- as.factor(df[,group])
   tmp.list <- list()
