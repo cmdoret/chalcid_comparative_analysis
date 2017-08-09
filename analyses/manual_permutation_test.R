@@ -1,28 +1,30 @@
 # This script runs a series of generalized linear mixed models with permutations on the manual dataset.
 # The reproductive modes are permuted randomly in each pair over 10000 simulations (nboot parameter) to 
 # generate an empirical distribution of z-values. The observed z-value is then compared to this distribution.
-# Casper Van Der Kooi, Cyril Matthey-Doret
+# Cyril Matthey-Doret, Casper Van Der Kooi
 # 17.02.2017
 
 library(nlme); library(lme4);library(parallel)
 
-
-data0 <- read.csv("./manual_data.csv", header=T)
+# Load and process data
+data0 <- read.csv("sample_data/manual_data_ref.csv", header=T)
 data <- data0[data0$pair != 0,]
 data <- data[!is.na(data$species),]
 rownames(data) <- NULL
 data$pair <- as.factor(data$pair)
 
-variable = "host_spp"
+#======================================
+## CHOOSE SETTINGS ##
+nboot <- 10000 # Number of permutations
+variable = "host_spp"  # Variable to be tested
+####################################################
+# Randomize the mode (sex, asex) within a genus
+n.pairs <- length(levels(data$pair)) # number of genera
+l.genus <- as.vector(table(data$pair)) #list w/ number of species per genus
 fmla <- as.formula(paste(variable,"~ mode + (1|genus/pair)",sep=" "))
 m_host <- glmer(fmla, data = data,family = "poisson")
 zobs <- coef(summary(m_host))[2, "z value"]
 
-####################################################
-# Randomize the mode (sex, asex) within a genus
-n.pairs <- length(levels(data$pair)) #number of genera
-l.genus <- as.vector(table(data$pair)) #list w/ number of species per genus
-nboot <- 10000 #number of permutations
 
 random_test <- function(x,y) {  #x: data, y:genus
 
@@ -118,3 +120,9 @@ for(v in c("nbr_country","max_dist_eq","min_dist_eq","lat_mean","lat_median","mi
 #stop the cluster
 dev.off()
 stopCluster(cl)
+
+# Example visualisation with box_lines.R. Replace variables at will
+# source("box_lines.R")
+# line.maxlat <- linebox(df = data,fac='mode',group='pair',var = 'latitude_max')
+# line.minlat <- linebox(df = data,fac='mode',group='pair',var = 'latitude_min')
+# grid.arrange(line.maxlat, line.minlat, nrow=1, ncol=2)

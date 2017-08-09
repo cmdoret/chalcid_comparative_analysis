@@ -74,6 +74,7 @@ merged$genus <-droplevels(merged$genus)
 
 #=======================================================
 test_var <- "host_spp" # This line allows to choose the variable to be tested
+nboot <- 10000 # number of permutations
 #======================================================
 merged$pair <- as.factor(merged$pair)
 
@@ -89,7 +90,6 @@ z.obs
 # Randomize the divergence (close, far) within a genus
 n.pairs <- length(levels(mod_data$pair)) #number of genera
 l.genus <- as.vector(table(mod_data$genus)) #list w/ number of species per genus
-nboot <- 10 #number of permutations
 
 random_test <- function(x,y) {  #x: merged, y:genus
   
@@ -196,3 +196,9 @@ line.country <- ggplot(data=m.country, aes(x=diverg, y=nbr_country))+
            label="p = 0.0006", size=4)
 
 grid.arrange(line.host, line.country, nrow=1, ncol=2)
+
+# Below: example use of box_lines to produce similar plots with any variable.
+# source('box_lines.R')
+# line.maxlat <- linebox(df = merged,fac='diverg',group='pair',var = 'latitude_max')
+# line.minlat <- linebox(df = merged,fac='diverg',group='pair',var = 'latitude_min')
+# grid.arrange(line.maxlat, line.minlat, nrow=1, ncol=2)

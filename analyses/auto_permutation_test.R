@@ -1,9 +1,13 @@
+# This script runs a series of generalized linear mixed models with permutations on the automated dataset.
+# It is different from the manual_permutation script; it runs simulations on all variables automatically 
+# different reference number cutoff. It is parallelized to speedup the analysis. 
+# Cyril Matthey-Doret
 
-########################################################
 library(nlme); library(lme4);library(parallel)
-########################################################
+# Load data
+data <- read.csv("./auto_data.csv", header=T)
+nboot <- 10000  # Number of permutations per test
 
-# Running full script with all different references cutoffs
 
 
 random_test <- function(x,y) {  #x: data, y:genus
@@ -52,8 +56,7 @@ zval_model <- function(data, n.genera, count=F){
 }
 
 
-data <- read.csv("./auto_data.csv", header=T)
-nboot <- 10000
+
 # Simulations are shared among the nodes and the results are put together in the end.
 #zval.reference <- replicate(nboot, zval_model(cut_data, n.genera))
 for(cutoff in -1:20){
@@ -72,7 +75,8 @@ for(cutoff in -1:20){
   clusterEvalQ(cl,c(library(nlme),library(lme4)))
   # Export variables and functions to all nodes in the cluster
   clusterExport(cl,c("random_test","zval_model","cut_data","n.genera"))
-  for(v in c("nbr_country","max_dist_eq","min_dist_eq","lat_mean","lat_median","lat_range","host_spp")){
+  for(v in c("nbr_country","max_dist_equator","min_dist_equator","latitude_mean",
+             "latitude_median","latituderange","host_spp")){
     variable = v
     start_time <- proc.time()[3]
     clusterExport(cl,"variable")
