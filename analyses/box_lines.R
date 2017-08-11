@@ -27,7 +27,14 @@ linebox <- function(df, fac, group, var, box=T){
   m.df <- reshape (df2, varying=levels(df[,fac]), v.names = var, timevar=fac, direction="long", idvar=group,
                    times = levels(df[,fac]))
   m.df[,fac] <- as.character(m.df[,fac] )
-  m.df[,fac] <- factor(m.df[,fac],levels = sort(levels(df[,fac]),decreasing = T), ordered = T)
+  nicenames <- array(c('asex','Parthenogen','^sex','Sexual','close','Sister species','far','Outgroup'),
+                     c(2,4))
+  for(pair in 1:length(nicenames[1,])){
+    m.df[,fac] <- gsub(x=m.df[,fac],pattern=nicenames[1,pair],nicenames[2,pair])
+  }
+  
+  
+  m.df[,fac] <- factor(m.df[,fac],levels = sort(unique(m.df[,fac]),decreasing = T), ordered = T)
   
   
   m.df <- m.df %>% mutate(a=case_when(as.integer(.[,fac])>1.5 ~ 1.9, as.integer(.[,fac])<1.5 ~ 1.1),

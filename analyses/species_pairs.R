@@ -119,7 +119,11 @@ dev.off()
 stopCluster(cl)
 
 # Example visualisation with box_lines.R. Replace variables at will
-# source("box_lines.R"); library(gridExtra)
-# m.line.host <- linebox(df = data,fac='mode',group='pair',var = 'host_spp', box=T)
-# m.line.country <- linebox(df = data,fac='mode',group='pair',var = 'nbr_country', box=T)
-# grid.arrange(m.line.host, m.line.country, nrow=1, ncol=2)
+#source("box_lines.R"); library(gridExtra)
+#m.line.a <- linebox(df = data,fac='mode',group='pair',var = 'host_spp', box=F) + 
+#  ylab("Number of host species") + ylim(c(0,70)) + 
+#  annotate(geom = 'text',x=1.5,y=70,label='p = 0.003')
+#m.line.b <- linebox(df = data,fac='mode',group='pair',var = 'nbr_country', box=F) + 
+#  ylab("Number of countries") + ylim(c(0,100)) + 
+#  annotate(geom = 'text',x=1.5,y=100,label='p = 0.002')
+#grid.arrange(m.line.a, m.line.b, nrow=1, ncol=2)

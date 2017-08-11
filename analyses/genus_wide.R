@@ -115,9 +115,13 @@ for(cutoff in -1:20){
 }
 
 # Example visualisation with box_lines.R. Replace variables at will
-# source("box_lines.R");library(gridExtra)
-# line.mineq <- linebox(df = adata,fac='mode',group='genus',var = 'min_dist_equator', box=T)
-# line.maxeq <- linebox(df = adata,fac='mode',group='genus',var = 'max_dist_equator', box=T)
-# grid.arrange(line.maxeq, line.mineq, nrow=1, ncol=2)
+#source("box_lines.R");library(gridExtra)
+#a.line.a <- linebox(df = adata,fac='mode',group='genus',var = 'host_spp', box=F) + 
+#  ylab("Number of host species") + ylim(c(0,40)) + 
+#  annotate(geom = 'text',x=1.5,y=40,label='p < 0.0001')
+#a.line.b <- linebox(df = adata,fac='mode',group='genus',var = 'nbr_country', box=F) + 
+#  ylab("Number of countries") + ylim(c(0,60)) + 
+#  annotate(geom = 'text',x=1.5,y=60,label='p < 0.0001')
+#grid.arrange(line.maxeq, line.mineq, nrow=1, ncol=2)
 
-
+#grid.arrange(m.line.a, a.line.a, m.line.b, a.line.b, nrow=2, ncol=2)
