@@ -4,19 +4,13 @@
 
 ## Introduction
 
-Comparative analysis of ecological variables between sex and
-asex species of Chaldidoidea.
+Comparative analysis of ecological variables between sexual and asexual (parthenogenetic) species of Chaldidoidea.
 
-The code hosted in this repository was part of a project performed in 2016
-in the Schwander Group under at the University of Lausanne. It is distibuted under the MIT license and you are free to use it as specified, as long as you cite the original publication: Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis. _Evolution letters_, (under review)
+The code hosted in this repository was part of a project performed in 2016 in the Schwander Group at the University of Lausanne. It is distibuted under the MIT license and you are free to use it as specified, as long as you cite the original publication: Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis in haplodiploid arthropods. _Evolution letters_, (under review)
 
-If you plan to use the web scraper on the [Natural History Museum Universal Chalcidoidea Database](http://www.nhm.ac.uk/our-science/data/chalcidoids/), you will need a written authorization from the NHM first.
+If you plan to use the web scraper on the [Natural History Museum Universal Chalcidoidea Database](http://www.nhm.ac.uk/our-science/data/chalcidoids/), please contact the database manager at the NHM for authorization first.
 
-Chalcidoidea is a large superfamily of parasitoid wasps
-containing both sexual and asexual species. This project
-aims to gather informations on different ecological variables
-in closely related species to gain more insight into
-the characteristics frequently associated with asexuality.
+The Hymenoptera superfamily Chalcidoidea is a large superfamily of parasitoid and phytophagous wasps containing both sexual and asexual species. This project aims to gather information on different ecological variables in closely related species to gain more insight into the characteristics associated with asexuality.
 
 Variables studied are:
   * Number of countries
@@ -25,8 +19,8 @@ Variables studied are:
   * Body length
 
 
-Two Datasets are used in the analysis; the smaller one was gathered
-by hand from the literature, while the larger one was build from
+Two Datasets are used in the analysis; the first one was gathered
+by hand from the literature, while the second (the largest) one was build from
 data scraped off the Universal Chalcidoidea Database (UCD), on the [Natural History Museum (NHM) website](http://www.nhm.ac.uk/our-science/data/chalcidoids/). The web_scraper folder contains the program used to retrieve the data.
 ## Dependencies
 
