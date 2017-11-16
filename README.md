@@ -6,7 +6,7 @@
 
 Comparative analysis of ecological variables between sexual and asexual (parthenogenetic) species of Chaldidoidea.
 
-The code hosted in this repository was part of a project performed in 2016 in the Schwander Group at the University of Lausanne. It is distibuted under the MIT license and you are free to use it as specified, as long as you cite the original publication: Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis in haplodiploid arthropods. _Evolution letters_, (under review)
+The code hosted in this repository was part of a project performed in 2016 in the Schwander Group at the University of Lausanne. It is distibuted under the MIT license and you are free to use it as specified, as long as you cite the original publication: [Van der Kooi, C. Matthey-Doret, C. and Schwander, T. Evolution and comparative ecology of parthenogenesis in haplodiploid arthropods. _Evolution letters_, 2017](http://onlinelibrary.wiley.com/doi/10.1002/evl3.30/full)
 
 If you plan to use the web scraper on the [Natural History Museum Universal Chalcidoidea Database](http://www.nhm.ac.uk/our-science/data/chalcidoids/), please contact the database manager at the NHM for authorization first.
 
