@@ -41,7 +41,7 @@ To run the code hosted on this repository, you will first need the following dep
   + [permute](https://cran.r-project.org/web/packages/permute/index.html)  
 
 ## Universal Chalcidoidea Database Web scraper
-
+### :warning: The NHM website architecture has changed and this web scraper is now deprecated. However they now have a built-in browser that allows you to search and download their data without the need for this scraper: https://collections.nhm.org/entomology/catalog-database/
 This Python program allows to automatically retrieve host range, distribution and number of references for a set of desired wasp species on the Universal Chalcidoidea Database, on the London Natural History Museum website. The list of families/Genera need to be specified in the source (main_script.py). Given a set of species, the script will produce the following:
 
 - geo_data.csv: Contains summarized distribution data for each species. This includes:
